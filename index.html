@@ -1,0 +1,155 @@
+---
+layout: default
+---
+
+<!-- Header -->
+<header id="top" class="splash">
+    <div class="text-vertical-center">
+        <img class="img-fluid img-landing" src="img/logoscio.png">
+        <h3>Coming Feb. 11, 2017</h3>
+        <br>
+        <a href="#about" class="btn btn-dark btn-lg">Scroll down for more</a>
+    </div>
+</header>
+
+<!-- About -->
+<section id="about" class="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>RUN BY STANFORD AND UC BERKELEY</h2>
+                <p class="lead">Led by previous national medalists, Golden Gate Science Olympiad represents a collaboration between Stanford University and University of California, Berkeley. The inaugural tournament will be held at the UC Berkeley campus on February 11, 2017, for Division C only. More details coming soon.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Services -->
+<section id="services" class="services bg-primary">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-lg-10 col-lg-offset-1">
+                <h2>BENEFITS</h2>
+                <hr class="small">
+                <div class="row">
+                    <div class="col-md-3 col-sm-6">
+                        <div class="service-item">
+                            <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-flask fa-stack-1x text-primary"></i>
+                        </span>
+                            <h4>
+                                <strong>Quality Events</strong>
+                            </h4>
+                            <!--<p>All events will be written, run, and reviewed by a past national medalist or event supervisor. Coaches will not have to volunteer or write tests for the invitational.</p>-->
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="service-item">
+                            <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-compass fa-stack-1x text-primary"></i>
+                        </span>
+                            <h4>
+                                <strong>Exciting Location</strong>
+                            </h4>
+                            <!--<p>In the heart of Silicon Valley, the invitational lets participants hear from ventures across the Bay Area, capturing the unique and vibrant atmosphere that that comes from California's STEM innovation hub.</p>-->
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="service-item">
+                            <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-building-o fa-stack-1x text-primary"></i>
+                        </span>
+                            <h4>
+                                <strong>Dual School Benefits</strong>
+                            </h4>
+                            <!--<p>The invitational boasts the unique experiences of both Stanford and Berkeley undergraduates - making for double the network size, allowing for quality test writers and proctors with national experience.</p>-->
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="service-item">
+                            <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-usd fa-stack-1x text-primary"></i>
+                        </span>
+                            <h4>
+                                <strong>Scholarships</strong>
+                            </h4>
+                            <!--<p>The tournament schedule will be closely modeled after that of the national tournament, and tournament administrators will work with teams to ensure a smooth process from registration to competition.</p>-->
+                        </div>
+                        <br>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- Call to Action -->
+<aside class="call-to-action bg-primary">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <p class="lead text-center">Coach, captain, or interested party? Stay tuned for updates regarding registration, scheduling, and event logistics.</p>
+                <a href="http://eepurl.com/b0-fnr" class="btn btn-xlg btn-dark">Sign up for updates</a>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <p class="lead text-center">Excited? Curious? Terrified? Let us know at <a href="mailto:goldengatescioly@gmail.com" class="white">goldengatescioly@gmail.com.</a></p>
+        </div>
+    </div>
+</aside>
+</section>
+
+<div id="myCarousel" class="carousel slide">
+<ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+  </ol>
+<!-- Carousel items -->
+<div class="carousel-inner">
+ <div class="item active ad1">
+    <div class="carousel-caption">
+    </div>
+ </div>
+ <div class="item ad2">
+    <div class="carousel-caption">
+     </div>
+ </div>
+</div>
+</div>
+
+<!-- Custom Theme JavaScript -->
+<script>
+// Closes the sidebar menu
+$("#menu-close").click(function(e) {
+    e.preventDefault();
+    $("#sidebar-wrapper").toggleClass("active");
+});
+
+// Opens the sidebar menu
+$("#menu-toggle").click(function(e) {
+    e.preventDefault();
+    $("#sidebar-wrapper").toggleClass("active");
+});
+
+// Scrolls to the selected menu item on the page
+$(function() {
+    $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+            if (target.length) {
+                $('html,body').animate({
+                    scrollTop: target.offset().top
+                }, 1000);
+                return false;
+            }
+        }
+    });
+});
+</script>
+
