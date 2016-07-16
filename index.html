@@ -2,18 +2,17 @@
 layout: default
 ---
 
-<!-- Header -->
-<header id="top" class="splash">
+<div id="top" class="splash">
     <div class="text-vertical-center">
         <img class="img-fluid img-landing" src="img/logoscio.png">
         <h3>Coming Feb. 11, 2017</h3>
         <br>
         <a href="#about" class="btn btn-dark btn-lg">Scroll down for more</a>
     </div>
-</header>
+</div>
 
 <!-- About -->
-<section id="about" class="about">
+<section id="about" class="info">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -103,10 +102,10 @@ layout: default
 </aside>
 </section>
 
-<div id="myCarousel" class="carousel slide">
+<div id="carousel" class="carousel slide">
 <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel" data-slide-to="1"></li>
   </ol>
 <!-- Carousel items -->
 <div class="carousel-inner">
@@ -120,36 +119,4 @@ layout: default
  </div>
 </div>
 </div>
-
-<!-- Custom Theme JavaScript -->
-<script>
-// Closes the sidebar menu
-$("#menu-close").click(function(e) {
-    e.preventDefault();
-    $("#sidebar-wrapper").toggleClass("active");
-});
-
-// Opens the sidebar menu
-$("#menu-toggle").click(function(e) {
-    e.preventDefault();
-    $("#sidebar-wrapper").toggleClass("active");
-});
-
-// Scrolls to the selected menu item on the page
-$(function() {
-    $('a[href*=#]:not([href=#])').click(function() {
-        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
-
-            var target = $(this.hash);
-            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-            if (target.length) {
-                $('html,body').animate({
-                    scrollTop: target.offset().top
-                }, 1000);
-                return false;
-            }
-        }
-    });
-});
-</script>
 
