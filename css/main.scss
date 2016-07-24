@@ -10,11 +10,17 @@ body {
 }
 
 body {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Roboto Condensed", "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .text-vertical-center {
     display: table-cell;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
     vertical-align: middle;
 }
@@ -27,6 +33,10 @@ body {
     background-color: rgba(0,0,0,0.4);
 }
 
+.btn-nobackground {
+    background: none;   
+}
+
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
@@ -37,7 +47,7 @@ body {
 .btn-light {
     border-radius: 0;
     color: #333;
-    background-color: rgb(255,255,255);
+    background-color: rgba(255,255,255, 0.1);
 }
 .btn-xlg {
     padding: 18px 28px;
@@ -52,7 +62,7 @@ body {
 .btn-light:focus,
 .btn-light:active {
     color: #333;
-    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(255,255,255,0.5);
 }
 
 /* Custom Horizontal Rule */
@@ -153,7 +163,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/bay.jpg) no-repeat center center scroll;
+    background: url(../img/bg-1.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -166,10 +176,12 @@ hr.small {
 
 .splash-half {
     height: 40%;
+    background: url(../img/bg-lightorange.jpg) no-repeat bottom center scroll;
 }
 
 .container {
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 /* Services */
@@ -182,14 +194,13 @@ hr.small {
     margin-bottom: 30px;
 }
 
-.lead p {
+.lead > p {
     padding: 12px 12px;
 }
 
 /* Carousel base class */
 .carousel {
   height: 500px;
-  margin-bottom: 60px;
 }
 
 /* Declare heights because of positioning of img element */
@@ -216,7 +227,31 @@ hr.small {
 .img-landing {
     max-width: 100%;
     height: auto;
-    padding: 18px;
+}
+
+.list-inline {
+    display: inline;
+    list-style: none;    
+}
+
+.list-inline > h3 {
+    display: inline;
+    padding-left: 24px;
+    padding-right: 24px;
+    line-height: 48px;
+    white-space: nowrap;
+}
+
+.list-inline > h3 > a {
+    color: inherit;
+}
+
+.list-inline > h3 {
+    border-right: 2px solid black;
+}
+
+.list-inline > h3:last-child {
+    border-right: none;
 }
 
 /* Call to Action */
@@ -239,6 +274,61 @@ a.white {
     color: #FFFFFF;
 }
 
+.info-title {
+    font-size: 72px;
+    color: #FFFFFF;
+}
+
+.person {
+    text-align: center;
+    padding: 48px;
+    height: 850px;
+}
+
+.row-eq-height {
+  display: table;
+}
+
+.person-description {    
+    font-size: 18px;
+}
+
+.person-description > a > i {
+    font-size: 2em;
+    padding-top: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    color: #545454;
+}
+
+.img-circle {
+    object-fit: cover;
+}
+
+.light-bg {
+    background: #F4F4F4;
+}
+
+@media all and (max-width: 750px) {
+    .list-inline > h3 {
+        display: inline;
+        padding-left: 24px;
+        padding-right: 24px;
+        line-height: 2em;
+        white-space: nowrap;
+        font-size: 1.25em;
+    }
+    .list-inline > h3 {
+        border-right: 1px solid black;
+    }
+
+    .list-inline > h3:last-child {
+        border-right: none;
+    }
+    .person-description {    
+        font-size: 14px;
+    }
+}
 
 
 
