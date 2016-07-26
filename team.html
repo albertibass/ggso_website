@@ -4,142 +4,31 @@ title: The Team
 permalink: /team/
 ---
 
-<div class="col-lg-6">
+<div>
+{% for member in site.data.team %}
+
+<div class="col-lg-12">
 	<div class="person">
-		<img class="img-circle" src="../img/Abraham.jpg" width="200" height="200">
-		<h2>Abraham Chen</h2>
-		<h3>Tournament Coordinator</h3>
-		<h4>Business Administration and Computer Science, Berkeley 2019</h4>
+		<img class="img-circle" src="../img/{{ member.pic }}" width="200" height="200">
+		<h2>{{ member.name }}</h2>
+		<h4>{{ member.school }}</h4>
 		<div class="person-description">
-			<p><strong>Bio:</strong> I’m a Mounds View Scioly Alumni, and I’ve been involved in Scioly all through high school. One time my team’s Scioly bus got stranded on a highway for 7 hours, making our trip to a tournament 21+ hours. That’s dedication.</p>
-			<p><strong>Favorite events:</strong> Forensics, Fossils, Experimental Design</p>
-			<p><strong>Fun fact:</strong> I like heights because it scares me.</p>
-			<a href="https://www.linkedin.com/in/abrahamchen1"><i class="fa fa-linkedin"></i></a>
-			<a href="mailto:abraham.chen1@berkeley.edu"><i class="fa fa-envelope"></i></a>
+			<p><strong>Bio:</strong> {{ member.bio }}</p>
+			{% if member.favEvents %}
+				<p><strong>Favorite events:</strong> {{ member.favEvents }}</p>
+			{% endif %}
+			{% if member.funFact %}
+				<p><strong>Fun fact:</strong> {{ member.funFact }}</p>
+			{% endif %}
+			{% if member.linkedin %}
+				<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>
+			{% endif %}
+			{% if member.email %}
+				<a href="mailto:{{ member.email }}"><i class="fa fa-envelope"></i></a>
+			{% endif %}
 		</div>
 	</div>
 </div>
 
-<div class="col-lg-6">
-	<div class="person">
-		<img class="img-circle" src="../img/Alex.jpg" width="200" height="200">
-		<h2>Alex Lu</h2>
-		<h3>Tournament Coordinator</h3>
-		<h4>Bioengineering, Stanford 2019</h4>
-		<div class="person-description">
-			<p><strong>Bio:</strong> Hi! I’m Alex! I competed in Science Olympiad for three years at Palo Alto High School, and while I don’t have a decreasing series of numbers as elegant as Ryan’s, I’ve experienced a variety of study/lab events at Regionals, States, and Nationals. Honestly I thought the 2015 season as one of Paly’s captains would be my last year involved with SciOly, like ever, but I guess I’m not getting away from this one! For anyone at Nationals in 2013, we were that dorky team that had dyed our hair (all of it) green.
-</p>
-			<p><strong>Fun fact:</strong>This picture is from States 2015 because my high school plans prom on the same day.</p>
-			<a href="http://bit.ly/IqT6zt"><i class="fa fa-linkedin"></i></a>
-			<a href="mailto:alu2@stanford.edu"><i class="fa fa-envelope"></i></a>
-		</div>
-	</div>
-</div>
-
-<div class="col-lg-6">
-	<div class="person">
-		<img class="img-circle" src="../img/Denis.jpg" width="200" height="200">
-		<h2>Denis Li</h2>
-		<h3>Tournament Coordinator</h3>
-		<h4>Electrical Engineering and Computer Science, Berkeley 2019</h4>
-		<div class="person-description">
-			<p><strong>Bio:</strong> I've been involved with Science Olympiad at Mounds View since 2012. I have attended 3 nationals (captaining a team with Jon for one of them). My favorite events are It’s About Time, Technical Problem Solving and Compound Machines. Science Olympiad was by far my favorite thing that I did in High School and I hope our tournament will be a blast for everyone attending! 
-</p>
-			<p><strong>Fun fact:</strong> I’ve never been to prom because NSO was always on the same weekend...</p>
-			<a href="https://www.linkedin.com/in/denisli"><i class="fa fa-linkedin"></i></a>
-			<a href="mailto:denis.li@berkeley.edu"><i class="fa fa-envelope"></i></a>
-		</div>
-	</div>
-</div>
-
-<div class="col-lg-6">
-	<div class="person">
-		<img class="img-circle" src="../img/" width="200" height="200">
-		<h2>Dhruv Puri</h2>
-		<h3>Tournament Coordinator</h3>
-		<h4>Molecular and Cellular Biology, Berkeley 2019</h4>
-		<div class="person-description">
-			<p><strong>Bio:</strong> Hi, my name is Dhruv Puri and I’m a LASA Scioly Alum. I’ve been involved in Science Olympiad  since I was a freshman in high school.</p>
-			<p><strong>Favorite events:</strong> Anatomy and Physiology, Protein Modeling, Geologic Mapping</p>
-			<p><strong>Fun fact:</strong>In my free time, I teach Salsa dancing  and DJ on the morning radio.</p>
-			<a href="https://www.linkedin.com/in/dhruvpuri"><i class="fa fa-linkedin"></i></a>
-			<a href="mailto:dhruvpuri@berkeley.edu"><i class="fa fa-envelope"></i></a>
-		</div>
-	</div>
-</div>
-
-<div class="col-lg-6">
-	<div class="person">
-		<img class="img-circle" src="../img/" width="200" height="200">
-		<h2>Garrick Fernandez</h2>
-		<h3>Director of Design</h3>
-		<h4>Stanford 2019</h4>
-		<div class="person-description">
-			<p><strong>Bio:</strong> Hey, I’m Garrick, and I’m currently a sophomore at Stanford University interested in studying computer science, product design, or anything, really. In my spare time I jam on the ukelele, go on reddit, work as a theatre technician, and dabble in graphic design. I am excited to be working with the team at Golden Gate to inspire new generations of high school students to get excited about STEM!
-</p>
-			<p><strong>Favorite events:</strong> Anatomy and Physiology, Protein Modeling, Geologic Mapping</p>
-			<a href="mailto:fernandez@stanford.edu"><i class="fa fa-envelope"></i></a>
-		</div>
-	</div>
-</div>
-
-<div class="col-lg-6">
-	<div class="person">
-		<img class="img-circle" src="../img/" width="200" height="200">
-		<h2>Jonathan Wang</h2>
-		<h3>Tournament Coordinator</h3>
-		<h4>Computational Biology, Stanford 2019</h4>
-		<div class="person-description">
-			<p><strong>Bio:</strong> I’m a Mounds View high school alumni who has been to nationals since my freshman year. Scioly has played an influential role in my dedication towards impacting society through health and tech! I am looking forward to sharing my Science Olympiad experience with current scioly competitors by helping to run invitationals across the bay area, hoping to inspire and enrich STEM education for students nationwide.
-</p>
-			<p><strong>Favorite events:</strong> Mission Possible, Chemistry Lab, Sounds of Music, Designer Genes</p>
-			<a href="https://www.linkedin.com/in/jonxwang"><i class="fa fa-linkedin"></i></a>
-			<a href="mailto:jonxwang@stanford.edu"><i class="fa fa-envelope"></i></a>
-		</div>
-	</div>
-</div>
-
-<div class="col-lg-6">
-	<div class="person">
-		<img class="img-circle" src="../img/Neil.jpg" width="200" height="200">
-		<h2>Neil Patil</h2>
-		<h3>Website and Technology Design</h3>
-		<h4>Computer Science, UT Austin 2020</h4>
-		<div class="person-description">
-			<p><strong>Bio:</strong> Hello! I'm a LASA alum and was captain of LASA's Science Olympiad team during 2015 and 2016. I did build events, which means that most of my SciO memories involve soldering in a hotel room bathtub, getting gliders stuck in chandeliers, or getting kicked out of Wal-Mart at 1 AM (sometimes you gotta test Scrambler the night before...) SciO's been a pretty big part of my life (in both the good and bad ways), so I'm glad to be helping run this tournament and improve it for all of y'all.</p>
-			<p><strong>Favorite events:</strong> Scrambler, Mission Possible</p>
-			<p><strong>Fun fact:</strong> When I wasn't doing SciO, I was programming. Some of you may remember <a href="https://lasactf.com/">LASACTF</a>, something I co-created.</p>
-			<a href="https://www.linkedin.com/in/patil215"><i class="fa fa-linkedin"></i></a>
-			<a href="mailto:neilpatil215@gmail.com"><i class="fa fa-envelope"></i></a>
-		</div>
-	</div>
-</div>
-
-<div class="col-lg-6">
-	<div class="person">
-		<img class="img-circle" src="../img/" width="200" height="200">
-		<h2>Rohan Chakraborty</h2>
-		<h3>Tournament Coordinator</h3>
-		<h4>Chemical Engineering, Berkeley 2019</h4>
-		<div class="person-description">
-			<p><strong>Bio:</strong> Hi, my name is Rohan Chakraborty, and I’m an alum of Seven Lakes High School and Beckendorff Junior High in Katy, Texas. Throughout my Science Olympiad experience, I’ve competed extensively in building events such as Gravity Vehicle and Scrambler as well in as lab events like Chemistry Lab and Forensics. With my experience at the national level, I’m looking forward to creating an unforgettable experience for Science Olympians in the beautiful Bay Area! 
-			<p><strong>Favorite events:</strong> Mission Possible, Chemistry Lab, Sounds of Music, Designer Genes</p>
-			<p><strong>Fun Fact:</strong> I love anything and everything Drake.</p>
-			<a href="https://www.linkedin.com/in/rohan-chakraborty-394313112"><i class="fa fa-linkedin"></i></a>
-			<a href="rohanchak@berkeley.edu"><i class="fa fa-envelope"></i></a>
-		</div>
-	</div>
-</div>
-
-<div class="col-lg-6">
-	<div class="person">
-		<img class="img-circle" src="../img/Ryan.jpg" width="200" height="200">
-		<h2>Ryan Cohen</h2>
-		<h3>Tournament Coordinator</h3>
-		<h4>Mechanical Engineering, Stanford 2019</h4>
-		<div class="person-description">
-			<p><strong>Bio:</strong> Hey, I’m Ryan! I’ve competed in Science Olympiad for 7 years, done build events for 6, gone to state for 5, coached a team for 4, proctored B division for 3, captained a team for 2, and supervised an A division event for 1 year. I’m from Mira Loma High School in Sacramento, where I’ve had the unparalleled pleasure of competing repeatedly and unwillingly in Mission Possible, as well as less-hellish events including Circuit Lab, MagLev, Compound Machines, and TPS. I also hold the incredible honor of once placing absolute dead last at Nationals. 60th place in Junkyard challenge, 2011. Shoutout to my coaches for never letting me forget it!</p>
-			<a href="rrcohen@stanford.edu"><i class="fa fa-envelope"></i></a>
-		</div>
-	</div>
+{% endfor %}
 </div>

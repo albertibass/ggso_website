@@ -1,0 +1,78 @@
+- name: Abraham Chen
+  school: Business Administration and Computer Science, Berkeley 2019
+  bio: I’m a Mounds View Scioly Alumni, and I’ve been involved in Scioly all through high school. One time my team’s Scioly bus got stranded on a highway for 7 hours, making our trip to a tournament 21+ hours. That’s dedication.
+  favEvents: Forensics, Fossils, Experimental Design
+  funFact: I like heights because it scares me.
+  linkedin: https://www.linkedin.com/in/abrahamchen1
+  email: abraham.chen1@berkeley.edu
+
+- name: Alex Lu
+  school: Bioengineering, Stanford 2019
+  bio: Hi! I’m Alex! I competed in Science Olympiad for three years at Palo Alto High School, and while I don’t have a decreasing series of numbers as elegant as Ryan’s, I’ve experienced a variety of study/lab events at Regionals, States, and Nationals. Honestly I thought the 2015 season as one of Paly’s captains would be my last year involved with SciOly, like ever, but I guess I’m not getting away from this one! For anyone at Nationals in 2013, we were that dorky team that had dyed our hair (all of it) green.
+  favEvents: 
+  funFact: This picture is from States 2015 because my high school plans prom on the same day.
+  linkedin: http://bit.ly/IqT6zt
+  email: alu2@stanford.edu
+
+- name: Denis Li
+  school: Electrical Engineering and Computer Science, Berkeley 2019
+  bio: I've been involved with Science Olympiad at Mounds View since 2012. I have attended 3 nationals (captaining a team with Jon for one of them). My favorite events are It’s About Time, Technical Problem Solving and Compound Machines. Science Olympiad was by far my favorite thing that I did in High School and I hope our tournament will be a blast for everyone attending!
+  favEvents: 
+  funFact: I’ve never been to prom because NSO was always on the same weekend...
+  linkedin: https://www.linkedin.com/in/denisli
+  email: denis.li@berkeley.edu
+  pic: Denis.jpg
+
+- name: Dhruv Puri
+  school: Molecular and Cellular Biology, Berkeley 2019
+  bio: Hi, my name is Dhruv Puri and I’m a LASA Scioly Alum. I’ve been involved in Science Olympiad  since I was a freshman in high school.
+  favEvents: Anatomy and Physiology, Protein Modeling, Geologic Mapping
+  funFact: In my free time, I teach Salsa dancing  and DJ on the morning radio.
+  linkedin: https://www.linkedin.com/in/dhruvpuri
+  email: dhruvpuri@berkeley.edu
+  pic: Dhruv.jpg
+
+- name: Garrick Fernandez
+  school: Stanford 2019
+  bio: Hey, I’m Garrick, and I’m currently a sophomore at Stanford University interested in studying computer science, product design, or anything, really. In my spare time I jam on the ukelele, go on reddit, work as a theatre technician, and dabble in graphic design. I am excited to be working with the team at Golden Gate to inspire new generations of high school students to get excited about STEM!
+  favEvents: Anatomy and Physiology, Protein Modeling, Geologic Mapping
+  funFact: 
+  linkedin: 
+  email: fernandez@stanford.edu
+  pic: Garrick.jpg
+
+- name: Jonathan Wang
+  school: Computational Biology, Stanford 2019
+  bio: I’m a Mounds View high school alumni who has been to nationals since my freshman year. Scioly has played an influential role in my dedication towards impacting society through health and tech! I am looking forward to sharing my Science Olympiad experience with current scioly competitors by helping to run invitationals across the bay area, hoping to inspire and enrich STEM education for students nationwide.
+  favEvents: Mission Possible, Chemistry Lab, Sounds of Music, Designer Genes
+  funFact: 
+  linkedin: https://www.linkedin.com/in/jonxwang
+  email: jonxwang@stanford.edu
+  pic: Jonathan.jpg
+
+- name: Neil Patil
+  school: Computer Science, UT Austin 2020
+  bio: Hello! I'm a LASA alum and was captain of LASA's Science Olympiad team during 2015 and 2016. I did build events, which means that most of my SciO memories involve soldering in a hotel room bathtub, getting gliders stuck in chandeliers, or getting kicked out of Wal-Mart at 1 AM (sometimes you gotta test Scrambler the night before...) SciO's been a pretty big part of my life (in both the good and bad ways), so I'm glad to be helping run this tournament and improve it for all of y'all.
+  favEvents: Scrambler, Mission Possible
+  funFact: When I wasn't doing SciO, I was programming. Some of you may remember LASACTF, something I co-created.
+  linkedin: https://www.linkedin.com/in/patil215
+  email: neilpatil215@gmail.com
+  pic: Neil.jpg
+
+- name: Rohan Chakraborty
+  school: Chemical Engineering, Berkeley 2019
+  bio: Hi, my name is Rohan Chakraborty, and I’m an alum of Seven Lakes High School and Beckendorff Junior High in Katy, Texas. Throughout my Science Olympiad experience, I’ve competed extensively in building events such as Gravity Vehicle and Scrambler as well in as lab events like Chemistry Lab and Forensics. With my experience at the national level, I’m looking forward to creating an unforgettable experience for Science Olympians in the beautiful Bay Area! 
+  favEvents: Mission Possible, Chemistry Lab, Sounds of Music, Designer Genes
+  funFact: I love anything and everything Drake.
+  linkedin: https://www.linkedin.com/in/rohan-chakraborty-394313112
+  email: rohanchak@berkeley.edu
+  pic: Rohan.jpg
+
+- name: Ryan Cohen
+  school: Mechanical Engineering, Stanford 2019
+  bio: Hey, I’m Ryan! I’ve competed in Science Olympiad for 7 years, done build events for 6, gone to state for 5, coached a team for 4, proctored B division for 3, captained a team for 2, and supervised an A division event for 1 year. I’m from Mira Loma High School in Sacramento, where I’ve had the unparalleled pleasure of competing repeatedly and unwillingly in Mission Possible, as well as less-hellish events including Circuit Lab, MagLev, Compound Machines, and TPS. I also hold the incredible honor of once placing absolute dead last at Nationals. 60th place in Junkyard challenge, 2011. Shoutout to my coaches for never letting me forget it!
+  favEvents: 
+  funFact: 
+  linkedin: 
+  email: rrcohen@stanford.edu
+  pic: Ryan.jpg
