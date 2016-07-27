@@ -279,18 +279,13 @@ a.white {
     color: #FFFFFF;
 }
 
-.person {
-    text-align: center;
-    padding: 48px;
-    height: 850px;
-}
-
 .row-eq-height {
   display: table;
 }
 
 .person-description {    
     font-size: 18px;
+    margin-bottom: 72px;
 }
 
 .person-description > a > i {
@@ -299,6 +294,16 @@ a.white {
     padding-left: 12px;
     padding-right: 12px;
     color: #545454;
+}
+
+.person {
+    padding-top: 6px;
+}
+
+.imagecontainer {
+    text-align: center;
+    margin-top: 56px;
+    margin-bottom: 36px;
 }
 
 .img-circle {

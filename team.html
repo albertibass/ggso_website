@@ -7,9 +7,11 @@ permalink: /team/
 <div>
 {% for member in site.data.team %}
 
-<div class="col-lg-12">
-	<div class="person">
-		<img class="img-circle" src="../img/{{ member.pic }}" width="200" height="200">
+<div class="col-lg-12 person">
+	<div class="col-md-4 imagecontainer">
+		<img class="img-circle" src="../img/team/{{ member.pic }}" width="200" height="200">
+	</div>
+	<div class="col-md-8">
 		<h2>{{ member.name }}</h2>
 		<h4>{{ member.school }}</h4>
 		<div class="person-description">
