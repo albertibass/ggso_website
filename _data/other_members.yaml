@@ -1,0 +1,19 @@
+- name: Garrick Fernandez
+  school: Stanford 2019
+  bio: Hey, I’m Garrick, and I’m currently a sophomore at Stanford University interested in studying computer science, product design, or anything, really. In my spare time I jam on the ukelele, go on reddit, work as a theatre technician, and dabble in graphic design. I am excited to be working with the team at Golden Gate to inspire new generations of high school students to get excited about STEM!
+  favEvents: Anatomy and Physiology, Protein Modeling, Geologic Mapping
+  funFact: 
+  linkedin: 
+  email: fernandez@stanford.edu
+  pic: Garrick.jpg
+  role: Director of Design
+
+- name: Neil Patil
+  school: Computer Science, UT Austin 2020
+  bio: Hello! I'm a LASA alum and was captain of LASA's Science Olympiad team during 2015 and 2016. I did build events, which means that most of my SciO memories involve soldering in a hotel room bathtub, getting gliders stuck in chandeliers, or getting kicked out of Wal-Mart at 1 AM (sometimes you gotta test Scrambler the night before...) SciO's been a pretty big part of my life (in both the good and bad ways), so I'm glad to be helping run this tournament and improve it for all of y'all.
+  favEvents: Scrambler, Mission Possible
+  funFact: When I wasn't doing SciO, I was programming. Some of you may remember LASACTF, something I co-created.
+  linkedin: https://www.linkedin.com/in/patil215
+  email: neilpatil215@gmail.com
+  pic: Neil.jpg
+  role: Website and Technology Development

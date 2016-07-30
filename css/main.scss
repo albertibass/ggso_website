@@ -98,11 +98,6 @@ hr.small {
     min-height: 50px;
 }*/
 
-.navbar-brand {
-  background: url(../img/logo.png) center / contain no-repeat;
-  width: 200px;
-}
-
 /* Side Menu */
 #sidebar-wrapper {
     z-index: 1000;
@@ -194,7 +189,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/bg-1.jpg) no-repeat center center scroll;
+    background: url(../img/backgrounds/bg-1.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -206,8 +201,8 @@ hr.small {
 }
 
 .splash-half {
-    height: 40%;
-    background: url(../img/bg-lightorange.jpg) no-repeat bottom center scroll;
+    height: 30%;
+    background: url(../img/backgrounds/bg-lightorange.jpg) no-repeat bottom center scroll;
 }
 
 .container {
@@ -249,10 +244,10 @@ hr.small {
 }
 
 .ad1 {
-    background: url(../img/berkeley.jpg) no-repeat center center scroll; 
+    background: url(../img/backgrounds/berkeley.jpg) no-repeat center center scroll; 
 }
 .ad2 {
-    background: url(../img/stanford.jpg) no-repeat center center scroll; 
+    background: url(../img/backgrounds/stanford.jpg) no-repeat center center scroll; 
 }
 
 .img-landing {
@@ -315,12 +310,12 @@ a.white {
 }
 
 .person-description {    
-    font-size: 18px;
-    margin-bottom: 72px;
+    font-size: 16px;
+    margin-bottom: 50px;
 }
 
 .person-description > a > i {
-    font-size: 2em;
+    font-size: 1.8em;
     padding-top: 6px;
     padding-left: 12px;
     padding-right: 12px;
@@ -365,54 +360,3 @@ a.white {
         font-size: 14px;
     }
 }
-
-
-
-/*
-
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
-
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;*/

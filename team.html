@@ -5,15 +5,49 @@ permalink: /team/
 ---
 
 <div>
-{% for member in site.data.team %}
+<div class="text-center" style="margin-bottom: 36px;"><h2>Tournament Coordinators</h2></div>
+
+{% for member in site.data.coordinators %}
 
 <div class="col-lg-12 person">
 	<div class="col-md-4 imagecontainer">
 		<img class="img-circle" src="../img/team/{{ member.pic }}" width="200" height="200">
 	</div>
 	<div class="col-md-8">
-		<h2>{{ member.name }}</h2>
+		<h3>{{ member.name }}</h3>
 		<h4>{{ member.school }}</h4>
+		<div class="person-description">
+			<p><strong>Bio:</strong> {{ member.bio }}</p>
+			{% if member.favEvents %}
+				<p><strong>Favorite events:</strong> {{ member.favEvents }}</p>
+			{% endif %}
+			{% if member.funFact %}
+				<p><strong>Fun fact:</strong> {{ member.funFact }}</p>
+			{% endif %}
+			{% if member.linkedin %}
+				<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>
+			{% endif %}
+			{% if member.email %}
+				<a href="mailto:{{ member.email }}"><i class="fa fa-envelope"></i></a>
+			{% endif %}
+		</div>
+	</div>
+</div>
+
+{% endfor %}
+
+<div class="text-center" style="margin-bottom: 36px;"><h2>Special Thanks To</h2></div>
+
+{% for member in site.data.other_members %}
+
+<div class="col-lg-12 person">
+	<div class="col-md-4 imagecontainer">
+		<img class="img-circle" src="../img/team/{{ member.pic }}" width="200" height="200">
+	</div>
+	<div class="col-md-8">
+		<h3>{{ member.name }}</h3>
+		<h4>{{ member.school }}</h4>
+		<h4>{{ member.role }}</h4>
 		<div class="person-description">
 			<p><strong>Bio:</strong> {{ member.bio }}</p>
 			{% if member.favEvents %}
