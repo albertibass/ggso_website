@@ -71,8 +71,39 @@ hr.small {
     max-width: 100px;
 }
 
-/* Side Menu */
+.navbar .navbar-nav {
+  display: inline-block;
+  text-align: center;
+  float: none;
+  vertical-align: top;
+}
 
+.brandimg {
+    min-height: 22px;
+    height: 22px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.navbar-collapse {
+    text-align: center;
+}
+
+/*.navbar, .navbar-nav {
+    height: 50px;
+    line-height: 50px;
+    padding-top: 0;
+    min-height: 50px;
+}*/
+
+.navbar-brand {
+  background: url(../img/logo.png) center / contain no-repeat;
+  width: 200px;
+}
+
+/* Side Menu */
 #sidebar-wrapper {
     z-index: 1000;
     position: fixed;
