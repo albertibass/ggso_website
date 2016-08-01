@@ -1,47 +1,16 @@
+<div class="container">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4><strong>Golden Gate Science Olympiad</strong>
+            </h4>
+            <ul class="list-unstyled">
+                <p>Questions? Interested in sponsoring? Joining us as a student at Stanford or UC Berkeley next year? Shoot us an email to get involved with our team!</p>
+                <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                </li>
+            </ul>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-10 col-lg-offset-1 text-center">
-                <h4><strong>Golden Gate Science Olympiad</strong>
-                </h4>
-                <ul class="list-unstyled">
-                    <p>Questions? Interested in sponsoring? Joining us as a student at Stanford or UC Berkeley next year? Shoot us an email to get involved with our team!</p>
-                    <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-                    </li>
-                </ul>
-
-                <ul>{{ site.description }}
-              
-            </div>
+            <ul>{{ site.description }}
+          
         </div>
     </div>
-
-<script>
-  $("#menu-close").click(function(e) {
-      e.preventDefault();
-      $("#sidebar-wrapper").toggleClass("active");
-  });
-
-  // Opens the sidebar menu
-  $("#menu-toggle").click(function(e) {
-      e.preventDefault();
-      $("#sidebar-wrapper").toggleClass("active");
-  });
-
-  // Scrolls to the selected menu item on the page
-  $(function() {
-      $('a[href*=#]:not([href=#])').click(function() {
-          if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
-
-              var target = $(this.hash);
-              target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-              if (target.length) {
-                  $('html,body').animate({
-                      scrollTop: target.offset().top
-                  }, 1000);
-                  return false;
-              }
-          }
-      });
-  });
-  </script>
+</div>

@@ -1,11 +1,9 @@
-# Site settings
 title: Golden Gate Science Olympiad Invitational - UC Berkeley and Stanford University
 email: goldengatescioly@gmail.com
 description: >
   Science Olympiad invitational run by UC Berkeley and Stanford University. Coming February 2017.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://goldengateso.com" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://goldengateso.com"
 github_username:  patil215
 
-# Build settings
 markdown: kramdown
