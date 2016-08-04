@@ -6,6 +6,8 @@ permalink: /announcements/
 
 {% for post in site.posts %}
 
+<h3>{{ post.date | date: '%B %d, %Y' }}</h3>
+
 {{ post.content }}
 
 {% endfor %}
