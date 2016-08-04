@@ -4,7 +4,7 @@ Golden Gate Invitational Science Olympiad Website
 
 1. *Preamble:* This Agreement, signed on Aug 1, 2016 (hereinafter: Effective Date) governs the relationship between Golden Gate Science Olympiad, a Business Entity, (hereinafter: Licensee) and Neil Patil, a private person whose principal place of business is 11004 Pebble Garden Lane (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using Golden Gate Invitational Website (hereinafter: The Software) created and owned by Licensor, as detailed herein.
 
-2. *License Grant:* Licensor hereby grants Licensee a Personal, Non-assignable & non-transferable, Pepetual, Non-commercial, Including the rights to create but not distribute derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal restrictions set forth in 3rd party software used while running Software.
+2. *License Grant:* Licensor hereby grants Licensee a Personal, Non-assignable & non-transferable, Perpetual, Non-commercial, Including the rights to create but not distribute derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal restrictions set forth in 3rd party software used while running Software.
 
 2.1 Limited: Licensee may use Software for the purpose of:
 
