@@ -4,4 +4,8 @@ title: Announcements
 permalink: /announcements/
 ---
 
-# Stay tuned for announcements.
+{% for post in site.posts %}
+
+{{ post.content }}
+
+{% endfor %}
