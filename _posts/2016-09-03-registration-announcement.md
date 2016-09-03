@@ -1,4 +1,12 @@
-# Welcome!
+---
+layout: info
+title: Registration Announcement
+permalink: /registration/
+---
+
+# Registration
+
+Welcome!
 
 The Golden Gate Science Olympiad invitational is thrilled to open registration on **September 20th at 12:00pm PDT** (noon) for the inaugural Division C tournament to be hosted February 11th, 2017 at the UC Berkeley campus! Please review our [tournament policies](/details/) before registering. Only team coaches will be allowed to register their teams.
 

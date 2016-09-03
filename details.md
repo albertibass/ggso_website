@@ -20,6 +20,9 @@ permalink: /details/
 
 * All participating students must fill out several waivers and liability releases, which will be distributed to participating teams shortly after registration. 
 
+<br>
+<br>
+
 # Competition Day Policies
 
 * No team or team coach will be asked to write a test or supervise an event. All events will be run by Science Olympiad alumni, and all tests and answer keys will be made available to teams after the competition.
