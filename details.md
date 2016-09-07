@@ -8,7 +8,7 @@ permalink: /details/
 
 * Schools must be registered with their home state Science Olympiad organization (and must have paid all applicable state and national fees) prior to competing in the Golden Gate Science Olympiad Invitational Tournament.
 
-* Teams’ places in the tournament are reserved in the order that they submit the online registration form, provided that the registration fee (paid by check) is received by Golden Gate SciOly by October 18, 2016.  Teams whose payment is not received by October 18 will forfeit their place to a team on the waitlist.  Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
+* Teams’ places in the tournament are reserved in the order that they submit the online registration form, provided that the registration fee (paid by check) is received by Golden Gate Science Olympiad by October 18, 2016.  Teams whose payment is not received by October 18 will forfeit their place to a team on the waitlist.  Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
 
 * Only the first 12 schools to register two teams will be guaranteed a reserved spot for both teams. Schools which register later may still register two teams, but only one spot will be reserved.  The second team will be placed on a waitlist.
 

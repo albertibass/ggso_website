@@ -18,7 +18,7 @@ In order to allow more schools to participate, only the first **12 schools to re
 
 Please note that, due to high demand, middle schools (B division) will **not** be allowed to register for this tournament.
 
-The team registration fee is $150, and should be paid via check made out to “Golden Gate SciOly” and mailed to:
+The team registration fee is $150, and should be paid via check made out to “Golden Gate Science Olympiad” and mailed to:
 
 <p align="center">
 531 Lasuen Ave<br>
