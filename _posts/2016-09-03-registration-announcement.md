@@ -6,7 +6,7 @@ permalink: /registration/
 
 # Registration
 
-Registration sign up link: https://stanforduniversity.qualtrics.com/SE/?SID=SV_a9nZiuAE5E2mGl7
+[Click here to register](https://stanforduniversity.qualtrics.com/SE/?SID=SV_a9nZiuAE5E2mGl7)
 
 Welcome!
 
