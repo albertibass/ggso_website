@@ -4,7 +4,9 @@ title: Planning Your Stay
 permalink: /planning/
 ---
 
-# Hotel Information (Mention Golden Gate Science Olympiad when booking)
+# Hotel Information 
+
+#### (Mention Golden Gate Science Olympiad when booking)
 
 ### [The Marriott Courtyard](http://www.marriott.com/hotels/travel/oakmv-courtyard-oakland-emeryville/)
 **Address**: 5555 Shellmound St, Emeryville, CA 94608 ([map](https://www.google.com/maps/place/5555+Shellmound+St,+Emeryville,+CA+94608/))  
