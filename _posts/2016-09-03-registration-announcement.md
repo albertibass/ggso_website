@@ -23,7 +23,7 @@ Please note that, due to high demand, middle schools (B division) will **not** b
 The team registration fee is $150, and should be paid via check made out to “Golden Gate Science Olympiad” and mailed to:
 
 <p align="center">
-531 Lasuen Ave<br>
+531 Lasuen Mall<br>
 P.O. Box 13500<br>
 Stanford, CA 94309
 </p>
