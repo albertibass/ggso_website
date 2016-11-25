@@ -2,11 +2,10 @@
   school: Stanford 2019
   bio: Hey, I’m Garrick, and I’m currently a sophomore at Stanford University interested in studying computer science, product design, or anything, really. In my spare time I jam on the ukelele, go on reddit, work as a theatre technician, and dabble in graphic design. I am excited to be working with the team at Golden Gate to inspire new generations of high school students to get excited about STEM!
   favEvents: Anatomy and Physiology, Protein Modeling, Geologic Mapping
-  funFact: 
-  linkedin: 
   email: fernandez@stanford.edu
   pic: Garrick.jpg
   role: Director of Design
+  id: garrick
 
 - name: Neil Patil
   school: Computer Science, UT Austin 2020
@@ -17,9 +16,85 @@
   email: neilpatil215@gmail.com
   pic: Neil.jpg
   role: Website and Technology Development
+  id: neil
+
+- name: Becca Nelson
+  school: Stanford 2020
+  bio: I'm an Adlai E. Stevenson High School and Daniel Wright Jr. High scioly alum who did Science Olympiad for 6 years. I competed at 5 Nationals, starting in 8th grade. Science Olympiad influenced me to pursue a career in ecology, so I'm excited to help out as an alum! 
+  favEvents: Invasive Species, Forestry, Ornithology, Fossils, Hydrogeology
+  pic: Becca.jpg
+  funFact: I'm an avid birder!
+  role: Event Supervisor for Invasive Species and Evaluation Committee
+  id: becca
+
+- name: Grant Wang
+  school: Computer Science and Cognitive Science, Berkeley 2020
+  bio: Hello world, I’m Grant, former SciOly captain at Valencia High! My SciOly adventure began at Kraemer Middle, and I gradually found a passion for build events at Valencia High (competed 6 years). I still remember the long hours I spent soldering wires, gluing bridge joints with impossible precision, and getting wright stuff planes stuck in the ceiling. I have also helped coach the Kraemer team for 4 years and helped coordinate the CA Inland Empire Regionals and invitationals in the OC region. Overall, my SciOly experience has been a blast and I look forward to continuing to work with students in the community!
+  favEvents: Robot Arm, Wright Stuff, Bridge Building
+  pic: Grant.jpg
+  funFact: I love solving Rubik’s Cubes and writing/blogging!
+  linkedin: http://linkedin.com/in/grant-w-043159103
+  role: Evaluation Committee
+  id: grant
+
+- name: Sarah Gurev
+  school: Stanford 2020
+  bio: Hi, I’m Sarah Gurev, and I'm a Mira Loma and Churchill Scioly alum. I've had the opportunity to attend Nationals five times, and the distinct pleasure of competing in every single water event each time (Awesome Aquifers will always hold a special place in my heart). My favorite event, however, is Protein Modeling. Science Olympiad was such a large part of my life, so I'm grateful it's not quite over yet. I'm really excited to help bring this tournament to life!
+  favEvents: Protein Modeling
+  pic: Sarah.jpg
+  role: Event Supervisor for Hydrogeology and Evaluation Committee
+  id: sarah
+
+- name: Rohan Konnur
+  school: Electrical Engineering and Computer Science, Berkeley 2019
+  bio: Hi! Over the course of 6 years, I competed for Winston Churchill Middle School and Mira Loma High School in Sacramento, CA. In those years, Science Olympiad became the most important influence on my collegiate and career choices leading me to where I am today. I hope to contribute to Science Olympiad to further impose the competition's positive influence on other students to help them discover their passions.
+  favEvents: Fossils, Technical Problem Solving, Remote Sensing
+  role: Event Supervisor for Remote Sensing and Evaluation Committee
+  pic: Rohan.jpg
+  id: rohan
+
+- name: Amber Feng
+  school: Legal Studies and Business, Berkeley 2020
+  bio: I am an undergraduate at UC Berkeley and intends to double major in Legal Studies and Business. I have participated in Science Olympiad for 8 years and is excited to continue being involved with the competition. I hope to eventually work in women's sports.
+  role: Evaluation Committee
+  pic: Amber.jpg
+  id: amber
+
+- name: Alexis Hidalgo
+  school: Environmental Science, Berkeley 2019
+  bio: Hi I’m Alexis! I’m an alum of School For Advanced Studies in Florida where I formed and led two Science Olympiad teams. I competed in Scioly for 5 years and loved / stressed over every moment of it! I can’t wait to be a part of it all over again and help out this year!
+  favEvents: Forensics, Chemistry Lab, Helicopters
+  role: Evaluation Committee
+  pic: Alexis.png
+  id: alexis
+
+- name: Kevin Tien
+  school: Human Biology and Computer Science, Stanford 2020
+  bio: I’m a current freshman at Stanford University with plans to major in Human Biology and minor in Computer Science. I’m originally from Louisville, Kentucky, where I helped captain DuPont Manual High School’s Science Olympiad team. Outside of academics, I enjoy volunteering for Cardinal Free Clinics, playing for Stanford’s Club Ultimate Frisbee Team, and searching for nearby boba tea cafés.
+  role: Evaluation Committee
+  pic: Kevin.png
+  id: kevin
+
+- name: Christopher Lung
+  school: Materials Science and Engineering, Berkeley 2020
+  bio: I’m a current freshman at Stanford University with plans to major in Human Biology and minor in Computer Science. I’m originally from Louisville, Kentucky, where I helped captain DuPont Manual High School’s Science Olympiad team. Outside of academics, I enjoy volunteering for Cardinal Free Clinics, playing for Stanford’s Club Ultimate Frisbee Team, and searching for nearby boba tea cafés.
+  favEvents: Wright Stuff, Robot Arm, Dynamic Planet, Hydrogeology, Elastic Launch Glider
+  funFact: I play club frisbee for UC Berkeley, and I'm always willing to throw!
+  role: Evaluation Committee
+  pic: Chris.jpg
+  id: christopher
+
+- name: Jaymo Kang
+  school: Material Science and Engineering & Electrical Engineering and Computer Science, Berkeley 2019
+  bio: Hi, I'm Jaymo, a 2nd-year MSE and EECS major at Berkeley. Throughout my high school science olympiad career, I competed in materials science, maglev, compound machines, chemistry, and forensics. At Berkeley, I'm involved with the Materials Science and Engineering Association, EE course staff, and IM sports. I'm really excited to see everyone have a great time at the competition!
+  role: Evaluation Committee
+  pic: Jaymo.png
+  linkedin: https://linkedin.com/in/jaymokang
+  id: Jaymo
 
 - name: Dusty Schroeder
   school: Assistant Professor of Geophysics, Stanford University
   bio: Dusty Schroeder is an assistant professor of geophysics in the School of Earth, Energy, and Environmental Sciences at Stanford University. He works on the fundamental problem of observing, understanding, and predicting the configuration and evolution of ice sheet boundary conditions using ice penetrating radar sounding data. Before coming to Stanford he worked as a radar systems engineer with the Jet Propulsion Laboratory at the California Institute of Technology on NASA’s Europa Clipper Mission.  Dusty is also a former Science Olympian competitor (Solon Middle School and High School between ’97 - 02), coach (LASA High School ’07 - ’14), national event supervisor (Astronomy ’03 - ’11, Reach for the Stars and Solar System ’12 – present), and national committee co-chair (Earth and Space Sciences ’15 – present).
   pic: Dusty.jpeg
   role: Faculty Advisor
+  id: dusty

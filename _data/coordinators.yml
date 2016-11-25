@@ -6,6 +6,7 @@
   linkedin: https://www.linkedin.com/in/abrahamchen1
   email: abraham.chen1@berkeley.edu
   pic: Abraham.jpg
+  id: abraham
 
 - name: Alex Lu
   school: Bioengineering, Stanford 2019
@@ -15,6 +16,7 @@
   linkedin: 
   email: alu2@stanford.edu
   pic: Alex.jpg
+  id: alex
 
 - name: Denis Li
   school: Electrical Engineering and Computer Science, Berkeley 2019
@@ -24,6 +26,7 @@
   linkedin: https://www.linkedin.com/in/denisli
   email: denis.li@berkeley.edu
   pic: Denis.jpg
+  id: denis
 
 - name: Dhruv Puri
   school: Molecular and Cellular Biology, Berkeley 2019
@@ -33,6 +36,7 @@
   linkedin: https://www.linkedin.com/in/dhruvpuri
   email: dhruvpuri@berkeley.edu
   pic: Dhruv.jpg
+  id: dhruv
 
 - name: Jonathan Wang
   school: Computational Biology, Stanford 2019
@@ -42,6 +46,7 @@
   linkedin: https://www.linkedin.com/in/jonxwang
   email: jonxwang@stanford.edu
   pic: Jonathan.jpg
+  id: jonathan
 
 - name: Rohan Chakraborty
   school: Chemical Engineering, Berkeley 2019
@@ -51,6 +56,7 @@
   linkedin: https://www.linkedin.com/in/rohan-chakraborty-394313112
   email: rohanchak@berkeley.edu
   pic: Rohan.jpg
+  id: rohan
 
 - name: Ryan Cohen
   school: Mechanical Engineering, Stanford 2019
@@ -60,3 +66,4 @@
   linkedin: 
   email: rrcohen@stanford.edu
   pic: Ryan.jpg
+  id: ryan

@@ -17,6 +17,48 @@ h1, h2, h3 {
     font-family: "Roboto Condensed", "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.gridder {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none
+}
+
+.gridder-content {
+    display: none
+}
+
+.gridder-list {
+    padding: 36px;
+    display: inline-block;
+    vertical-align: top
+}
+
+.gridder-show {
+    display: block;
+    float: left;
+    width: 100%;
+}
+
+.gridder-navigation .gridder-nav.disabled {
+    opacity: .5
+}
+
+.gridder-list {
+    cursor: pointer
+}
+
+.gridder-list:hover {
+    opacity: 0.8
+}
+
+.hasSelectedItem .gridder-list {
+    opacity: .5
+}
+
+.hasSelectedItem .gridder-list.selectedItem {
+    opacity: 1
+}
+
 .text-vertical-center {
     display: table-cell;
     margin-left: auto;
