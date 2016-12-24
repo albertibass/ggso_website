@@ -143,6 +143,14 @@
   funFact: In 2012 I ran through a thunderstorm in Florida right before Nationals because who needs to study before a tournament?
   id: jonBartlet
 
+- name: Justin Hong
+  school: Computer Science & Molecular and Cell Biology, Berkeley 2019
+  bio: I'm an alum of Acton-Boxborough Regional High School, which I was a part of for four years. Science Olympiad definitely grew my passion for the expansive world of science which I continue to study today. 
+  favEvents: Anatomy and Physiology, Cell Biology, Experimental Design
+  role: Event Supervisor for Experimental Design
+  pic: justin.png
+  id: justin
+
 - name: Rebecca Shi
   school: Neuroscience (PhD), Stanford
   bio: Hi, I'm Becky, and I'm currently a Neuroscience PhD student at Stanford University. I graduated in 2011 from West Windsor-Plainsboro High School South in New Jersey, where I competed on the Science Olympiad team for 4 years. I continued my involvement with Science Olympiad as a planning member and event supervisor of MIT's Science Olympiad Invitational in 2015 and 2016, and I'm looking forward to supervising Anatomy and Physiology at the Golden Gate Invitational in 2017!
@@ -168,6 +176,14 @@
   favEvents: Dynamic Planet, Green Generation, Fossils, Water Quality, Invasive Species
   funFact: I have an awesome look-alike sister who goes to Stanford. 
   id: sylvia
+
+- name: Vyassa Baratham
+  school: Physics, Berkeley
+  bio: In high school, Science Olympiad played an important role in my decision to pursue a career in science. I'm currently a graduate student in the physics department at UC Berkeley. I was lucky enough to compete at 2010 and 2011 nationals with my team from Acton-Boxborough Regional High School in Massachusetts. I have many fond memories with my team, both in competition and just hanging out. I'm looking forward to getting involved with SciOly again as the event supervisor for Wind Power at GGSO!
+  favEvents: Wind Power, Chemistry Lab
+  role: Event Supervisor for Wind Power
+  pic: vyassa.jpg
+  id: vyassa
 
 - name: Yujane Chen
   school: Environmental Sciences, Berkeley 2020
