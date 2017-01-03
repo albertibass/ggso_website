@@ -18,7 +18,7 @@ permalink: /team/
 	</li>
 
 
-	<div id="{{ member.id }}" class="gridder-content col-lg-6">
+	<div id="{{ member.id }}" class="gridder-content col-lg-4">
 		<div class="person-description">
 			<p>{{ member.bio }}</p>
 			{% if member.favEvents %}
@@ -49,7 +49,7 @@ permalink: /team/
 <ul class="gridder col-lg-12">
 {% for member in site.data.other_members %}
 
-	<li class="gridder-list col-lg-4" data-griddercontent="#{{ member.id }}">
+	<li class="gridder-list equalize col-lg-4" data-griddercontent="#{{ member.id }}">
 		<img class="img-circle" src="../img/team/{{ member.pic }}" width="200" height="200">
 		<h3>{{ member.name }}</h3>
 		<h4>{{ member.role }}</h4>
@@ -57,7 +57,7 @@ permalink: /team/
 	</li>
 
 
-	<div id="{{ member.id }}" class="gridder-content col-lg-6">
+	<div id="{{ member.id }}" class="gridder-content col-md-4">
 		<div class="person-description">
 			<p>{{ member.bio }}</p>
 			{% if member.favEvents %}
@@ -85,11 +85,23 @@ permalink: /team/
 </div>
 
 <script>
+
+$(document).ready(function() {
+    var maxHeight = 0;          
+    $(".equalize").each(function(){
+      if ($(this).height() > maxHeight) { maxHeight = $(this).height(); }
+    });         
+    $(".equalize").height(maxHeight);
+  });
+
+</script>
+
+<script>
 $(function() {
 
     $('.gridder').gridderExpander({
         scroll: true,
-        scrollOffset: 350,
+        scrollOffset: 400,
         scrollTo: "panel",                  // panel or listitem
         animationSpeed: 600,
         animationEasing: "easeInOutExpo",
