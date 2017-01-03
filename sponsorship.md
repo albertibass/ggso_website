@@ -40,4 +40,9 @@ Stanford ChEM-H is a new interdisciplinary institute focused on connecting Chemi
 <br>
 <br>
 
+![Kaiser Logo](/img/sponsor/kaiser.png)
+
+<br>
+<br>
+
 An additional thank you to the team at Avogadro Online Scoring System for providing their powerful and easy to use software for this tournament.
