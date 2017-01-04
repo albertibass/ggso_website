@@ -42,6 +42,8 @@ Stanford ChEM-H is a new interdisciplinary institute focused on connecting Chemi
 
 ![Kaiser Logo](/img/sponsor/kaiser.png)
 
+For more than 70 years, Kaiser Permanente has provided quality health care. We’re dedicated to improving the health of our members and the communities we serve, by creating safe, healthy environments and providing care and coverage for all.  Kaiser Permanente’s Information Technology Innovation team is focused on helping create solutions that leverage technology to enhance the quality of care and service we provide to our members and community.
+
 <br>
 <br>
 
