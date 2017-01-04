@@ -15,6 +15,13 @@ The Stanford School of Earth, Energy & Environmental Sciences develops the knowl
 <br>
 <br>
 
+![Kaiser Logo](/img/sponsor/kaiser.png)
+
+For more than 70 years, Kaiser Permanente has provided quality health care. We’re dedicated to improving the health of our members and the communities we serve, by creating safe, healthy environments and providing care and coverage for all.  Kaiser Permanente’s Information Technology Innovation team is focused on helping create solutions that leverage technology to enhance the quality of care and service we provide to our members and community.
+
+<br>
+<br>
+
 ## UC Berkeley College of Chemistry
 
 <br>
@@ -30,13 +37,6 @@ Bioengineering applies engineering principles and practices to living things, to
 ![Stanford ChEM-H Logo](/img/sponsor/stanford_chemh.png)
 
 Stanford ChEM-H is a new interdisciplinary institute focused on connecting Chemistry, Engineering, and Medicine for Human Health. The institute is a joint venture of the Schools of Medicine, Engineering, and Humanities and Sciences. The proximity of world-class biologists, chemists, engineers, and clinicians at Stanford presents a unique opportunity to study human biology at a molecular level, to translate this knowledge into groundbreaking products and services that promote healthy living, and to educate a new cadre of “physician-scientist-engineers” who will lead a rapidly evolving industry.
-
-<br>
-<br>
-
-![Kaiser Logo](/img/sponsor/kaiser.png)
-
-For more than 70 years, Kaiser Permanente has provided quality health care. We’re dedicated to improving the health of our members and the communities we serve, by creating safe, healthy environments and providing care and coverage for all.  Kaiser Permanente’s Information Technology Innovation team is focused on helping create solutions that leverage technology to enhance the quality of care and service we provide to our members and community.
 
 <br>
 <br>
