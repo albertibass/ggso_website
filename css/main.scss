@@ -184,7 +184,9 @@ hr.small {
 }
 
 .lead img {
-    max-width: 100%;
+    max-width: 500px;
+    width: 100%;
+
 }
 
 /* Carousel base class */
@@ -295,6 +297,8 @@ a.white {
 
 .img-circle {
     object-fit: cover;
+    max-width: 100% !important;
+    width: initial !important;
 }
 
 .light-bg {
