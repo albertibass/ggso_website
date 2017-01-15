@@ -18,5 +18,7 @@ Our mission is to improve the Science Olympiad experience of high school student
 
 *Stress-Free Scheduling.*  Our schedule is closely modeled after the national schedule so that team members will receive the same events at our tournament as they will at nationals. We will work closely with teams to ensure a smooth process from sign-up to competition. 
 
+<br>
+
 ## About Science Olympiad
 Science Olympiad has led our nation’s youth in science education for the past 32 years. Beginning as a group of science educators, Science Olympiad has evolved into one of the top science competitions in the United States, allowing thousands of students from nearly 7,400 teams in 49 states to challenge themselves and achieve their maximum potential. With a constantly changing roster of events in all areas of Science, Technology, Engineering, and Mathematics (STEM), Science Olympiad opens students’ eyes to a multitude of scientific disciplines and possible future careers, and enhances classroom education with a diverse wealth of content.

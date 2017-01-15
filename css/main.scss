@@ -7,6 +7,7 @@ html,
 body {
     width: 100%;
     height: 100%;
+    background: #F4F4F4;
 }
 
 body {
@@ -86,7 +87,13 @@ h1, h2, h3 {
 .btn-light {
     border-radius: 0;
     color: #333;
-    background-color: rgba(255,255,255, 0.4);
+    display: inline-block;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    width: 200px;
+    background-color: rgba(255,255,255, 0.2);
 }
 .btn-xlg {
     padding: 16px 24px;
@@ -150,7 +157,7 @@ hr.small {
 
 .splash-half {
     height: 30%;
-    background: url(../img/backgrounds/bg-dark.jpg) no-repeat bottom center scroll;
+    background: url(../img/backgrounds/bg-light.jpg) no-repeat bottom center scroll;
 }
 
 .container {
@@ -173,7 +180,7 @@ hr.small {
 }
 
 .lead {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .lead img {

@@ -6,6 +6,7 @@ permalink: /details/
 
 # Tournament Day Information
 
+
 * A full list of registered teams and team numbers is available [here](/doc/registered_teams.pdf).
 
 * The event schedule closely mirrors the Nationals schedule. A **draft** version is available [here](/doc/event_schedule.pdf). Any changes will be announced via email to team coaches.
