@@ -30,7 +30,7 @@ Stanford, CA 94309
 
 The registration fee is nonrefundable, except at the discretion of the tournament coordinators or in the unforeseen event of tournament cancellation. Receipts will be included in coaches’ packets to be distributed the day of competition. (Any requests for receipts to be mailed earlier should be made to [goldengatescioly@gmail.com](mailto: goldengatescioly@gmail.com).)
 
-The Golden Gate Invitational will also feature custom t-shirts for sale to competitors! Teams may pre-order t-shirts using a separate t-shirt form available around the time of registration. T-shirts will be available at a discounted price until December 1st  (further information to come). A limited quantity of additional shirts will also be sold the day of the tournament.
+<!-- The Golden Gate Invitational will also feature custom t-shirts for sale to competitors! Teams may pre-order t-shirts using a separate t-shirt form available around the time of registration. T-shirts will be available at a discounted price until December 1st  (further information to come). A limited quantity of additional shirts will also be sold the day of the tournament. -->
 
 Other documents, including waivers and liability releases, will be distributed to participating teams shortly after registration. Further tournament details, including the schedule and logistics, are on their way as well!
 

@@ -17,7 +17,7 @@ permalink: /details/
 
 * Check back soon to meet the event supervisors!
 
-* For registered teams, T-shirt preorders are available [here](https://stanforduniversity.qualtrics.com/jfe/form/SV_a9jsaek2LcTg1SZ)! The design is available at the link, and shirts are $10 if ordered by early December.
+<!-- * For registered teams, T-shirt preorders are available [here](https://stanforduniversity.qualtrics.com/jfe/form/SV_a9jsaek2LcTg1SZ)! The design is available at the link, and shirts are $10 if ordered by early December. -->
 
 <br>
 <br>
