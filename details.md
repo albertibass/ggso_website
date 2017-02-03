@@ -6,10 +6,9 @@ permalink: /details/
 
 # Tournament Day Information
 
+* Homeroom assignments can be found [here](/doc/homerooms.pdf).
 
 * A full list of registered teams and team numbers is available [here](/doc/registered_teams.pdf).
-
-* Homeroom assignments can be found [here](/doc/homerooms.pdf).
 
 * The event schedule closely mirrors the Nationals schedule. A **draft** version is available [here](/doc/event_schedule.pdf). Any changes will be announced via email to team coaches.
 
