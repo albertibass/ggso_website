@@ -6,7 +6,9 @@ permalink: /details/
 
 # Tournament Day Information
 
-* Homeroom assignments can be found [here](/doc/homerooms.pdf).
+* Homeroom assignments can be found [here](/doc/homerooms.pdf) and a map [here](/doc/homeroommap.pdf).
+
+* A blank map of UC Berkeley campus can be found [here](/doc/blankmap.pdf) and a map of event locations can be found [here](/doc/eventmap.pdf)
 
 * A full list of registered teams and team numbers is available [here](/doc/registered_teams.pdf).
 
