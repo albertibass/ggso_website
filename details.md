@@ -12,9 +12,9 @@ permalink: /details/
 
 * A full list of registered teams and team numbers is available [here](/doc/registered_teams.pdf).
 
-* The event schedule closely mirrors the Nationals schedule. A **draft** version is available [here](/doc/event_schedule.pdf). Any changes will be announced via email to team coaches.
+* The event schedule closely mirrors the Nationals schedule. A draft version is available [here](/doc/event_schedule.pdf). Any changes will be announced via email to team coaches.
 
-* A **draft** version of the daily schedule is available [here](/doc/daily_schedule.pdf). Please note that although we will do everything we can to maintain this timing, it is tentative and we reserve the right to make adjustments. Any changes will be announced immediately via email to team coaches.
+* A draft version of the daily schedule is available [here](/doc/daily_schedule.pdf). Please note that although we will do everything we can to maintain this timing, it is tentative and we reserve the right to make adjustments. Any changes will be announced immediately via email to team coaches.
 
 * An Evaluations Committee of eight Berkeley and Stanford students has been formed to review all exams prior to the tournament. They’ll be ensuring that every event at the invitational is of National quality, while still being approachable for new and inexperienced schools. Check out the “Our Team” tab above to meet the new members.
 
