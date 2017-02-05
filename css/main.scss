@@ -185,7 +185,7 @@ hr.small {
 
 .lead img {
     max-width: 500px;
-    width: 100%;
+/*    width: 100%;*/
 
 }
 
@@ -295,10 +295,15 @@ a.white {
     margin-bottom: 36px;
 }
 
+.sponsor {
+    width: 500px;
+    max-width: 100% !important;
+}
+
 .img-circle {
     object-fit: cover;
-    max-width: 100% !important;
-    width: initial !important;
+    /*max-width: 100% !important;*/
+    /*width: initial !important;*/
 }
 
 .light-bg {
