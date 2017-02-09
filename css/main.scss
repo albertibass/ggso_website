@@ -95,6 +95,19 @@ h1, h2, h3 {
     width: 200px;
     background-color: rgba(255,255,255, 0.2);
 }
+
+.btn-mid {
+    border-radius: 0;
+    color: #333;
+    display: inline-block;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 12px;
+    font-size: 16px;
+    background-color: rgba(200,200,200, 0.2);
+}
 .btn-xlg {
     padding: 16px 24px;
     font-size: 18px;
@@ -102,6 +115,13 @@ h1, h2, h3 {
     -webkit-border-radius: 0px;
        -moz-border-radius: 0px;
             border-radius: 0px;
+}
+
+.btn-mid:hover,
+.btn-light:focus,
+.btn-light:active {
+    color: #222;
+    background-color: rgba(200,200,200, 0.4);
 }
 
 .btn-light:hover,
