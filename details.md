@@ -4,6 +4,20 @@ title: Tournament Details
 permalink: /details/
 ---
 
+<div>
+<a class="btn btn-md btn-mid" href="/doc/event_schedule.pdf">Event Schedule</a>
+<a class="btn btn-md btn-mid" href="/doc/daily_schedule.pdf">Daily Schedule</a>
+<a class="btn btn-md btn-mid" href="/doc/homerooms.pdf">Homeroom Assignments</a>
+<a class="btn btn-md btn-mid" href="/doc/registered_teams.pdf">Registered Teams</a>
+</div>
+<div>
+<a class="btn btn-md btn-mid" href="/doc/homeroommap.pdf">Homeroom Map</a>
+<a class="btn btn-md btn-mid" href="/doc/blankmap.pdf">Berkeley Campus Map</a>
+<a class="btn btn-md btn-mid" href="/doc/eventmap.pdf">Event Location Map</a>
+</div>
+
+<br>
+
 # Tournament Day Information
 
 * Homeroom assignments can be found [here](/doc/homerooms.pdf) and a map [here](/doc/homeroommap.pdf).
@@ -21,6 +35,7 @@ permalink: /details/
 * Check back soon to meet the event supervisors!
 
 <!-- * For registered teams, T-shirt preorders are available [here](https://stanforduniversity.qualtrics.com/jfe/form/SV_a9jsaek2LcTg1SZ)! The design is available at the link, and shirts are $10 if ordered by early December. -->
+
 
 <br>
 <br>
