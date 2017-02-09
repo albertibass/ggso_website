@@ -7,6 +7,7 @@ permalink: /details/
 <div>
 <a class="btn btn-md btn-mid" href="/doc/event_schedule.pdf">Event Schedule</a>
 <a class="btn btn-md btn-mid" href="/doc/daily_schedule.pdf">Daily Schedule</a>
+<a class="btn btn-md btn-mid" href="/doc/sign_up_schedule.pdf">Sign-Up Schedule</a>
 <a class="btn btn-md btn-mid" href="/doc/homerooms.pdf">Homeroom Assignments</a>
 <a class="btn btn-md btn-mid" href="/doc/registered_teams.pdf">Registered Teams</a>
 </div>
