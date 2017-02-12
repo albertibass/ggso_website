@@ -5,6 +5,9 @@ permalink: /details/
 ---
 
 <div>
+<a class="btn btn-md btn-mid" href="/doc/final_scores.pdf">FINAL SCORES</a>
+</div>
+<div>
 <a class="btn btn-md btn-mid" href="/doc/event_schedule.pdf">Event Schedule</a>
 <a class="btn btn-md btn-mid" href="/doc/daily_schedule.pdf">Daily Schedule</a>
 <a class="btn btn-md btn-mid" href="/doc/sign_up_schedule.pdf">Sign-Up Schedule</a>
