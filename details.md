@@ -6,6 +6,7 @@ permalink: /details/
 
 <div>
 <a class="btn btn-md btn-mid" href="/doc/final_scores.pdf">FINAL SCORES</a>
+<a class="btn btn-md btn-mid" href="https://drive.google.com/drive/u/3/folders/0B3X7R5c8xC7lQmhWeGI3NDlBVG8">PHOTOS</a>
 </div>
 <div>
 <a class="btn btn-md btn-mid" href="/doc/event_schedule.pdf">Event Schedule</a>
