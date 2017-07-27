@@ -67,6 +67,14 @@ h1, h2, h3 {
     vertical-align: middle;
 }
 
+.text-vertical-left {
+    display: table-cell;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    vertical-align: middle;
+}
+
 .btn-dark {
     border-radius: 0;
     color: #fff;
