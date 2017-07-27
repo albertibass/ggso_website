@@ -2,8 +2,8 @@ title: Golden Gate Science Olympiad Invitational - UC Berkeley and Stanford Univ
 email: goldengatescioly@gmail.com
 description: >
   Science Olympiad invitational run by UC Berkeley and Stanford University students. Coming 2018.
-baseurl: "/golden-gate-2018"
-url: ""
+baseurl: ""
+url: "/golden-gate-2018"
 github_username:  patil215
 
 markdown: kramdown
