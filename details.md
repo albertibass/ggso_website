@@ -5,20 +5,20 @@ permalink: /details/
 ---
 
 <div>
-<a class="btn btn-md btn-mid" href="/doc/final_scores.pdf">FINAL SCORES</a>
+<a class="btn btn-md btn-mid" href="doc/final_scores.pdf">FINAL SCORES</a>
 <a class="btn btn-md btn-mid" href="https://drive.google.com/drive/u/3/folders/0B3X7R5c8xC7lQmhWeGI3NDlBVG8">PHOTOS</a>
 </div>
 <div>
-<a class="btn btn-md btn-mid" href="/doc/event_schedule.pdf">Event Schedule</a>
-<a class="btn btn-md btn-mid" href="/doc/daily_schedule.pdf">Daily Schedule</a>
-<a class="btn btn-md btn-mid" href="/doc/sign_up_schedule.pdf">Sign-Up Schedule</a>
-<a class="btn btn-md btn-mid" href="/doc/homerooms.pdf">Homeroom Assignments</a>
-<a class="btn btn-md btn-mid" href="/doc/registered_teams.pdf">Registered Teams</a>
+<a class="btn btn-md btn-mid" href="doc/event_schedule.pdf">Event Schedule</a>
+<a class="btn btn-md btn-mid" href="doc/daily_schedule.pdf">Daily Schedule</a>
+<a class="btn btn-md btn-mid" href="doc/sign_up_schedule.pdf">Sign-Up Schedule</a>
+<a class="btn btn-md btn-mid" href="doc/homerooms.pdf">Homeroom Assignments</a>
+<a class="btn btn-md btn-mid" href="doc/registered_teams.pdf">Registered Teams</a>
 </div>
 <div>
-<a class="btn btn-md btn-mid" href="/doc/homeroommap.pdf">Homeroom Map</a>
-<a class="btn btn-md btn-mid" href="/doc/blankmap.pdf">Berkeley Campus Map</a>
-<a class="btn btn-md btn-mid" href="/doc/eventmap.pdf">Event Location Map</a>
+<a class="btn btn-md btn-mid" href="doc/homeroommap.pdf">Homeroom Map</a>
+<a class="btn btn-md btn-mid" href="doc/blankmap.pdf">Berkeley Campus Map</a>
+<a class="btn btn-md btn-mid" href="doc/eventmap.pdf">Event Location Map</a>
 </div>
 
 <br>
