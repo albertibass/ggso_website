@@ -1,0 +1,15 @@
+---
+layout: info
+title: Past Tournaments
+permalink: /past/
+---
+
+<div class="col-lg-8">
+{% for tournament in site.data.tournaments %}
+	<h2>{{ tournament.year }} - {{ tournament.location }}</h2>
+	<h3>Division C Champion: {{ tournament.firstPlaceWinner }}</h3>
+	<img src="{{ tournament.firstPlacePicture }}">
+	<p>{{ tournament.description }}</p>
+{% endfor %}
+</div>
+</script>
