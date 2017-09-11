@@ -19,14 +19,7 @@ Registration will be performed via an online form. The link placed on the home p
 
 Please note that, due to high demand, middle schools (B division) will not be allowed to register for this tournament.
 
-The team registration fee is $150, and should be paid via check made out to “Golden Gate SciOly” and mailed to:
-<center>
-Golden Gate Scioly<br>
-
-PO Box 1402<br>
-
-Palo, Alto CA 94302
-</center>
+The team registration fee is $150. Details on method of payment are to follow shortly.
 
 The registration fee is nonrefundable, except at the discretion of the tournament coordinators or in the unforeseen event of tournament cancellation. Receipts will be included in coaches’ packets to be distributed the day of competition. (Any requests for receipts to be mailed earlier should be made to [goldengatescioly@gmail.com](mailto:goldengatescioly@gmail.com).)
 
