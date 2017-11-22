@@ -26,15 +26,6 @@
   pic: Abraham.jpg
   id: abraham
 
-- name: Becca Nelson 
-  school: Ecology, Stanford 2020
-  bio: I'm an Adlai E. Stevenson High School and Daniel Wright Jr. High scioly alum who did Science Olympiad for 6 years. I competed at 5 Nationals, starting in 8th grade. Science Olympiad influenced me to pursue a career in ecology, so I'm excited to help out as an alum! I’m a sophomore at Stanford, and I do research on plant ecology. 
-  favEvents: Invasive Species, Forestry, Ornithology, Fossils, Hydrogeology
-  funFact: I'm an avid birder!
-  email: rnelson3@stanford.edu 
-  pic: Becca.jpg 
-  id: becca
-
 - name: Colin Barber
   school: Microbiology, Berkeley PhD Program
   bio: Hi I’m Colin and I love microbes. I competed for Wellwood Middle School and Fayetteville-Manlius High School and I graduated with a BS in microbiology from Cornell University last May. For three years, I also helped lead Science Olympiad at Cornell where I served as co-president 2015-16. Did I mention I love microbes?
@@ -54,15 +45,6 @@
   pic: Dhruv.jpg  
   id: dhruv
 
-- name: Jeffrey Hu 
-  school: Computer Science, Stanford 2021
-  bio: Hi, I’m Jeffrey, an alum of the Mounds View Science Olympiad team. Science Olympiad was a blast in high school, and I’m thrilled to continue with it through GGSO!
-  favEvents: Electric Vehicle, Robot Arm, Mission Possible
-  funFact: I have a debilitating pen addiction T_T
-  email: jeffhu@stanford.edu
-  pic: Jeffrey.jpg
-  id: jeffrey
-
 - name: Kathryn Li 
   school: Molecular and Cell Biology, Berkeley 2020
   bio: Hi, my name is Kathryn and I’m a Palo Alto Science Olympiad alum. In my three years on the team, I’ve competed in a variety of study, lab, and build events, from Chem Lab to Bridge Building. Science Olympiad has been the most important influencer of my college career, so I am incredibly excited to give back to the community through this tournament!
@@ -72,14 +54,15 @@
   pic: Kathryn.png
   id: kathryn
 
-- name: Kevin Meng 
-  school: Psychology and Economics, UC Berkeley 2020
-  bio: Hello! Call me Kevin or kmeng! I’m an Ed W. Clark HS Scioly alumni and captain. In preparation for state and nationals, I’ve stayed at school so late that midnight snacks and basketball with the cleaning staff is a norm. I’ve been told before that my love for Science Olympiad is “infectious”. Spread the love and stay committed!
-  favEvents: Gravity Vehicle, Elastic Launched Glider, Wright Stuff, WIDI
-  funFact: My team and I won a state championship in soccer! I have a fierce passion for music and sports. Play me.
-  email: kevinlmeng@berkeley.edu
-  pic: Kmeng.jpg
-  id: kevinM
+- name: Jeffrey Hu 
+  school: Computer Science, Stanford 2021
+  bio: Hi, I’m Jeffrey, an alum of the Mounds View Science Olympiad team. Science Olympiad was a blast in high school, and I’m thrilled to continue with it through GGSO!
+  favEvents: Electric Vehicle, Robot Arm, Mission Possible
+  funFact: I have a debilitating pen addiction T_T
+  email: jeffhu@stanford.edu
+  pic: Jeffrey.jpg
+  id: jeffrey
+
 
 - name: Kevin Tien 
   school: Computer Science, Stanford 2020
@@ -90,6 +73,15 @@
   pic: KTien.jpg
   id: kevinT
 
+- name: Ryan Cohen 
+  school: Mechanical Engineering, Stanford 2019 
+  bio: Hey, I’m Ryan! I’m an alumni of Mira Loma High School from Sacramento, California and I competed all seven years in B and C divisions. In addition to helping run GGSO, catch me with the arbitration team at NorCal regional and state tournaments. Or hit me up on the GGSO snapchat account 😉
+  linkedin: To quote esteemed California governor Arnold Schwarzenegger, “I haven’t gotten around to it”.
+  email: rrcohen@stanford.edu
+  pic: Ryan.jpg
+  id: ryan
+
+  
 - name: Neil Patil
   school: Computer Science, UT Austin 2020
   bio: Hello! I'm a LASA alum and was captain of LASA's Science Olympiad team during 2015 and 2016. I did build events, which means that most of my SciO memories involve soldering in a hotel room bathtub, getting gliders stuck in chandeliers, or getting kicked out of Wal-Mart at 1 AM (sometimes you gotta test Scrambler the night before...) Science Olympiad has been a pretty big part of my life (in both the good and bad ways), so I'm glad to be helping run this tournament.
@@ -110,13 +102,14 @@
   pic: Rohan.jpg 
   id: rohan
 
-- name: Ryan Cohen 
-  school: Mechanical Engineering, Stanford 2019 
-  bio: Hey, I’m Ryan! I’m an alumni of Mira Loma High School from Sacramento, California and I competed all seven years in B and C divisions. In addition to helping run GGSO, catch me with the arbitration team at NorCal regional and state tournaments. Or hit me up on the GGSO snapchat account 😉
-  linkedin: To quote esteemed California governor Arnold Schwarzenegger, “I haven’t gotten around to it”.
-  email: rrcohen@stanford.edu
-  pic: Ryan.jpg
-  id: ryan
+- name: Kevin Meng 
+  school: Psychology and Economics, UC Berkeley 2020
+  bio: Hello! Call me Kevin or kmeng! I’m an Ed W. Clark HS Scioly alumni and captain. In preparation for state and nationals, I’ve stayed at school so late that midnight snacks and basketball with the cleaning staff is a norm. I’ve been told before that my love for Science Olympiad is “infectious”. Spread the love and stay committed!
+  favEvents: Gravity Vehicle, Elastic Launched Glider, Wright Stuff, WIDI
+  funFact: My team and I won a state championship in soccer! I have a fierce passion for music and sports. Play me.
+  email: kevinlmeng@berkeley.edu
+  pic: Kmeng.jpg
+  id: kevinM
 
 - name: Sarah Gurev
   school: Computer Science, Stanford 2020
