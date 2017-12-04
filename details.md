@@ -5,42 +5,9 @@ permalink: /details/
 ---
 
 <div>
-<a class="btn btn-md btn-mid" href="/doc/final_scores.pdf">FINAL SCORES</a>
-<a class="btn btn-md btn-mid" href="https://drive.google.com/drive/u/3/folders/0B3X7R5c8xC7lQmhWeGI3NDlBVG8">PHOTOS</a>
+<a class="btn btn-md btn-mid" href="/doc/eventschedule.pdf">Event Schedule (Tentative)</a>
+<a class="btn btn-md btn-mid" href="/doc/teamlist.pdf">List of Teams (Tentative)</a>
 </div>
-<div>
-<a class="btn btn-md btn-mid" href="/doc/event_schedule.pdf">Event Schedule</a>
-<a class="btn btn-md btn-mid" href="/doc/daily_schedule.pdf">Daily Schedule</a>
-<a class="btn btn-md btn-mid" href="/doc/sign_up_schedule.pdf">Sign-Up Schedule</a>
-<a class="btn btn-md btn-mid" href="/doc/homerooms.pdf">Homeroom Assignments</a>
-<a class="btn btn-md btn-mid" href="/doc/registered_teams.pdf">Registered Teams</a>
-</div>
-<div>
-<a class="btn btn-md btn-mid" href="/doc/homeroommap.pdf">Homeroom Map</a>
-<a class="btn btn-md btn-mid" href="/doc/blankmap.pdf">Berkeley Campus Map</a>
-<a class="btn btn-md btn-mid" href="/doc/eventmap.pdf">Event Location Map</a>
-</div>
-
-<br>
-
-# Tournament Day Information
-
-* Homeroom assignments can be found [here](/doc/homerooms.pdf) and a map [here](/doc/homeroommap.pdf).
-
-* A blank map of UC Berkeley campus can be found [here](/doc/blankmap.pdf) and a map of event locations can be found [here](/doc/eventmap.pdf)
-
-* A full list of registered teams and team numbers is available [here](/doc/registered_teams.pdf).
-
-* The event schedule closely mirrors the Nationals schedule. A draft version is available [here](/doc/event_schedule.pdf) and the schedule for sign-up events is available [here](/doc/sign_up_schedule.pdf). Any changes will be announced via email to team coaches.
-
-* A draft version of the daily schedule is available [here](/doc/daily_schedule.pdf). Please note that although we will do everything we can to maintain this timing, it is tentative and we reserve the right to make adjustments. Any changes will be announced immediately via email to team coaches.
-
-* An Evaluations Committee of eight Berkeley and Stanford students has been formed to review all exams prior to the tournament. They’ll be ensuring that every event at the invitational is of National quality, while still being approachable for new and inexperienced schools. Check out the “Our Team” tab above to meet the new members.
-
-* Check back soon to meet the event supervisors!
-
-<!-- * For registered teams, T-shirt preorders are available [here](https://stanforduniversity.qualtrics.com/jfe/form/SV_a9jsaek2LcTg1SZ)! The design is available at the link, and shirts are $10 if ordered by early December. -->
-
 
 <br>
 <br>
@@ -48,7 +15,7 @@ permalink: /details/
 
 # Eligibility & Registration Policies
 
-Registration and the waitlist are now closed. We look forward to welcoming our 45 teams from across the nation this February!
+Registration and the waitlist are now closed. We look forward to welcoming our 50 teams from across the nation this February!
 
 <br>
 <br>
