@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Golden Gate Invitational is led by National Science Olympiad medalists from Stanford and UC Berkeley.
 
-Golden Gate Science Olympiad was founded in 2015 by Ryan Cohen, Dhruv Puri, Rohan Chakraborty, Jonathan Wang, Denis Li, and Abraham Chen, with the mission to improve the Science Olympiad experience of high school students nationwide.  The members of Golden Gate Science Olympiad have volunteered at Science Olympiad tournaments across the country, proctoring events and assisting behind the scenes at invitational, regional, and state tournaments.
+Golden Gate Science Olympiad was founded in 2015 by Ryan Cohen, Dhruv Puri, Rohan Chakraborty, Jonathan Wang, Denis Li, Alex Lu, and Abraham Chen, with the mission to improve the Science Olympiad experience of high school students nationwide.  The members of Golden Gate Science Olympiad have volunteered at Science Olympiad tournaments across the country, proctoring events and assisting behind the scenes at invitational, regional, and state tournaments.
 
 On January 27, 2018, Golden Gate Science Olympiad will be hosting their second tournament at UC Berkeley. This winter, you can look forward to:
 
