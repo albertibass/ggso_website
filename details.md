@@ -6,7 +6,7 @@ permalink: /details/
 
 <div>
 <a class="btn btn-md btn-mid" href="/doc/eventschedule.pdf">Event Schedule (Tentative)</a>
-<a class="btn btn-md btn-mid" href="/doc/teamlist.pdf">List of Teams (Tentative)</a>
+<a class="btn btn-md btn-mid" href="/doc/teamlist.pdf">List of Teams</a>
 </div>
 
 <br>
