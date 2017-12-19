@@ -13,4 +13,10 @@ permalink: /sponsorship/
 The Stanford School of Earth, Energy & Environmental Sciences develops the knowledge, talent and leadership to understand the changing Earth and to help solve the enormous resource and environmental challenges facing the world.
 
 <br>
+
+<img class="sponsor" src="/img/sponsor/avogadro.png">
+
+The Avogadro scoring system makes it painless to set up, host, score, and distribute results for Science Olympiad competitions.
+
+<br>
 <br>
