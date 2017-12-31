@@ -7,7 +7,8 @@ permalink: /details/
 <div>
 <a class="btn btn-md btn-mid" href="/doc/eventschedule.pdf">Event Schedule (Tentative)</a>
 <a class="btn btn-md btn-mid" href="/doc/teamlist.pdf">List of Teams</a>
-<a class="btn btn-md btn-mid" href="https://www.google.com/maps/d/u/0/viewer?mid=1mcrinzbQ5xZ24DlDjq8XIW4LAzxc4P3y&ll=37.867848%2C-122.25735899999995&z=14">Map</a>
+<a class="btn btn-md btn-mid" href="/doc/maps_2018.pdf">Homerooms and Event Map</a>
+<a class="btn btn-md btn-mid" href="https://www.google.com/maps/d/u/0/viewer?mid=1mcrinzbQ5xZ24DlDjq8XIW4LAzxc4P3y&ll=37.867848%2C-122.25735899999995&z=14">Full Digital Map</a>
 <a class="btn btn-md btn-mid" href="/doc/parkingmap.pdf">Parking Details and Map</a>
 <a class="btn btn-md btn-mid" href="/doc/foodoptions.pdf">Food Options</a>
 </div>
@@ -18,7 +19,7 @@ permalink: /details/
 
 # Eligibility & Registration Policies
 
-Registration and the waitlist are now closed. We look forward to welcoming our 50 teams from across the nation this February!
+Registration and the waitlist are now closed. We look forward to welcoming our 50 teams from across the nation this January!
 
 <br>
 <br>
