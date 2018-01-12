@@ -330,7 +330,18 @@ a.white {
 }
 
 .sponsor {
-    width: 500px;
+    margin-top: 24px;
+    padding: 0px;
+    margin-bottom: 0px;
+    width: 450px;
+    max-width: 100% !important;
+}
+
+.sponsor_small {
+    margin-top: 24px;
+    padding: 0px;
+    margin-bottom: 0px;
+    width: 225px;
     max-width: 100% !important;
 }
 
