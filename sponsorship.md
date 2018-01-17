@@ -38,3 +38,11 @@ Stanford ChEM-H is a new interdisciplinary institute focused on connecting Chemi
  
 <br>
 <br>
+
+
+<img class="sponsor" src="/img/sponsor/avogadro.png">
+
+The Avogadro scoring system makes it painless to set up, host, score, and distribute results for Science Olympiad competitions.
+
+<br>
+<br>
