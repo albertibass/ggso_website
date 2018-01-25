@@ -8,6 +8,10 @@ permalink: /team/
 
 <!--<h2 style="margin-bottom: 36px;">Tournament Coordinators</h2>-->
 
+<h1>Executive Board</h1>
+
+<br>
+
 <ul class="gridder col-lg-12">
 {% for member in site.data.coordinators %}
 
@@ -44,10 +48,14 @@ permalink: /team/
 
 <div class="col-lg-12">
 
-<!--<h2 style="margin-top: 116px; margin-bottom: 36px;">Additional Team Members</h2>-->
+<br>
+
+<h2>Event Supervisors and Evaluation Committee</h2>
+
+<br>
 
 <ul class="gridder col-lg-12">
-{% for member in site.data.other_members %}
+{% for member in site.data.event_supervisors %}
 
 	<li class="gridder-list equalize col-lg-4" data-griddercontent="#{{ member.id }}">
 		<img class="img-circle" src="../img/team/{{ member.pic }}" width="200" height="200">
@@ -56,10 +64,11 @@ permalink: /team/
 		<h4>{{ member.school }}</h4>
 	</li>
 
-
 	<div id="{{ member.id }}" class="gridder-content col-md-4">
 		<div class="person-description">
-			<p>{{ member.bio }}</p>
+			{% if member.bio %}
+				<p>{{ member.bio }}</p>
+			{% endif %}
 			{% if member.favEvents %}
 				<p><strong>Favorite events:</strong> {{ member.favEvents }}</p>
 			{% endif %}
