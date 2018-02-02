@@ -6,6 +6,10 @@ permalink: /details/
 
 <div>
 
+<a class="btn btn-md btn-mid" href="/doc/results.pdf">FINAL RESULTS</a>
+
+<br>
+
 <a class="btn btn-md btn-mid" href="/doc/welcome_letter.pdf">Welcome Letter</a>
 <a class="btn btn-md btn-mid" href="/doc/day_schedule.pdf">Day of Schedule</a>
 <a class="btn btn-md btn-mid" href="/doc/eventschedule.pdf">Event Schedule</a>
