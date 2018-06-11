@@ -1,51 +1,22 @@
-- name: Alex Lu 
-  school: Biomedical Computation, Stanford 2019
-  bio: Hi! I’m Alex, I went to Palo Alto High School! Looking forward to a fun second year of GGSO. Also looking forward to not having to drive to Berkeley… the cinnamon buns were worth it though. 
-  favEvents: Anatomy and Physiology, Forensics
-  funFact: This pic is from pre-prom after States 2015 .__. 
-  email: alu2@stanford.edu
-  pic: Alex.jpg
-  id: alex 
+- name: Kevin Meng, Executive Director 
+  school: Psychology and Economics, UC Berkeley 2020
+  bio: Hi, my name is Kevin Meng, I’m an Ed W. Clark HS Scioly alumni and captain. In preparation for state and nationals, I’ve stayed at school so late that midnight snacks and basketball with the cleaning staff is a norm. I’ve been told before that my love for Science Olympiad is “infectious”. Spread the love and stay committed!
+  favEvents: Gravity Vehicle, Elastic Launched Glider, Wright Stuff, WIDI
+  funFact: My team and I won a state championship in soccer! I have a fierce passion for music and sports. Play me.
+  linkedin: https://www.linkedin.com/in/kevinmeng1
+  email: kevinlmeng@berkeley.edu
+  pic: Kmeng.png
+  id: kevinM
+  
+- name: Sarah Gurev, Executive Director
+  school: Computer Science, Stanford 2020
+  bio: Hi, I’m Sarah Gurev, and I'm a Mira Loma High School and Winston Churchill Middle School Scioly alum. I've had the opportunity to attend Nationals five times, and the distinct pleasure of competing in every single water event each time. Science Olympiad was such a large part of my life, so I'm grateful it's not quite over yet. I'm really excited to help bring this tournament to life!
+  favEvents: Protein Modeling, Awesome Aquifers, Dynamic Planet
+  funFact: I was very overprotective of my protein model, possibly because I was constantly worrying that my cat would eat it.
+  pic: Sarah.jpg
+  id: sarah
 
-- name: Allison Yao 
-  school: Psychology, Berkeley 2021
-  bio: Hello, I'm Allison! I am an alum and was a captain of the Temple City HS Science Olympiad team from Southern California. Science Olympiad was undoubtedly the defining experience of my high school career, and I am beyond excited to take it to the next step in college with this incredible opportunity to make this tournament a reality. Science on!
-  favEvents: Forensics, Invasive Species, anything ID really :)
-  funFact: I guess I'm a meme?  ¯\_(ツ)_/¯ 
-  email: allison_y@berkeley.edu    
-  pic: Allison_Y.jpg
-  id: allison
-
-- name: Abraham Chen  
-  school: Economics  and Computer Science, Berkeley 2019
-  bio: Hi, my name is Abraham Chen, I’m a Mounds View Scioly Alumni, and I’ve been involved in Scioly all through high school. One time my team’s Scioly bus got stranded on a highway for 7 hours, making our trip to a tournament 21+ hours. That’s dedication.
-  favEvents: Forensics, Fossils and Experimental Design
-  funFact: I like heights because it scares me. 
-  linkedin: https://www.linkedin.com/in/abrahamchen1
-  email: abraham.chen1@berkeley.edu
-  pic: Abraham.jpg
-  id: abraham
-
-- name: Colin Barber
-  school: Microbiology, Berkeley PhD Program
-  bio: Hi I’m Colin and I love microbes. I competed for Wellwood Middle School and Fayetteville-Manlius High School and I graduated with a BS in microbiology from Cornell University last May. For three years, I also helped lead Science Olympiad at Cornell where I served as co-president 2015-16. Did I mention I love microbes?
-  favEvents: Microbe Mission, Fermi Questions, Thermodynamics
-  funFact: I have a buzzcut in my picture because my Fermi partner and I agreed to shave each other’s heads if we got 1st in Fermi at States 2013. The rest is history.
-  linkedin: https://www.linkedin.com/in/colin-barber-a206b1a6/
-  email: cbarber@berkeley.edu
-  pic: colin.jpg
-  id: colin
-
-- name: Dhruv Puri
-  school: Molecular and Cellular Biology, Berkeley 2019 
-  bio: Hi, my name is Dhruv, I’m a LASA Scioly Alumni, and I’ve been involved in Scioly all through high school. Science Olympiad helped me find my passion for biology and had led me to a career in medicine.
-  favEvents: Anatomy and Physiology, Protein Modeling, Material Science
-  funFact: Most nights you can find me DJing in SF or LA at salsa and bachata clubs. 
-  email: dhruvpuri@berkeley.edu
-  pic: Dhruv.jpg  
-  id: dhruv
-
-- name: Kathryn Li 
+- name: Kathryn Li, Tournament Director
   school: Molecular and Cell Biology, Berkeley 2020
   bio: Hi, my name is Kathryn and I’m a Palo Alto Science Olympiad alum. In my three years on the team, I’ve competed in a variety of study, lab, and build events, from Chem Lab to Bridge Building. Science Olympiad has been the most important influencer of my college career, so I am incredibly excited to give back to the community through this tournament!
   favEvents: Forensics, Chem Lab, Protein Modeling, Bridge Building
@@ -54,7 +25,54 @@
   pic: Kathryn.png
   id: kathryn
 
-- name: Ryan Cohen 
+- name: Allison Yao, Tournament Director
+  school: Psychology, Berkeley 2021
+  bio: Hello, I'm Allison! I am an alum and was a captain of the Temple City HS Science Olympiad team from Southern California. Science Olympiad was undoubtedly the defining experience of my high school career, and I am beyond excited to take it to the next step in college with this incredible opportunity to make this tournament a reality. Science on!
+  favEvents: Forensics, Invasive Species, anything ID really :)
+  funFact: I guess I'm a meme?  ¯\_(ツ)_/¯ 
+  email: allison_y@berkeley.edu    
+  pic: Allison_Y.jpg
+  id: allison
+  
+- name: Colin Barber, Tournament Director
+  school: Microbiology, Berkeley PhD Program
+  bio: Hi I’m Colin and I love microbes. I competed for Wellwood Middle School and Fayetteville-Manlius High School and I graduated with a BS in microbiology from Cornell University last May. For three years, I also helped lead Science Olympiad at Cornell where I served as co-president 2015-16. Did I mention I love microbes?
+  favEvents: Microbe Mission, Fermi Questions, Thermodynamics
+  funFact: I have a buzzcut in my picture because my Fermi partner and I agreed to shave each other’s heads if we got 1st in Fermi at States 2013. The rest is history.
+  linkedin: https://www.linkedin.com/in/colin-barber-a206b1a6/
+  email: cbarber@berkeley.edu
+  pic: colin.jpg
+  id: colin
+  
+- name: Abraham Chen, Tournament Director, Founder
+  school: Economics  and Computer Science, Berkeley 2019
+  bio: Hi, my name is Abraham Chen, I’m a Mounds View Scioly Alumni, and I’ve been involved in Scioly all through high school. One time my team’s Scioly bus got stranded on a highway for 7 hours, making our trip to a tournament 21+ hours. That’s dedication.
+  favEvents: Forensics, Fossils and Experimental Design
+  funFact: I like heights because it scares me. 
+  linkedin: https://www.linkedin.com/in/abrahamchen1
+  email: abraham.chen1@berkeley.edu
+  pic: Abraham.jpg
+  id: abraham
+  
+- name: Alex Lu, Tournament Director, Founder
+  school: Biomedical Computation, Stanford 2019
+  bio: Hi! I’m Alex, I went to Palo Alto High School! Looking forward to a fun second year of GGSO. Also looking forward to not having to drive to Berkeley… the cinnamon buns were worth it though. 
+  favEvents: Anatomy and Physiology, Forensics
+  funFact: This pic is from pre-prom after States 2015 .__. 
+  email: alu2@stanford.edu
+  pic: Alex.jpg
+  id: alex 
+
+- name: Dhruv Puri, Tournament Director, Founder
+  school: Molecular and Cellular Biology, Berkeley 2019 
+  bio: Hi, my name is Dhruv, I’m a LASA Scioly Alumni, and I’ve been involved in Scioly all through high school. Science Olympiad helped me find my passion for biology and had led me to a career in medicine.
+  favEvents: Anatomy and Physiology, Protein Modeling, Material Science
+  funFact: Most nights you can find me DJing in SF or LA at salsa and bachata clubs. 
+  email: dhruvpuri@berkeley.edu
+  pic: Dhruv.jpg  
+  id: dhruv
+
+- name: Ryan Cohen, Tournament Director, Founder
   school: Mechanical Engineering, Stanford 2019 
   bio: Hey, I’m Ryan! I’m an alumni of Mira Loma High School from Sacramento, California and I competed all seven years in B and C divisions. In addition to helping run GGSO, catch me with the arbitration team at NorCal regional and state tournaments. Or hit me up on the GGSO snapchat account 😉
   linkedin: To quote esteemed California governor Arnold Schwarzenegger, “I haven’t gotten around to it”.
@@ -62,18 +80,7 @@
   pic: Ryan.jpg
   id: ryan
 
-  
-- name: Neil Patil
-  school: Computer Science, UT Austin 2020
-  bio: Hello! I'm a LASA alum and was captain of LASA's Science Olympiad team during 2015 and 2016. I did build events, which means that most of my SciO memories involve soldering in a hotel room bathtub, getting gliders stuck in chandeliers, or getting kicked out of Wal-Mart at 1 AM (sometimes you gotta test Scrambler the night before...) Science Olympiad has been a pretty big part of my life (in both the good and bad ways), so I'm glad to be helping run this tournament.
-  favEvents: Scrambler, Mission Possible
-  linkedin: https://www.linkedin.com/in/patil215
-  email: neilpatil215@gmail.com
-  pic: Neil.jpg
-  role: Website and Technology Development
-  id: neil
-
-- name: Rohan Chakraborty 
+- name: Rohan Chakraborty, Tournament Director, Founder
   school: Chemical Engineering, Berkeley 2019
   bio: Hi! I'm Rohan, and I’m an alum of Seven Lakes High School and Beckendorff Junior High in Katy, Texas. Throughout my Science Olympiad experience, I’ve competed extensively in building events such as Gravity Vehicle and Scrambler as well in as lab events like Chemistry Lab and Forensics. I had a blast organizing our inaugural tournament for you all, and I'm looking forward to making our next tournament even greater!
   favEvents: Forensics and Chem Lab
@@ -83,19 +90,12 @@
   pic: Rohan.jpg 
   id: rohan
 
-- name: Kevin Meng 
-  school: Psychology and Economics, UC Berkeley 2020
-  bio: Hello! Call me Kevin or kmeng! I’m an Ed W. Clark HS Scioly alumni and captain. In preparation for state and nationals, I’ve stayed at school so late that midnight snacks and basketball with the cleaning staff is a norm. I’ve been told before that my love for Science Olympiad is “infectious”. Spread the love and stay committed!
-  favEvents: Gravity Vehicle, Elastic Launched Glider, Wright Stuff, WIDI
-  funFact: My team and I won a state championship in soccer! I have a fierce passion for music and sports. Play me.
-  email: kevinlmeng@berkeley.edu
-  pic: Kmeng.png
-  id: kevinM
-
-- name: Sarah Gurev
-  school: Computer Science, Stanford 2020
-  bio: Hi, I’m Sarah Gurev, and I'm a Mira Loma High School and Winston Churchill Middle School Scioly alum. I've had the opportunity to attend Nationals five times, and the distinct pleasure of competing in every single water event each time. Science Olympiad was such a large part of my life, so I'm grateful it's not quite over yet. I'm really excited to help bring this tournament to life!
-  favEvents: Protein Modeling, Awesome Aquifers, Dynamic Planet
-  funFact: I was very overprotective of my protein model, possibly because I was constantly worrying that my cat would eat it.
-  pic: Sarah.jpg
-  id: sarah
+- name: Neil Patil
+  school: Computer Science, UT Austin 2020
+  bio: Hello! I'm a LASA alum and was captain of LASA's Science Olympiad team during 2015 and 2016. I did build events, which means that most of my SciO memories involve soldering in a hotel room bathtub, getting gliders stuck in chandeliers, or getting kicked out of Wal-Mart at 1 AM (sometimes you gotta test Scrambler the night before...) Science Olympiad has been a pretty big part of my life (in both the good and bad ways), so I'm glad to be helping run this tournament.
+  favEvents: Scrambler, Mission Possible
+  linkedin: https://www.linkedin.com/in/patil215
+  email: neilpatil215@gmail.com
+  pic: Neil.jpg
+  role: Website and Technology Development
+  id: neil
