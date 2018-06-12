@@ -10,7 +10,7 @@ permalink: /details/
 
 <br>
 
-<!--a class="btn btn-md btn-mid" href="/doc/welcome_letter.pdf">Welcome Letter</a>
+<a class="btn btn-md btn-mid" href="/doc/welcome_letter.pdf">Welcome Letter</a>
 <a class="btn btn-md btn-mid" href="/doc/day_schedule.pdf">Day of Schedule</a>
 <a class="btn btn-md btn-mid" href="/doc/eventschedule.pdf">Event Schedule</a>
 <a class="btn btn-md btn-mid" href="/doc/signup_schedule.pdf">Event Signup Schedule</a>
@@ -18,7 +18,7 @@ permalink: /details/
 
 <br>
 
-<!---a class="btn btn-md btn-mid" href="/doc/teamlist.pdf">List of Teams</a>
+<a class="btn btn-md btn-mid" href="/doc/teamlist.pdf">List of Teams</a>
 <a class="btn btn-md btn-mid" href="https://www.google.com/maps/d/u/0/viewer?mid=1mcrinzbQ5xZ24DlDjq8XIW4LAzxc4P3y&ll=37.867848%2C-122.25735899999995&z=14">Full Digital Map</a>
 <a class="btn btn-md btn-mid" href="/doc/maps_2018.pdf">Homerooms and Event Map</a>
 <a class="btn btn-md btn-mid" href="/doc/parkingmap.pdf">Parking Details and Map</a>
