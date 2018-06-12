@@ -31,7 +31,7 @@ permalink: /details/
 
 # Eligibility & Registration Policies
 
-Registration and the waitlist are now closed. We look forward to welcoming our 50 teams from across the nation this January!
+* Registration will open soon.
 
 <br>
 <br>
