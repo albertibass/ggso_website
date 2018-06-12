@@ -10,8 +10,8 @@ permalink: /details/
 
 <br>
 
-<a class="btn btn-md btn-mid" href="/doc/welcome_letter.pdf">Welcome Letter</a>
-<a class="btn btn-md btn-mid" href="/doc/day_schedule.pdf">Day of Schedule</a>
+<!--a class="btn btn-md btn-mid" href="/doc/welcome_letter.pdf">Welcome Letter</a-->
+<!--a class="btn btn-md btn-mid" href="/doc/day_schedule.pdf">Day of Schedule</a-->
 <a class="btn btn-md btn-mid" href="/doc/eventschedule.pdf">Event Schedule</a>
 <a class="btn btn-md btn-mid" href="/doc/signup_schedule.pdf">Event Signup Schedule</a>
 <a class="btn btn-md btn-mid" href="/doc/award_schedule.pdf">Award Ceremony Schedule</a>
