@@ -30,25 +30,96 @@
 
 - name: Allison Yao
   position: Tournament Director
-  school: Psychology, Berkeley 2021
-  bio: Hello, I'm Allison! I am an alum and was a captain of the Temple City HS Science Olympiad team from Southern California. Science Olympiad was undoubtedly the defining experience of my high school career, and I am beyond excited to take it to the next step in college with this incredible opportunity to make this tournament a reality. Science on!
-  favEvents: Forensics, Invasive Species, anything ID really :)
-  funFact: I guess I'm a meme?  ¯\_(ツ)_/¯ 
-  email: allison_y@berkeley.edu    
-  pic: Allison_Y.jpg
+  school: Molecular Environmental Biology and Psychology, Berkeley 2021
+  bio: Hi, I’m Allison! I love everything Science Olympiad -- my years of competing, the amazing community of people I’ve met, and this very tournament. I’m beyond excited to see what the upcoming season will bring to the table!
+  favEvents: Invasive Species, Herpetology, Forensics
+  funFact: I’ve gone viral on the Internet. 
+  email: allison_y@berkeley.edu
+  pic: Allison_Yao.jpg
   id: allison
-  
+
 - name: Colin Barber
   position: Tournament Director
   school: Microbiology, Berkeley PhD Program
-  bio: Hi I’m Colin and I love microbes. I competed for Wellwood Middle School and Fayetteville-Manlius High School and I graduated with a BS in microbiology from Cornell University last May. For three years, I also helped lead Science Olympiad at Cornell where I served as co-president 2015-16. Did I mention I love microbes?
+  bio: Hi, I’m Colin and I love microbes! I competed for Fayetteville-Manlius High School and I graduated with a BS in Microbiology from Cornell in 2017. For three years, I also helped lead Science Olympiad at Cornell. When I’m not searching for new sources of antibiotics in my lab, I co-chair the Science Olympiad Alumni Task Force. Did I mention I love microbes?
   favEvents: Microbe Mission, Fermi Questions, Thermodynamics
-  funFact: I have a buzzcut in my picture because my Fermi partner and I agreed to shave each other’s heads if we got 1st in Fermi at States 2013. The rest is history.
+  funFact: 
   linkedin: https://www.linkedin.com/in/colin-barber-a206b1a6/
   email: cbarber@berkeley.edu
-  pic: colin.jpg
+  pic: Colin_Barber.jpg
   id: colin
-  
+
+- name: Valerie Hsieh
+  position: Tournament Director
+  school: Physics and German, Berkeley 2020
+  bio: Hey, I’m Valerie! Although I’m not a Science Olympiad alum, I have always been passionate about science and science outreach. I’m incredibly excited to be a part of GGSO’s Executive Board, and am looking forward to help organize a tournament that gives so much to the Bay Area and SciOly communities.
+  favEvents: Herpetology, Mousetrap Vehicle, Materials Science
+  funFact: One time, Tina Fey’s bodyguard pushed me away from her after a major fangirl moment at the Tony Awards. It was awesome.
+  email: valeriehsieh@berkeley.edu
+  pic: Valerie_Hsieh.jpg
+  id: valerie
+
+- name: Faith Harron
+  position: Tournament Director
+  school: Mechanical Engineering, Stanford 2021
+  bio: Hello, I’m Faith--I’m a Bismarck Century High alum, and was a part of Science Olympiad since my middle school years. SciO was always one of my favorite extracurricular activities, and I’m delighted to continue my involvement at university.
+  favEvents: Astronomy, Dynamic Planet, Anatomy and Physiology
+  funFact: Joan of Arc is my great-aunt--like 11 greats in there, but I am directly descended from her brother.
+  email: feharron@stanford.edu
+  pic: Faith_Harron.jpg
+  id: feharron
+
+
+- name: Kelly Yu
+  position: Tournament Director
+  school: Economics, Berkeley 2021
+  bio: Hello, I’m Kelly! I’m an alum of John P. Stevens Science Olympiad in Edison, New Jersey. (East coast represent!)  I have made some of my best memories through SciOly, from the loud bus rides to the actual tournament days. Most importantly, SciOly has taught me to constantly stay curious and hungry.
+  faveEvents: Forensics, Fossils, Microbe Mission
+  funFact: I played the clarinet for 10 years!
+  email: kelly_yu@berkeley.edu
+  pic: Kelly_Yu.jpg
+  id: kelly
+
+- name: Evelyn Zhang
+  position: Tournament Director
+  school: Human Biology, Stanford 2021
+  bio: Hi!! I’m Evelyn, and I’m a Mira Loma Sci Oly alumni. I was only on the team since sophomore year, but those 3 years definitely shaped my passions and love for science. It was Science Olympiad that developed my interest in biology and led me to pursue a career in medicine. 
+  favEvents: Anatomy and Physiology, Disease Detectives
+  funFact: I actually didn’t want to do Disease Detectives until my sci oly coach put me on the event sophomore year, and by senior year I was 1st in the nation for the event. Lets just say that my coach made a good call :)
+  email: evzhang@stanford.edu
+  pic: Evelyn_Zhang.jpg
+  id: evelyn
+
+- name: Amy Jiang
+  position: Tournament Director
+  school: Berkeley 2022
+  bio: Hi, I'm Amy! I'm a SciOly alum from Interlake High School, where I competed for three years--a few too little, in my opinion. Despite (or maybe thanks to...) almost losing three teammates on the plane and another two during the BART ride, GGSO has been one of the best tournaments I've attended in high school and I'm excited to make it even better!
+  favEvents: Astronomy, Hovercraft, Wright Stuff, Materials Science
+  funFact: I'm very passionate about the taste of water. 
+  email: p.amyjiang@berkeley.edu
+  pic: Amy_Jiang.jpg
+  id: amy
+
+- name: Matthew Tang
+  position: Tournament Director
+  school: Electrical Engineering and Computer Science, Berkeley 2022
+  bio: Hi, I'm Matthew, a SciOly alum from Northwood High School. Having competed for 6 years, SciOly has been a major part of my life. Many of my fondest memories have been from Science Olympiad and I've been able to meet many close friends, competing with them over the years. I'm excited to be on the other side now organizing tournaments for the community!
+  favEvents: Mission Possible, Disease Detectives, Robot Arm
+  funFact: I love puns, puzzles, and cryptography! Sad that Code Busters came back the year after I graduated.
+  email: matthewtang@berkeley.edu
+  pic: Matthew_Tang.jpg
+  id: matthew
+
+- name: Emily Wen
+  position: Tournament Director
+  school: Stanford 2022
+  bio: Hi! I'm Emily, an alum of NCSSM and Enloe High School SciOly. Through my 6 years of competing, I've met the most amazing community, both on my teams and online. I'm so glad I can continue being involved through GGSO. Super excited to help make this invite happen! :)
+  favEvents: Codebusters, Experimental Design, Dynamic Planet
+  funFact: I've never competed in a scioly invitational.
+  email: ewen22@stanford.edu
+  pic: Emily_Wen.JPG
+  id: emily
+
 - name: Abraham Chen
   position: Tournament Director, Founder
   school: Economics  and Computer Science, Berkeley 2019
@@ -86,7 +157,7 @@
   bio: Hey, I’m Ryan! I’m an alumni of Mira Loma High School from Sacramento, California and I competed all seven years in B and C divisions. In addition to helping run GGSO, catch me with the arbitration team at NorCal regional and state tournaments. Or hit me up on the GGSO snapchat account 😉
   linkedin: To quote esteemed California governor Arnold Schwarzenegger, “I haven’t gotten around to it”.
   email: rrcohen@stanford.edu
-  pic: Ryan.jpg
+  pic: Ryan_Cohen.jpg
   id: ryan
 
 - name: Rohan Chakraborty
