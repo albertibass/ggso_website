@@ -118,3 +118,65 @@
   email: ewen22@stanford.edu
   pic: Emily_Wen.jpg
   id: emily
+
+- name: Abraham Chen
+  position: Tournament Director, Founder
+  school: Economics  and Computer Science, Berkeley 2019
+  bio: Hi, my name is Abraham Chen, I’m a Mounds View Scioly Alumni, and I’ve been involved in Scioly all through high school. One time my team’s Scioly bus got stranded on a highway for 7 hours, making our trip to a tournament 21+ hours. That’s dedication.
+  favEvents: Forensics, Fossils and Experimental Design
+  funFact: I like heights because it scares me. 
+  linkedin: https://www.linkedin.com/in/abrahamchen1
+  email: abraham.chen1@berkeley.edu
+  pic: Abraham.jpg
+  id: abraham
+  
+- name: Alex Lu
+  position: Tournament Director, Founder
+  school: Biomedical Computation, Stanford 2019
+  bio: Hi! I’m Alex, I went to Palo Alto High School! Looking forward to a fun second year of GGSO. Also looking forward to not having to drive to Berkeley… the cinnamon buns were worth it though. 
+  favEvents: Anatomy and Physiology, Forensics
+  funFact: This pic is from pre-prom after States 2015 .__. 
+  email: alu2@stanford.edu
+  pic: Alex.jpg
+  id: alex 
+
+- name: Dhruv Puri
+  position: Tournament Director, Founder
+  school: Molecular and Cellular Biology, Berkeley 2019 
+  bio: Hi, my name is Dhruv, I’m a LASA Scioly Alumni, and I’ve been involved in Scioly all through high school. Science Olympiad helped me find my passion for biology and had led me to a career in medicine.
+  favEvents: Anatomy and Physiology, Protein Modeling, Material Science
+  funFact: Most nights you can find me DJing in SF or LA at salsa and bachata clubs. 
+  email: dhruvpuri@berkeley.edu
+  pic: Dhruv.jpg  
+  id: dhruv
+
+- name: Ryan Cohen
+  position: Tournament Director, Founder
+  school: Mechanical Engineering, Stanford 2019 
+  bio: Hey, I’m Ryan! I’m an alumni of Mira Loma High School from Sacramento, California and I competed all seven years in B and C divisions. In addition to helping run GGSO, catch me with the arbitration team at NorCal regional and state tournaments. Or hit me up on the GGSO snapchat account 😉
+  linkedin: To quote esteemed California governor Arnold Schwarzenegger, “I haven’t gotten around to it”.
+  email: rrcohen@stanford.edu
+  pic: Ryan_Cohen.jpg
+  id: ryan
+
+- name: Rohan Chakraborty
+  position: Tournament Director, Founder
+  school: Chemical Engineering, Berkeley 2019
+  bio: Hi! I'm Rohan, and I’m an alum of Seven Lakes High School and Beckendorff Junior High in Katy, Texas. Throughout my Science Olympiad experience, I’ve competed extensively in building events such as Gravity Vehicle and Scrambler as well in as lab events like Chemistry Lab and Forensics. I had a blast organizing our inaugural tournament for you all, and I'm looking forward to making our next tournament even greater!
+  favEvents: Forensics and Chem Lab
+  funFact: I love anything and everything Drake.
+  linkedin: https://www.linkedin.com/in/rohan-chakraborty-394313112?trk=nav_responsive_tab_profile
+  email: rohanchak@berkeley.edu
+  pic: Rohan.jpg 
+  id: rohan
+
+- name: Neil Patil
+  position: Website
+  school: Computer Science, UT Austin 2020
+  bio: Hello! I'm a LASA alum and was captain of LASA's Science Olympiad team during 2015 and 2016. I did build events, which means that most of my SciO memories involve soldering in a hotel room bathtub, getting gliders stuck in chandeliers, or getting kicked out of Wal-Mart at 1 AM (sometimes you gotta test Scrambler the night before...) Science Olympiad has been a pretty big part of my life (in both the good and bad ways), so I'm glad to be helping run this tournament.
+  favEvents: Scrambler, Mission Possible
+  linkedin: https://www.linkedin.com/in/patil215
+  email: neilpatil215@gmail.com
+  pic: Neil.jpg
+  role: Website and Technology Development
+  id: neil
