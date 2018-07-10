@@ -23,7 +23,8 @@ permalink: /team/
 
 	</li>
 
-	<div id="{{ member.id }}" class="gridder-content col-lg-4">
+<!--	<div id="{{ member.id }}" class="gridder-content col-lg-4">-->
+<li class="gridder-list equalize col-lg-4" data-griddercontent="#{{ member.id }}">
 		<div class="person-description">
 			<p>{{ member.bio }}</p>
 			{% if member.favEvents %}
