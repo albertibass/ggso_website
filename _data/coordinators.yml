@@ -49,6 +49,16 @@
   pic: Colin_Barber.jpg
   id: colin
 
+- name: Faith Harron
+  position: Tournament Director
+  school: Mechanical Engineering, Stanford 2021
+  bio: Hello, I’m Faith--I’m a Bismarck Century High alum, and was a part of Science Olympiad since my middle school years. SciO was always one of my favorite extracurricular activities, and I’m delighted to continue my involvement at university.
+  favEvents: Astronomy, Dynamic Planet, Anatomy and Physiology
+  funFact: Joan of Arc is my great-aunt--like 11 greats in there, but I am directly descended from her brother.
+  email: feharron@stanford.edu
+  pic: Faith_Harron.jpg
+  id: feharron
+  
 - name: Valerie Hsieh
   position: Tournament Director
   school: Physics and German, Berkeley 2020
@@ -59,16 +69,6 @@
   pic: Valerie_Hsieh.jpg
   id: valerie
   
-- name: Faith Harron
-  position: Tournament Director
-  school: Mechanical Engineering, Stanford 2021
-  bio: Hello, I’m Faith--I’m a Bismarck Century High alum, and was a part of Science Olympiad since my middle school years. SciO was always one of my favorite extracurricular activities, and I’m delighted to continue my involvement at university.
-  favEvents: Astronomy, Dynamic Planet, Anatomy and Physiology
-  funFact: Joan of Arc is my great-aunt--like 11 greats in there, but I am directly descended from her brother.
-  email: feharron@stanford.edu
-  pic: Faith_Harron.jpg
-  id: feharron
-
 - name: Kelly Yu
   position: Tournament Director
   school: Economics, Berkeley 2021
