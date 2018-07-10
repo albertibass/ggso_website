@@ -38,16 +38,6 @@
   pic: Allison_Yao.jpg
   id: allison
   
-- name: Valerie Hsieh
-  position: Tournament Director
-  school: Physics and German, Berkeley 2020
-  bio: Hey, I’m Valerie! Although I’m not a Science Olympiad alum, I have always been passionate about science and science outreach. I’m incredibly excited to be a part of GGSO’s Executive Board, and am looking forward to help organize a tournament that gives so much to the Bay Area and SciOly communities.
-  favEvents: Herpetology, Mousetrap Vehicle, Materials Science
-  funFact: One time, Tina Fey’s bodyguard pushed me away from her after a major fangirl moment at the Tony Awards. It was awesome.
-  email: valeriehsieh@berkeley.edu
-  pic: Valerie_Hsieh.jpg
-  id: valerie
-  
 - name: Colin Barber
   position: Tournament Director
   school: Microbiology, Berkeley PhD Program
@@ -58,7 +48,17 @@
   email: cbarber@berkeley.edu
   pic: Colin_Barber.jpg
   id: colin
-
+  
+- name: Valerie Hsieh
+  position: Tournament Director
+  school: Physics and German, Berkeley 2020
+  bio: Hey, I’m Valerie! Although I’m not a Science Olympiad alum, I have always been passionate about science and science outreach. I’m incredibly excited to be a part of GGSO’s Executive Board, and am looking forward to help organize a tournament that gives so much to the Bay Area and SciOly communities.
+  favEvents: Herpetology, Mousetrap Vehicle, Materials Science
+  funFact: One time, Tina Fey’s bodyguard pushed me away from her after a major fangirl moment at the Tony Awards. It was awesome.
+  email: valeriehsieh@berkeley.edu
+  pic: Valerie_Hsieh.jpg
+  id: valerie
+  
 - name: Faith Harron
   position: Tournament Director
   school: Mechanical Engineering, Stanford 2021
@@ -68,6 +68,7 @@
   email: feharron@stanford.edu
   pic: Faith_Harron.jpg
   id: feharron
+  
 - name: Kelly Yu
   position: Tournament Director
   school: Economics, Berkeley 2021
