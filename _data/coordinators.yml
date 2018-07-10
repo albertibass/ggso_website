@@ -17,7 +17,7 @@
   funFact: I was very overprotective of my protein model, possibly because I was constantly worrying that my cat would eat it.
   pic: Sarah.jpg
   id: sarah
-
+  
 - name: Kathryn Li
   position: Tournament Director
   school: Molecular and Cell Biology, Berkeley 2020
@@ -27,7 +27,7 @@
   email: katli@berkeley.edu 
   pic: Kathryn.png
   id: kathryn
-
+  
 - name: Allison Yao
   position: Tournament Director
   school: Molecular Environmental Biology and Psychology, Berkeley 2021
@@ -38,7 +38,7 @@
   pic: Allison_Yao.jpg
   id: allison
   
-  - name: Valerie Hsieh
+- name: Valerie Hsieh
   position: Tournament Director
   school: Physics and German, Berkeley 2020
   bio: Hey, I’m Valerie! Although I’m not a Science Olympiad alum, I have always been passionate about science and science outreach. I’m incredibly excited to be a part of GGSO’s Executive Board, and am looking forward to help organize a tournament that gives so much to the Bay Area and SciOly communities.
