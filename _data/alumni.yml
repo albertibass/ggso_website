@@ -8,7 +8,7 @@
   email: abraham.chen1@berkeley.edu
   pic: Abraham.jpg
   id: abraham
-
+  
 - name: Alex Lu
   position: Tournament Director, Founder
   school: Biomedical Computation, Stanford 2019
@@ -18,7 +18,7 @@
   email: alu2@stanford.edu
   pic: Alex.jpg
   id: alex
-
+  
 - name: Dhruv Puri
   position: Tournament Director, Founder
   school: Molecular and Cellular Biology, Berkeley 2019
@@ -28,7 +28,7 @@
   email: dhruvpuri@berkeley.edu
   pic: Dhruv.jpg
   id: dhruv
-
+  
 - name: Ryan Cohen
   position: Tournament Director, Founder
   school: Mechanical Engineering, Stanford 2019
@@ -37,7 +37,7 @@
   email: rrcohen@stanford.edu
   pic: Ryan_Cohen.jpg
   id: ryan
-
+  
 - name: Rohan Chakraborty
   position: Tournament Director, Founder
   school: Chemical Engineering, Berkeley 2019
@@ -48,7 +48,7 @@
   email: rohanchak@berkeley.edu
   pic: Rohan.jpg
   id: rohan
-
+  
 - name: Neil Patil
   position: Website
   school: Computer Science, UT Austin 2020
