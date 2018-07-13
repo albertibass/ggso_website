@@ -3,12 +3,21 @@ layout: info
 title: The Team
 permalink: /team/
 ---
-<script src = "team.js"></script>
+
 
 <div class="text-center">
 
 <!--<h2 style="margin-bottom: 36px;">Tournament Coordinators</h2>-->
-
+<script>
+function alumni() {
+    var x = document.getElementById("alumni");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
 <p class="btn btn-lg btn-dark" onclick="alumni()">Toggle Alumni</p><br>
 
 <h1>Executive Board</h1>
@@ -170,13 +179,4 @@ $(function() {
 });
 </script>
 
-<script>
-function alumni() {
-    var x = document.getElementById("alumni");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
-</script>
+
