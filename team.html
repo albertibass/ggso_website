@@ -9,17 +9,20 @@ permalink: /team/
 
 <!--<h2 style="margin-bottom: 36px;">Tournament Coordinators</h2>-->
 <script>
-function alumni() {
-    var x = document.getElementById("alumni");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
+function alumni(id) {
+    var a = document.getElementById("exec");
+	var b = document.getElementById("alumni");
+	var c = document.getElementById("supervisors");
+    if (id == 2){
+		a.style.display = "none";
+		b.style.display = "block";
+		c.style.display = "none";
+	}
 }
 </script>
-<p class="btn btn-lg btn-dark" onclick="alumni()">Toggle Alumni</p><br>
+<p class="btn btn-lg btn-dark" onclick="alumni(2)">Toggle Alumni</p><br>
 
+<div class="col-lg-12" id="exec">
 <h1>Executive Board</h1>
 
 <br>
@@ -57,6 +60,7 @@ function alumni() {
 
 {% endfor %}
 </ul>
+</div>
 
 <div class="col-lg-12" id="alumni">
 
@@ -101,11 +105,9 @@ function alumni() {
 
 {% endfor %}
 </ul>
+</div>
 
-<div class="col-lg-12">
-
-<br>
-
+<div class="col-lg-12" id="supervisors">
 <h2>Event Supervisors and Evaluation Committee</h2>
 
 <br>
@@ -145,7 +147,6 @@ function alumni() {
 
 {% endfor %}
 </ul>
-</div>
 </div>
 </div>
 
