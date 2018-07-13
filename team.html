@@ -30,8 +30,14 @@ function toggle_team(id) {
 	}
 }
 </script>
-<p class="btn btn-lg btn-dark" onclick="toggle_team(1)">Executive Board</p> <p>     </p>
-<p class="btn btn-lg btn-dark" onclick="toggle_team(2)">Alumni</p><p>     </p>
+<script>
+function top() {
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+</script>
+<p class="btn btn-lg btn-dark" onclick="toggle_team(1)">Executive Board</p>
+<p class="btn btn-lg btn-dark" onclick="toggle_team(2)">Alumni</p>
 <p class="btn btn-lg btn-dark" onclick="toggle_team(3)">Event Supervisors</p>
 
 <div class="col-lg-12" id="exec">
@@ -74,7 +80,7 @@ function toggle_team(id) {
 </ul>
 </div>
 
-<div class="col-lg-12" id="alumni">
+<div class="col-lg-12" id="alumni" style="display: none;">
 
 <br>
 
@@ -119,7 +125,8 @@ function toggle_team(id) {
 </ul>
 </div>
 
-<div class="col-lg-12" id="supervisors">
+<div class="col-lg-12" id="supervisors" style="display: none;">
+
 <h2>Event Supervisors and Evaluation Committee</h2>
 
 <br>
@@ -160,6 +167,7 @@ function toggle_team(id) {
 {% endfor %}
 </ul>
 </div>
+<p class="btn btn-lg btn-dark" onclick="top()">Back to Top</p>
 </div>
 
 <script>
