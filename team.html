@@ -9,18 +9,30 @@ permalink: /team/
 
 <!--<h2 style="margin-bottom: 36px;">Tournament Coordinators</h2>-->
 <script>
-function alumni(id) {
+function toggle_team(id) {
     var a = document.getElementById("exec");
 	var b = document.getElementById("alumni");
 	var c = document.getElementById("supervisors");
-    if (id == 2){
+    if (id == 1){
+		a.style.display = "block";
+		b.style.display = "none";
+		c.style.display = "none";
+	}
+	else if (id == 2){
 		a.style.display = "none";
 		b.style.display = "block";
 		c.style.display = "none";
 	}
+	else if (id == 3){
+		a.style.display = "none";
+		b.style.display = "none";
+		c.style.display = "block";
+	}
 }
 </script>
-<p class="btn btn-lg btn-dark" onclick="alumni(2)">Toggle Alumni</p><br>
+<p class="btn btn-lg btn-dark" onclick="toggle_team(1)">Executive Board</p> <p>     </p>
+<p class="btn btn-lg btn-dark" onclick="toggle_team(2)">Alumni</p><p>     </p>
+<p class="btn btn-lg btn-dark" onclick="toggle_team(3)">Event Supervisors</p>
 
 <div class="col-lg-12" id="exec">
 <h1>Executive Board</h1>
