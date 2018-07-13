@@ -6,14 +6,14 @@
   linkedin: https://www.linkedin.com/in/patil215
   email: neilpatil215@gmail.com
   pic: Neil.jpg
-  role: Website Creator and Event Supervisor for Mission Possible
+  role: Mission Possible
   id: neil
 
 - name: Ken Chen
   school: Computer Science, Berkeley 2019
   bio: Hey, I'm Ken! I'm a Palo Alto HS Scioly alum. Currently a junior at UC Berkeley studying Computer Science. Also like to study food, traveling, books, and anything else to keep me from being bored.
   pic: Ken.jpg
-  role: Event Supervisor for Fermi Questions
+  role: Fermi Questions
   id: kenchen
 
 - name: David Yang
@@ -21,12 +21,12 @@
   bio: Hi! I'm David, and I'm an alum from Mira Loma High school. Science Olympiad was a big part of my life, and I spent countless hours doing almost every build event, so I've had my fair share of all nighters and last minute runs to Home Depot. Even though Science Olympiad caused me sleep deprivation and a whole lotta stress, I loved every second of it, and I look forward to continuing my Sci Oly career as an event coordinator for Helicopters!
   favEvents: Robot Arm, Wright Stuff, Electric Vehicle
   pic: DavidYang.jpg
-  role: Event Supervisor for Helicopters
+  role: Helicopters
   id: davidyang
 
 - name: Sang-O Park
   pic: Sango.jpg
-  role: Event Supervisor for Herpetology
+  role: Herpetology
   id: sangopark
 
 - name: Shaina Zuber
@@ -35,7 +35,7 @@
   favEvent: Cell biology
   funFact: My second memory is of the SF Giants losing the World Series in 2002, so I guess you could say I'm passionate about baseball.
   pic: ShainaZ.jpg
-  role: Event Supervisor for Microbe Mission
+  role: Microbe Mission
   id: shainazuber
 
 
@@ -43,7 +43,7 @@
   school: UC Berkeley, PhD
   bio: A UC Berkeley alumnus, David Mrdjenovich is excited to continue his education as a first year PhD student in Materials Science at Cal, working towards a career in academia. Engaging in computational materials science research, David is an active member of the Persson Group at Lawrence Berkeley National Labs, investigating the properties of high-symmetry deformational pathways in crystals. As part of the Persson Group, David also contributes to the development of the Materials Project, an infrastructure for materials computation and a public repository of materials properties. Apart from research, David is passionate about sharing science with the larger community and is happy to assist in the coordination of the 2017 Golden Gate Science Olympiad competition. 
   pic: DavidM.jpg
-  role: Event Supervisor for Materials Science
+  role: Materials Science
   id: davidmrdjen
 
 
@@ -51,7 +51,7 @@
   school: Computer Science and Aerospace Engineering, Stanford 2019
   bio: Hey, I'm Nick! I've had the joy of competing in Science Olympiad for 3 years at Troy High school in Fullerton, CA, during which I got to be a part of two Nationals-winning teams. I captained the team in my senior year and enjoyed competing in my favorite events It's About Time and Compound Machines, along with some more frustrating/hellish events like Anatomy, MagLev (1st place at Nats, yay!), Experimental Design, and Bridges. 
   funFact: My MagLev car for Nationals 201 was made to work (at 2 am on the day of Nationals) with the help of a component salvaged from a Happy Meal toy.  
-  role: Event Supervisor for Towers
+  role: Towers
   pic: Nick.png
   id: nickbowman
 
@@ -61,7 +61,7 @@
   bio: Hi! Over the course of 6 years, I competed for Winston Churchill Middle school and Mira Loma High school in Sacramento, CA. In those years, Science Olympiad became the most important influence on my collegiate and career choices leading me to where I am today. I hope to contribute to Science Olympiad to further impose the competition's positive influence on other students to help them discover their passions.
   favEvents: Fossils, Technical Problem Solving, Remote Sensing
   pic: Rohan Konnur.jpg
-  role: Event Supervisor for Experimental Design
+  role: Experimental Design
   id: rohankonnur
 
 
@@ -71,7 +71,7 @@
   favEvents: Chemistry Lab, Experimental Design
   funFact: My research involves many compounds that are pyrophoric, which means they catch on fire when they touch air!
   pic: Alvin.jpg
-  role: Event Supervisor for Chem Lab
+  role: Chemistry Lab
   id: alvinhsu
 
 
@@ -81,7 +81,7 @@
   favEvents: Fossils, Rocks and Minerals, Invasive Species (and all other ID and Geo events :D)
   funFact: My spirit animal is a taco.
   pic: Steven.jpg
-  role: Event Supervisor for Rocks and Minerals
+  role: Rocks and Minerals
   id: stevensolorzano
 
 
@@ -97,7 +97,7 @@
 - name: Aileen Lavelle
   school: Environmental Science, Berkeley 2021
   pic: Aileen.jpg
-  role: Event Supervisor for Ecology
+  role: Ecology
   id: aileenlavelle
 
 
@@ -107,7 +107,7 @@
   favEvents: Astronomy, Forensics, Fermi Questions, Storm the Castle, Sounds of Music
   funFact: I’m also an orchestral conductor.
   pic: Hanjay.jpg
-  role: Event Supervisor for Forensics
+  role: Forensics
   id: hanjaywang
 
 
@@ -117,7 +117,7 @@
   FavEvents: Rocks and Minerals, Fossils
   FunFact: My tetris battle record is 94 lines.
   pic: Vyan.jpg
-  role: Event Supervisor for Remote Sensing
+  role: Remote Sensing
   id: vyanphan
 
 
@@ -127,7 +127,7 @@
   favEvents: Experimental Design, Optics, Write It Do It, Protein Modeling
   funFact: In my free time, I sing and participate in Bollywood dancing. Yes, I am from the Midwest, and no, I don’t live on a farm. 
   pic: ShainaD.JPG
-  role: Event Supervisor for Experimental Design
+  role: Experimental Design
   id: shainadesai
 
 
@@ -137,7 +137,7 @@
   favEvents: Protein Modeling, Anatomy and Physiology, Game On
   funFact:  I have a profound appreciation for arugula
   pic: Sarina.jpg
-  role: Event Supervisor for Game On
+  role: Game On
   id: sarinaxin
 
 
@@ -147,7 +147,7 @@
   favEvents: Herpetology, Ornithology
   funFact: I'm still waiting for SciOly to introduce Chiropterology…
   pic: Mindy.jpg
-  role: Event Supervisor for Herpetology
+  role: Herpetology
   id: mindyperkins
 
 
@@ -155,7 +155,7 @@
   bio: In high school, Science Olympiad played an important role in my decision to pursue a career in science. I'm currently a graduate student in the physics department at UC Berkeley. I was lucky enough to compete at 2010 and 2011 nationals with my team from Acton-Boxborough Regional High school in Massachusetts. I have many fond memories with my team, both in competition and just hanging out. I'm glad to be able to stay involved with SciOly through GGSO!
   favEvents: wind power, chem lab
   pic: Vyassa.jpg
-  role: Event Supervisor for Optics
+  role: Optics
   id: vyassabaratham
 
 
@@ -164,7 +164,7 @@
   favEvents: Sounds of Music, Fermi Questions, Ornithology 
   funFact: There's stock audio of a Whip-poor-will in Zelda":" Breath of the Wild and I only know that because of Science Olympiad
   pic: AlexS.jpg 
-  role: Event Supervisor for Thermodynamics
+  role: Thermodynamics
   id: alexsettle
 
 
@@ -172,7 +172,7 @@
   bio: Hi! I'm Saarang, and I’m an alum of Clements High school in Sugar Land, TX. Science Olympiad was one of my most defining experiences in High school, and I'm super excited to continue in college! I'm looking forward to helping others get the same, awesome experience in Science Olympiad as I did. 
   funFact: I have blue hair in this picture because our team agreed to dye it if we made nats :)
   pic: Saarang.jpg
-  role: Event Supervisor for Hovercraft
+  role: Hovercraft
   id: saarangpach
 
 
@@ -181,7 +181,7 @@
   bio: Hello, I’m Varun. I’m an alum and former captain of LASA. I’ve been involved with Science Olympiad for 7 years and the three years I spent in high school making enormous binders and staying up until 2 AM the night before a competition cramming, finishing binders, and taking tests were some of the most rewarding and defining moments of my high school experience. I’ve had the great honor of competing at Nationals three times and I'm excited to be able to write exams and improve the experience of current competitors. 
   favEvents: Fossils, Rocks and Minerals, Invasive Species, Anatomy and Physiology
   funFact: The majority of my Fossils binder was handwritten (I know it sounds odd, but it worked), so whenever I took it to competition it was always carried inside a small duffel bag to protect it from the elements. 
-  role: Event Supervisor for Herpetology
+  role: Herpetology
   pic: Varun.jpg
   id: varunsudunagunta
 
@@ -192,7 +192,7 @@
   favEvents: Anatomy and Physiology, Astronomy, Rocks and Minerals, Dynamic Planet
   funFact: I write sci-fi and fantasy books in my free time!
   pic: Faith.jpg
-  role: Evaluation Committee and Event Supervisor for Dynamic Planet
+  role: Dynamic Planet
   id: faithharron
 
 
@@ -201,7 +201,7 @@
   bio: Hi!! I'm Evelyn Zhang, a Sci Oly alum from Mira Loma High school. It's an understatement to say that Science Olympiad changed my life, and I can't wait to keep doing what I love the most :)
   favEvents: Anatomy and Physiology, Disease Detectives, Experimental Design
   pic: Evelyn.jpg
-  role: Evaluation Committee and Event Supervisor for Disease Detectives
+  role: Disease Detectives
   id: evelynzhang
 
 
