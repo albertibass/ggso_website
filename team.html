@@ -8,6 +8,8 @@ permalink: /team/
 
 <!--<h2 style="margin-bottom: 36px;">Tournament Coordinators</h2>-->
 
+<p class="btn btn-lg btn-dark" onclick="alumni()">Toggle Alumni</p><br>
+
 <h1>Executive Board</h1>
 
 <br>
@@ -46,7 +48,7 @@ permalink: /team/
 {% endfor %}
 </ul>
 
-<div class="col-lg-12">
+<div class="col-lg-12" id="alumni">
 
 <br>
 
@@ -166,3 +168,12 @@ $(function() {
 
 });
 </script>
+<script>
+function alumni() {
+    var x = document.getElementById("alumni");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
