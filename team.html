@@ -30,12 +30,6 @@ function toggle_team(id) {
 	}
 }
 </script>
-<script>
-function top() {
-    document.body.scrollTop = 0; // For Safari
-    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-}
-</script>
 <p class="btn btn-lg btn-dark" onclick="toggle_team(1)">Executive Board</p>
 <p class="btn btn-lg btn-dark" onclick="toggle_team(2)">Alumni</p>
 <p class="btn btn-lg btn-dark" onclick="toggle_team(3)">Event Supervisors</p>
@@ -167,7 +161,6 @@ function top() {
 {% endfor %}
 </ul>
 </div>
-<p class="btn btn-lg btn-dark" onclick="top()">Back to Top</p>
 </div>
 
 <script>
