@@ -78,12 +78,6 @@ h1, h2, h3 {
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(0,0,0,0.2);
-}
-
-.btn-body {
-    border-radius: 0;
-    color: #fff;
     background-color: rgba(0,0,0,0.7);
 }
 
@@ -94,13 +88,6 @@ h1, h2, h3 {
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
-    color: #fff;
-    background-color: rgba(0,0,0,0.7);
-}
-
-.btn-body:hover,
-.btn-body:focus,
-.btn-body:active {
     color: #fff;
     background-color: rgba(0,0,0,0.2);
 }
