@@ -81,6 +81,12 @@ h1, h2, h3 {
     background-color: rgba(0,0,0,0.2);
 }
 
+.btn-mid {
+    border-radius: 0;
+    color: #fff;
+    background-color: rgba(0,0,0,0.7);
+}
+
 .btn-nobackground {
     background: none;   
 }
@@ -90,6 +96,13 @@ h1, h2, h3 {
 .btn-dark:active {
     color: #fff;
     background-color: rgba(0,0,0,0.7);
+}
+
+.btn-mid:hover,
+.btn-mid:focus,
+.btn-mid:active {
+    color: #fff;
+    background-color: rgba(0,0,0,0.2);
 }
 
 .btn-light {
