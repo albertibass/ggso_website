@@ -1,0 +1,37 @@
+---
+layout: info
+title: Resource Center
+permalink: /ggrc/
+---
+<h2> About GGRC</h2>
+
+The Golden Gate Resource Center(GGRC) is an initiative started in 2018 to provide event guides for the community, free of cost. If you are interested in contributing to the GGRC or have any suggestions for content you would like to see, feel free to email us at goldengatescioly@gmail.com 
+
+<br>
+<br>
+
+<div class = "tiles">
+
+{% for event in site.ggrc %}
+<a class="btn btn-md btn-mid" style="background-color:#2e66b6;color: #ffffff;" href="./{{event.docname}}">
+	<p>{{event.title}}</p>
+	{% if event.type == "study" %}
+		<i class = "material-icons"> chrome_reader_mode </i>
+	{% endif %}
+	
+	{% if event.type == "lab" %}
+		<i class = "material-icons"> timeline </i>
+	{% endif %}
+	
+	{% if event.type == "build" %}
+		<i class = "material-icons"> build </i>
+	{% endif %}
+</a>
+{% endfor %}
+
+<br>
+</div>
+
+<br>
+
+

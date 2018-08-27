@@ -382,3 +382,46 @@ img[alt="randy"] {
     height: 400px;
     width: auto;
 }
+
+div.tiles,
+div.panel {
+	margin: 0 -10px;
+}
+.tiles > div,
+.tiles > a {
+	/*background-color: #2e66b6;*/
+	box-sizing: border-box;
+	float: left;
+	margin: 15px 10px 5px 10px;
+	padding: 15px 20px 22px 20px;
+	text-align: center;
+	width: calc(20% - 20px);
+	transition: opacity 0.3s;
+}
+.panel > div {
+	box-sizing: border-box;
+	float: left;
+	margin: 15px 10px 5px 10px;
+	padding: 20px 40px 40px 40px;
+	width: calc(50% - 20px);
+}
+.tiles > a:hover {
+	cursor: hand;
+	opacity: 0.8;
+	text-decoration: none;
+}
+.tiles p {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 10px 0 15px 0;
+	text-transform: uppercase;
+}
+.tiles i {
+	font-size: 80px;
+}
+.tiles::after,
+.panel:after {
+	content: "";
+	clear: both;
+	display: table;
+}

@@ -7,3 +7,8 @@ url: ""
 github_username:  patil215
 
 markdown: kramdown
+
+collections:
+    ggrc:
+        output: true
+        permalink: /ggrc/:path/
