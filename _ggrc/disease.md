@@ -1,6 +1,6 @@
 ---
 layout: ggrc
-title: Disease
+title: Disease Detectives
 type: study
 docname: disease
 ---
