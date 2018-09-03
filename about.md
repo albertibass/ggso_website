@@ -8,7 +8,7 @@ permalink: /about/
 
 Golden Gate Science Olympiad was founded in 2015 by Ryan Cohen, Dhruv Puri, Rohan Chakraborty, Jonathan Wang, Denis Li, Alex Lu, and Abraham Chen, with the mission to improve the Science Olympiad experience of high school students nationwide.  The members of Golden Gate Science Olympiad have volunteered at Science Olympiad tournaments across the country, proctoring events and assisting behind the scenes at invitational, regional, and state tournaments.
 
-On February 9, 2019, Golden Gate Science Olympiad will be hosting their second tournament at UC Berkeley. This winter, you can look forward to:
+On February 9, 2019, Golden Gate Science Olympiad will be hosting their third tournament at UC Berkeley. This winter, you can look forward to:
 
 *Quality Events.* Each of the 23 Division C national events will be written, run, and reviewed by a past national medalist or national event supervisor. This also means coaches will NOT have to volunteer or write tests for the invitational! Teams will receive copies of the tests and answer keys following the competition.
 
