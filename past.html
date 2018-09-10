@@ -13,7 +13,10 @@ permalink: /past/
 		<img class="tournamentPhoto" src="/img/tournaments/{{ tournament.directorsPhoto }}">
 	</div>
 	<div class="col-lg-4" style="margin-top:24px;"><p>{{ tournament.description }}</p>
-	<a href="{{ tournament.website }}" class="btn btn-mid">Go to webpage</a></div>
+	<a href="{{ tournament.website }}" class="btn btn-mid">Go to webpage</a>
+	{% if tournament.pictures %}
+		<a href="{{ tournament.pictures }}" class="btn btn-mid">Pictures</a>
+	{% endif %}
 </div>
 {% endfor %}
 </script>
