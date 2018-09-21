@@ -21,7 +21,17 @@ permalink: /details/
 
 # Eligibility & Registration Policies
 
-* Registration will open soon.
+* Schools must be registered with their home state Science Olympiad organization (and must have paid all applicable state and national fees) prior to competing in the Golden Gate Science Olympiad Invitational Tournament.
+
+* Teams’ places in the tournament are reserved in the order that they submit the online registration form, provided that the registration fee (paid by check) is received by Golden Gate SciOly by November 1, 2019.  Teams whose payment is not received by November 1 will forfeit their place to a team on the waitlist.  Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
+
+* The Golden Gate Science Olympiad Invitational Tournament is a Division C competition.  All teams must conform to the Science Olympiad Division C membership rules.
+
+* All students on each team must be eligible to compete for that team as per the eligibility rules specified on soinc.org.
+
+* We reserve the right to cap registration at 50 teams and to close registration when 40 teams have registered.
+
+* All participating students must fill out several waivers and liability releases, which will be distributed to participating teams shortly after registration. 
 
 <br>
 <br>
