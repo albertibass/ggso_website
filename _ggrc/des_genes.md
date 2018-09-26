@@ -24,7 +24,7 @@ Designer Genes questions chiefly come in two flavors: Those that ask you to reca
 Although I won’t be able to address every single problem you might face in your time as a Designer Genes competitor, I can give you a few pointers, outlined below:<br>
 
 1. **Remember the organism being asked about in the question.** While eukaryotes and bacteria, the two domains of concern in Designer Genes, are alike in many ways (at the most fundamental level, both code genetic information on DNA), they do have several key differences (for example, the structure of bacterial and eukaryotic genes is quite different). Knowing the difference between the two can be a matter of getting a question totally right or totally wrong. Some key differences between eukaryotic and bacterial molecular genetics are summarized below (I’ll leave it to you to figure out precisely what all of the items below actually mean), but as you study for the event, I encourage you to make a table of your own:
-![image](/ggrc_assets/des_genes_1.png){: .center-image}
+![image](/img/ggrc_assets/des_genes_1.png){: .center-image}
 
 2. **Ask yourself, “in light of what I know about biology, does my idea make sense?”** There’s no better time to ask yourself this question than while designing or evaluating an experiment. For example, let’s say you want to design an experiment to explore genes essential for DNA replication in bacteria. Is it possible to delete all copies of DNA polymerase III, the enzyme responsible for DNA replication in bacteria? What would the consequences be if you tried to delete such a gene?
 
