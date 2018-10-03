@@ -1,6 +1,6 @@
 ---
 layout: info
-title: Registration Announcement
+title: Volunteer
 permalink: /volunteer/
 ---
 
