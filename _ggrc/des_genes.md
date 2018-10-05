@@ -3,6 +3,7 @@ layout: ggrc
 title: Designer Genes
 type: study
 docname: des_genes
+version: 19.0
 ---
 
 **Introduction**<br>
