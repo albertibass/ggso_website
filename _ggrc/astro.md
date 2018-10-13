@@ -4,6 +4,8 @@ title: Astronomy
 type: study
 docname: astro
 version: 19.0
+test_2017: 1
+test_2018: 1
 ---
 
 **Introduction**

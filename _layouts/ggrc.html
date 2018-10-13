@@ -16,17 +16,17 @@ layout: default
             <div class="col-lg-12">
                 <div class="lead">
 					 <h1>{{ page.title }}</h1>
-					 {% if page.test_2017 %}
-					 <a class="btn btn-md btn-mid" href= {{ page.test_2017 }}>2017 Test</a>
+					 {% if page.test_2017 == 1 %}
+					 <a class="btn btn-md btn-mid" href= "/doc/ggrc/2017_{{ page.docname }}_exam.pdf">2017 Test</a>
 					 {% endif %}
-					 {% if page.key_2017 %}
-					 <a class="btn btn-md btn-mid" href= {{ page.key_2017 }}>2017 Key</a>
+					 {% if page.test_2017 == 1%}
+					 <a class="btn btn-md btn-mid" href= "/doc/ggrc/2017_{{ page.docname }}_key.pdf">2017 Key</a>
 					 {% endif %}
-					 {% if page.test_2018 %}
-					 <a class="btn btn-md btn-mid" href= {{ page.test_2018 }}>2018 Test</a>
+					 {% if page.test_2018 == 1%}
+					 <a class="btn btn-md btn-mid" href= "/doc/ggrc/2018_{{ page.docname }}_exam.pdf">2018 Test</a>
 					 {% endif %}
-					 {% if page.key_2018 %}
-					 <a class="btn btn-md btn-mid" href= {{ page.key_2018 }}>2018 Key</a>
+					 {% if page.test_2018 == 1%}
+					 <a class="btn btn-md btn-mid" href= "/doc/ggrc/2018_{{ page.docname }}_key.pdf">2018 Key</a>
 					 <br>
 					 {% endif %}
 					 <br>
