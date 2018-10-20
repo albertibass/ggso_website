@@ -4,8 +4,8 @@ title: Anatomy
 type: study
 docname: anat
 version: 19.0
-test_2017: 0
-test_2018: 0
+test_2017: 1
+test_2018: 1
 ---
 
 **Introduction**
