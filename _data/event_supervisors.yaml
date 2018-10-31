@@ -1,207 +1,192 @@
 
-- name: Neil Patil
-  school: Computer Science, UT Austin 2020
-  bio: Hello! I'm a LASA alum and was captain of LASA's Science Olympiad team during 2015 and 2016. I did build events, which means that most of my SciO memories involve soldering in a hotel room bathtub, getting gliders stuck in chandeliers, or getting kicked out of Wal-Mart at 1 AM (sometimes you gotta test Scrambler the night before...) Science Olympiad has been a pretty big part of my life (in both the good and bad ways), so I'm glad to be helping run this tournament.
-  favEvents: Scrambler, Mission Possible
-  linkedin: https://www.linkedin.com/in/patil215
-  email: neilpatil215@gmail.com
-  pic: Neil.jpg
-  role: Mission Possible
-  id: neil
-
-- name: Ken Chen
-  school: Computer Science, Berkeley 2019
-  bio: Hey, I'm Ken! I'm a Palo Alto HS Scioly alum. Currently a junior at UC Berkeley studying Computer Science. Also like to study food, traveling, books, and anything else to keep me from being bored.
-  pic: Ken.jpg
-  role: Fermi Questions
-  id: kenchen
-
-- name: David Yang
-  school: Berkeley 2021
-  bio: Hi! I'm David, and I'm an alum from Mira Loma High school. Science Olympiad was a big part of my life, and I spent countless hours doing almost every build event, so I've had my fair share of all nighters and last minute runs to Home Depot. Even though Science Olympiad caused me sleep deprivation and a whole lotta stress, I loved every second of it, and I look forward to continuing my Sci Oly career as an event coordinator for Helicopters!
-  favEvents: Robot Arm, Wright Stuff, Electric Vehicle
-  pic: DavidYang.jpg
-  role: Helicopters
-  id: davidyang
-
-- name: Sang-O Park
-  pic: Sango.jpg
-  role: Herpetology
-  id: sangopark
-
-- name: Shaina Zuber
-  school: Mathematics and Economics/Business Administration, Berkeley 2020
-  bio: Hi, I'm Shaina, a graduate of Mira Loma High school.  After being asked to fill in for my school's SciOly B team at Regionals my junior year, I joined the the team as a senior and had the distinct pleasure of getting to compete at nationals in Cell biology and Protein Modeling.  After this great experience, I was thrilled to write the Microbe Mission test at GGSO last year, and am really excited to be participating again this year.
-  favEvent: Cell biology
-  funFact: My second memory is of the SF Giants losing the World Series in 2002, so I guess you could say I'm passionate about baseball.
-  pic: ShainaZ.jpg
-  role: Microbe Mission
-  id: shainazuber
-
-
-- name: David Mrdjenovich
-  school: UC Berkeley, PhD
-  bio: A UC Berkeley alumnus, David Mrdjenovich is excited to continue his education as a first year PhD student in Materials Science at Cal, working towards a career in academia. Engaging in computational materials science research, David is an active member of the Persson Group at Lawrence Berkeley National Labs, investigating the properties of high-symmetry deformational pathways in crystals. As part of the Persson Group, David also contributes to the development of the Materials Project, an infrastructure for materials computation and a public repository of materials properties. Apart from research, David is passionate about sharing science with the larger community and is happy to assist in the coordination of the 2017 Golden Gate Science Olympiad competition. 
-  pic: DavidM.jpg
-  role: Materials Science
-  id: davidmrdjen
-
-
-- name: Nick Bowman
-  school: Computer Science and Aerospace Engineering, Stanford 2019
-  bio: Hey, I'm Nick! I've had the joy of competing in Science Olympiad for 3 years at Troy High school in Fullerton, CA, during which I got to be a part of two Nationals-winning teams. I captained the team in my senior year and enjoyed competing in my favorite events It's About Time and Compound Machines, along with some more frustrating/hellish events like Anatomy, MagLev (1st place at Nats, yay!), Experimental Design, and Bridges. 
-  funFact: My MagLev car for Nationals 201 was made to work (at 2 am on the day of Nationals) with the help of a component salvaged from a Happy Meal toy.  
-  role: Towers
-  pic: Nick.png
-  id: nickbowman
-
-
-- name: Rohan Konnur
-  school: Electrical Engineering and Computer Science, Berkeley 2019
-  bio: Hi! Over the course of 6 years, I competed for Winston Churchill Middle school and Mira Loma High school in Sacramento, CA. In those years, Science Olympiad became the most important influence on my collegiate and career choices leading me to where I am today. I hope to contribute to Science Olympiad to further impose the competition's positive influence on other students to help them discover their passions.
-  favEvents: Fossils, Technical Problem Solving, Remote Sensing
-  pic: Rohan Konnur.jpg
-  role: Experimental Design
-  id: rohankonnur
-
-
-- name: Alvin Hsu
-  school: Chemistry and Computer Science, UC Berkeley 2019
-  bio: Hi, my name is Alvin Hsu, and I'm a Mission San Jose Scioly alum. I had the pleasure of competing in lab events, such as Chemistry Lab, Experimental Design, and Technical Problem Solving. I also got to try my hand at a couple build events, such as Mission Possible, but we don't like to talk about how those went.
-  favEvents: Chemistry Lab, Experimental Design
-  funFact: My research involves many compounds that are pyrophoric, which means they catch on fire when they touch air!
-  pic: Alvin.jpg
-  role: Chemistry Lab
-  id: alvinhsu
-
-
-- name: Steven Solorzano
-  school: Geology, UC Davis 2021
-  bio: I’m an alum from the North Hollywood HGM and the former team captain of their Science Olympiad team. I was on Oly for three years and it was the best thing I have ever devoted myself to being a part of. It made me much more knowledgeable in the sciences that I love and helped me meet amazing people. Now I hope to use my skills to give you all the best experience with Rocks and Minerals at GGSO.
-  favEvents: Fossils, Rocks and Minerals, Invasive Species (and all other ID and Geo events :D)
-  funFact: My spirit animal is a taco.
-  pic: Steven.jpg
-  role: Rocks and Minerals
-  id: stevensolorzano
-
+- name: Rebecca Shi
+  school: Neurosciences, Stanford Graduate Student
+  bio: Hi! I participated in Science Olympiad with West-Windsor Plainsboro High School South (NJ) from 2008-2011, and now I am a fourth year graduate student in the Stanford Neurosciences PhD Program. Science Olympiad helped foster my love for biology, and the community we have is fantastic -- I’m thrilled that I still have the chance to give back to Science Olympiad as an alum!
+  role: Anatomy and Physiology
+  favEvents: Ornithology, Cell Biology, Ecology
+  funFact: I enjoy teaching, birdwatching, and playing video games + board games!
+  pic: Rebecca_Shi.jpg
+  id: Rebecca_Shi
 
 - name: Tad Komacek
-  school: University of Arizona, Graduate Student
-  bio: Hi, I’m Tad Komacek! I’m a graduate student at the University of Arizona and a graduate of Harriton High school. I’ve been co-supervising the Astronomy C event at the National Science Olympiad since 2010, and am excited to come back to Golden Gate.
-  favEvents: Astronomy, Dynamic Planet, and Remote Sensing
-  pic: tad.jpg
-  role: Event Supervisor for Astronomy
-  id: tadkomacek
+  school: Geophysical Sciences, University of Chicago 2013
+  bio: I'm a postdoc at the University of Chicago. My research is focused on the climate and atmospheric circulation of extrasolar planets. 
+  role: Astronomy
+  favEvents: It's About Time, Astronomy, Solar System
+  funFact: KELT-9 is the hottest planet known, with a dayside temperature similar to that of a K-dwarf star.
+  pic: Tad_Komacek.jpg
+  id: Tad_Komacek
 
+- name: Connor Todd
+  school: Mechanical Engineering, University of Michigan 2020
+  bio: I grew up outside Philadelphia and competed in Science Olympiad at Harriton High School. Astronomy was and is my favorite event, and an obsession from a young age. I am currently a National Event Supervisor for this event, and I’m so thankful for the opportunity I’ve had to be part of the organization that gave me so much!
+  role: Astronomy
+  favEvents: Astronomy, Remote Sensing, Geologic Mapping
+  funFact: I once coordinated a relay with my college's running club from one of Michigan to the other (184 miles!) in less than 24 hours
+  pic: Connor_Todd.jpg
+  id: Connor_Todd
 
-- name: Aileen Lavelle
-  school: Environmental Science, Berkeley 2021
-  pic: Aileen.jpg
-  role: Ecology
-  id: aileenlavelle
+- name: Nick Bowman
+  school: Computer Science, Stanford 2019
+  bio: Hey, I'm Nick! I had the joy of competing in Science Olympiad for 3 years at Troy High School in Fullerton, CA, during which I got to be a part of two Nationals-winning teams. I captained the team in my senior year and really enjoyed participating in invitationals, which is why I now try to give back by volunteering at events like GGSO. I'm really looking forward to meeting all the competitors and making this event a great one.
+  role: Boomilever
+  favEvents: It's About Time, Maglev
+  funFact: My MagLev car for Nationals 2014 was made to work (at 2 am on the day of Nationals) with the help of a component salvaged from a Happy Meal toy.
+  pic: Nick_Bowman.jpg
+  id: Nick_Bowman
 
-
-- name: Hanjay Wang
-  school: Resident in Cardiothoracic Surgery, Stanford University
-  bio: Hi! I’m a heart surgeon-in- training at Stanford University, and my interests include both adult and pediatric heart surgery, and developing new surgical technologies for use in the operating room. I previously competed in Scioly for Naperville Central High school (IL), leading the team to its first ever Nationals appearance in 2007. I’m still involved with Scioly as a coach for Palo Alto High school, and I hope to continue contributing at Scioly tournaments of all levels in the future.
-  favEvents: Astronomy, Forensics, Fermi Questions, Storm the Castle, Sounds of Music
-  funFact: I’m also an orchestral conductor.
-  pic: Hanjay.jpg
-  role: Forensics
-  id: hanjaywang
-
-
-- name: Vy-An Phan
-  school: Electrical Engineering & Computer Science, 2019
-  bio: What's up! I'm from Orange, California where I was a co-captain of Troy Scioly. It was definitely a big part of my high school years, and now I'm really excited to come back to help.
-  FavEvents: Rocks and Minerals, Fossils
-  FunFact: My tetris battle record is 94 lines.
-  pic: Vyan.jpg
-  role: Remote Sensing
-  id: vyanphan
-
-
-- name: Shaina Desai
-  school: Public Health, UC Berkeley 2020
-  bio: Hi, my name is Shaina, and I am an alumna of Pembroke Hill, located in Kansas City, Missouri. Science Olympiad was a defining extracurricular for me throughout middle and high school, as I was able to travel with my best friends to several cities for the nationals tournament each year. I look forward to helping with Science Olympiad and giving back to one of my favorite parts of high school! :) 
-  favEvents: Experimental Design, Optics, Write It Do It, Protein Modeling
-  funFact: In my free time, I sing and participate in Bollywood dancing. Yes, I am from the Midwest, and no, I don’t live on a farm. 
-  pic: ShainaD.JPG
-  role: Experimental Design
-  id: shainadesai
-
-
-- name: Sarina Xin
-  school: UC Berkeley
-  bio: Hey I'm Sarina! I am an alum and former captain of the Columbia team in NY. I've been involved in Scioly since middle school. The highlight of my Scioly career was when I got to frolic with baby cows with my friends in Wisconsin. 
-  favEvents: Protein Modeling, Anatomy and Physiology, Game On
-  funFact:  I have a profound appreciation for arugula
-  pic: Sarina.jpg
-  role: Game On
-  id: sarinaxin
-
-
-- name: Mindy Perkins
-  school: Electrical Engineering, UC Berkeley Ph.D. program
-  bio: Hi, my name is Mindy and I graduated high school in 2011 from Peak to Peak Charter school in Lafayette, Colorado.  My crowning achievements with Science Olympiad include forgetting Godzilla's hometown, mistaking a protein for the USS Enterprise, and baking a complete periodic table of cupcakes.
-  favEvents: Herpetology, Ornithology
-  funFact: I'm still waiting for SciOly to introduce Chiropterology…
-  pic: Mindy.jpg
-  role: Herpetology
-  id: mindyperkins
-
+- name: Alex Ozdemir
+  school: Computer Science, PhD, Stanford TBD
+  bio: I'm Alex, and I love all things related to mathematics, engineering, and physical science. Back in the day I attended Mira Loma HS, where I competed in Science Olympiad. It helped me get excited about science & engineering, and I'm excited to help sustain the program now.
+  role: Chemistry Lab
+  favEvents: Circuit Lab, Optics, Experimental Design
+  funFact: The closest I've ever been to death was in a tent.
+  pic: Alex_Ozdemir.png
+  id: Alex_Ozdemir
 
 - name: Vyassa Baratham
-  bio: In high school, Science Olympiad played an important role in my decision to pursue a career in science. I'm currently a graduate student in the physics department at UC Berkeley. I was lucky enough to compete at 2010 and 2011 nationals with my team from Acton-Boxborough Regional High school in Massachusetts. I have many fond memories with my team, both in competition and just hanging out. I'm glad to be able to stay involved with SciOly through GGSO!
-  favEvents: wind power, chem lab
-  pic: Vyassa.jpg
-  role: Optics
-  id: vyassabaratham
+  school: Berkeley Grad Student (probably 2022-ish)
+  bio: I'm a graduate student in the physics department at UC Berkeley, and I've been curious about science for as long as I can remember. My current research involves understanding the electrical signals that neuroscientists use to study the brain. I have many fond memories of SciOly, and it's great to be able to give back!
+  role: Circuits Lab
+  favEvents: Wind Power, Chem Lab
+  funFact: I once got my hair cut by Yo-Yo Ma's barber
+  pic: Vyassa_Baratham.jpg
+  id: Vyassa_Baratham
 
+- name: Imon Husain
+  school: Physics and Computer Science, Berkeley 2022
+  bio: Hi! My name's Imon. I did Division B in 5th grade at Copley-Fairlawn Middle School in Ohio and then Division C for all four years of high school at Enloe High School in North Carolina. I'm excited to have the chance to still help out with Sci Oly after high school because the competition has been such a huge part of my life!
+  role: Codebusters
+  favEvents: Materials Science, Codebusters, Hovercraft
+  funFact: I play Super Smash Bros. Melee competitively and love designing/making video games!
+  pic: Imon_Husain.jpg
+  id: Imon_Husain
 
-- name: Alex Settle
-  bio: Hi, I'm Alex Settle. I was the co-captain of the Harriton High school Science Olympiad Team in 2012 and graduated with a B.S. in Chemical Engineering from Cornell in 2016. Science Olympiad was a huge part of my life and I would not be the person I am today without it. 
-  favEvents: Sounds of Music, Fermi Questions, Ornithology 
-  funFact: There's stock audio of a Whip-poor-will in Zelda":" Breath of the Wild and I only know that because of Science Olympiad
-  pic: AlexS.jpg 
-  role: Thermodynamics
-  id: alexsettle
+- name: Dhruv Puri
+  school: Molecular and Cellular Biology, Berkeley 2018
+  bio: I am an intern at the World Health Organization working in Neonatal health and programme development. I have been doing Science Olympiad since my sophomore year of highschool, and have been procotoring events since my freshman year of college. Science Olympiad is a great way to give back, and I really recommend to join us after you graduate!
+  role: Designer Genes
+  favEvents: Anatomy and Physiology, Protein Modeling, Geologic Mapping
+  funFact: I am a Latin DJ. 
+  pic: Dhruv_Puri.jpg
+  id: Dhruv_Puri
 
-
-- name: Saarang Panchavati
-  bio: Hi! I'm Saarang, and I’m an alum of Clements High school in Sugar Land, TX. Science Olympiad was one of my most defining experiences in High school, and I'm super excited to continue in college! I'm looking forward to helping others get the same, awesome experience in Science Olympiad as I did. 
-  funFact: I have blue hair in this picture because our team agreed to dye it if we made nats :)
-  pic: Saarang.jpg
-  role: Hovercraft
-  id: saarangpach
-
-
-- name: Varun Sudunagunta
-  school: biological Basis of Behavior and Earth Science, University of Pennsylvania 2021
-  bio: Hello, I’m Varun. I’m an alum and former captain of LASA. I’ve been involved with Science Olympiad for 7 years and the three years I spent in high school making enormous binders and staying up until 2 AM the night before a competition cramming, finishing binders, and taking tests were some of the most rewarding and defining moments of my high school experience. I’ve had the great honor of competing at Nationals three times and I'm excited to be able to write exams and improve the experience of current competitors. 
-  favEvents: Fossils, Rocks and Minerals, Invasive Species, Anatomy and Physiology
-  funFact: The majority of my Fossils binder was handwritten (I know it sounds odd, but it worked), so whenever I took it to competition it was always carried inside a small duffel bag to protect it from the elements. 
-  role: Herpetology
-  pic: Varun.jpg
-  id: varunsudunagunta
-
-
-- name: Faith Harron
-  school: Mechanical Engineering, Stanford 2021
-  bio: Hello, I'm Faith, a former six-year member of Science Olympiad and a captain of the Century High school team from Bismarck, North Dakota. What I learned in SciOly's never really left my life--love for science, skills and random facts alike. Sometimes knowing the Mohs scale of mineral hardness or the redshift effect of universe expansion proves useful!
-  favEvents: Anatomy and Physiology, Astronomy, Rocks and Minerals, Dynamic Planet
-  funFact: I write sci-fi and fantasy books in my free time!
-  pic: Faith.jpg
-  role: Dynamic Planet
-  id: faithharron
-
-
-- name: Evelyn Zhang
-  school: Human biology, Stanford 2021
-  bio: Hi!! I'm Evelyn Zhang, a Sci Oly alum from Mira Loma High school. It's an understatement to say that Science Olympiad changed my life, and I can't wait to keep doing what I love the most :)
-  favEvents: Anatomy and Physiology, Disease Detectives, Experimental Design
-  pic: Evelyn.jpg
+- name: Sophia Wang
+  school: Berkeley 2022
+  bio: Hi, I’m Sophia and I’m a Mira Loma High School and Winston Churchill Middle School Science Olympiad alum. I can’t really pinpoint exactly what I love about Science Olympiad, but it’s been seven years and I’m still here so I guess there must be something there.
   role: Disease Detectives
-  id: evelynzhang
+  favEvents: Disease Detectives, Ecology, Simple Machines
+  funFact: I've met a real life disease detective.
+  pic: Sophia_Wang.jpg
+  id: Sophia_Wang
 
+- name: Katherine Zhang
+  school: Earth Systems, Stanford 2022
+  bio: Hi! I'm Katherine, a graduate of West Windsor Plainsboro High School North in New Jersey. I've been doing Science Olympiad for over 5 years now and I'm excited to be continuing my involvement as an event supervisor for the first time! 
+  role: Dynamic Planet
+  favEvents: Fossils, Rocks and Minerals, and Dynamic Planet
+  funFact: I pour my milk before my cereal, but that's not important. 
+  pic: Katherine_Zhang.jpg
+  id: Katherine_Zhang
+
+- name: Hanjay Wang
+  school: Stanford Cardiothoracic Surgery Resident
+  bio: I competed for Naperville Central High School (IL) from 2004-2007, placing 3rd at Nationals in Astronomy.
+  role: Fermi Questions
+  favEvents: Fermi Questions, Mission Possible
+  funFact: I am an orchestral conductor
+  pic: Hanjay_Wang.jpg
+  id: Hanjay_Wang
+
+- name: Vivian Phan
+  school: EECS, Berkeley 2019
+  bio: I am a first-year grad student and cybersecurity researcher. In my spare time I cook, hack, and contemplate my life choices. I play the piano quite terribly, and Secret Hitler less terribly, but still pretty terribly.
+  role: Forensics
+  favEvents: Forensics, Fossils, Rocks and Minerals
+  funFact: The last confirmed kill in war made by a longbow was in 1940. The madman that took a longbow into WWII survived and lived until he was 90. This isn't about me; I just wanted people to know.
+  pic: Vivian_Phan.jpg
+  id: Vivian_Phan
+
+- name: Aileen Lavelle
+  school: Environmental Science , Berkeley 2021
+  bio: I like long walks on the beach and mineral identification. Science Olympiad sparked my passion in environmental science and ecology.
+  role: Fossils 
+  favEvents: Rocks and Minerals, Ecology and Fossils
+  funFact: I have an unrequited love for my dog and Will Smith, but both don't know I exist. 
+  pic: Aileen_Lavelle.jpg
+  id: Aileen_Lavelle
+
+- name: Peter Zhu
+  school: Mechanical Engineering / EECS, Berkeley 2021
+  bio: Hi! I'm Peter, an alum from Canyon Crest Academy in San Diego. I have been involved in Science Olympiad as far back as I can remember, and it has played a huge role in my life from shaping what I am currently studying to the friends I have made so far. I'm excited to be a part of the GGSO team and look forward to meeting you all!
+  role: Geologic Mapping
+  favEvents: Geologic Mapping, Wright Stuff, Experimental Design
+  funFact: I really like the squirrels at UC Berkeley.
+  pic: Peter_Zhu.jpg
+  id: Peter_Zhu
+
+- name: Rebecca Nelson
+  school: Ecology and Evolution , Stanford 2020
+  bio: I am a Daniel Wright JHS and Stevenson High School alumna! I competed in Science Olympiad for 6 years! I love all events involving ecology and geology. I currently do research on oak trees. 
+  role: Herpetology 
+  favEvents: Fossils, Forestry, Herpetology 
+  funFact: I like writing poetry. 
+  pic: Rebecca_Nelson.jpg
+  id: Rebecca_Nelson
+
+- name: Nikhil Gupta
+  school: Mechanical Engineering, Berkeley 2022
+  bio: Hi, I’m Nikhil, and I’m a graduate of Mira Loma High School. I’ve been doing Science Olympiad for seven years, and have loved every moment of it! I have done build events for my whole career so I know the stress involved with it from the last minute fix-ups to midnight runs to Hobby Stores. I am excited to continue Science Olympiad as an event supervisor for Mission Possible!
+  role: Mission Possible
+  favEvents: Robot Arm, Mission Possible, Helicopters
+  funFact: I can juggle
+  pic: Nikhil_Gupta.jpg
+  id: Nikhil_Gupta
+
+- name: Jun(e) Yang
+  school: Chemical Engineering, MIT 2020
+  bio: Hi! I'm Jun(e). I used to go to Troy High School until I got too old. My favorite parts of Science Olympiad were meeting people and crushing the souls of the weak. In my spare time, I like working on my undergraduate degree, painting my nails, and doing chemistry. 
+  role: Protein Modeling
+  favEvents: Protein Modelling, Chemistry Lab, Dynamic Planet
+  funFact: My name backwards is gullible. 
+  pic: Junyu_Yang.jpg
+  id: Jun(e)_Yang
+
+- name: Colin Barber
+  position: Tournament Director
+  school: Microbiology, Berkeley PhD Program
+  bio: Hi I’m Colin and I love microbes. I competed for Wellwood Middle School and Fayetteville-Manlius High School and I graduated with a BS in microbiology from Cornell University last May. For three years, I also helped lead Science Olympiad at Cornell where I served as co-president 2015-16. Did I mention I love microbes?
+  role: Sounds of Music
+  favEvents: Microbe Mission, Fermi Questions, Thermodynamics
+  funFact: My Fermi partner and I agreed to shave each other’s heads if we got 1st in Fermi at States 2013. The rest is history.
+  linkedin: https://www.linkedin.com/in/colin-barber-a206b1a6/
+  email: cbarber@berkeley.edu
+  pic: Colin_Barber.jpg
+  id: colin
   
+- name: Victor Lam
+  school: PhD in Molecular Biology and Biochemistry, UCSF 2022
+  bio: Hi, I'm Victor! I'm originally from Texas, and graduated from UT Austin in 2017. I'm a Science Olympiad alum from Cypress Lakes High School, and I continued to volunteer at SciOly tournaments in undergrad. I'm currently in the Bay Area pursuing my PhD and researching viruses!
+  role: Water Quality 
+  favEvents: Microbe Mission, Fossils, History of Science (former Tx Trial Event)
+  funFact: As an overachiever, I often split my time between SciOly and band back in high school. I still continue to play clarinet today!
+  pic: Victor_Lam.jpg
+  id: Victor_Lam
+
+- name: David Yang
+  school: Mechanical Engineering, Berkeley 2021
+  bio: Hi!! I’m David, and I’m a Mira Loma Sci Oly alumni. I was only on the team since freshman year, but those 4 years definitely shaped my passions and love for science. It was Science Olympiad that developed my interest in engineering and led me to pursue a career in mechanical engineering.
+  role: Wright Stuff
+  favEvents: Robot Arm, Wright Stuff, Air Trajectory
+  funFact: I finished building my air trajectory the night before I left for nationals and I had no idea if it was going to work. Still ended up getting that bread tho.
+  pic: David_Yang.jpg
+  id: David_Yang
+
+- name: Shangen Lu
+  school: Economics, Berkeley 2022
+  bio: Hi, I'm Shangen, former co-captain of Harriton High School. I did all sorts of events ranging from WiDi to herpetology to hovercraft. I'm really excited to come back to Scioly as an alumni.
+  role: Write It Do It
+  favEvents: Write It Do It, Hovercraft
+  funFact: It's pronounced why-die.
+  pic: Shangen_Lu.jpg
+  id: Shangen_Lu

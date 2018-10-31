@@ -6,7 +6,7 @@
   funFact: I like heights because it scares me.
   linkedin: https://www.linkedin.com/in/abrahamchen1
   email: abraham.chen1@berkeley.edu
-  pic: Abraham.jpg
+  pic: Abraham_Chen.jpg
   id: abraham
   
 - name: Alex Lu
@@ -16,7 +16,7 @@
   favEvents: Anatomy and Physiology, Forensics
   funFact: This pic is from pre-prom after States 2015 .__.
   email: alu2@stanford.edu
-  pic: Alex.jpg
+  pic: Alex_Lu.jpg
   id: alex
 
 - name: Denis Li
@@ -37,7 +37,7 @@
   favEvents: Anatomy and Physiology, Protein Modeling, Material Science
   funFact: Most nights you can find me DJing in SF or LA at salsa and bachata clubs.
   email: dhruvpuri@berkeley.edu
-  pic: Dhruv.jpg
+  pic: Dhruv_Puri.jpg
   id: dhruv
   
 - name: Jonathan Wang
@@ -68,7 +68,7 @@
   funFact: I love anything and everything Drake.
   linkedin: https://www.linkedin.com/in/rohan-chakraborty-394313112?trk=nav_responsive_tab_profile
   email: rohanchak@berkeley.edu
-  pic: Rohan.jpg
+  pic: Rohan_Chakraborty.jpg
   id: rohan
 
 - name: Neil Patil
@@ -78,5 +78,5 @@
   favEvents: Scrambler, Mission Possible
   linkedin: https://www.linkedin.com/in/patil215
   email: neilpatil215@gmail.com
-  pic: Neil.jpg
+  pic: Neil_Patil.jpg
   id: neil

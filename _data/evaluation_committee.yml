@@ -1,67 +1,39 @@
+- name: Ashish Chakraborty
+  school: Biomedical Engineering, University of Texas at Austin 2022
+  bio: Hi! I'm Ashish and I'm an alumnus of Beckendorff JH and Seven Lakes HS Science Olympiad. I've had the pleasure of attending five national tournaments, and I'm helping out with Golden Gate Science Olympiad because I truly believe in the role of alumni organizations in elevating the level of competition nationwide. I'm super excited for this opportunity!
+  favEvents: Write it Do it, Disease Detectives, Microbe Mission
+  funFact: I love violin and classical music!
+  pic: Ashish_Chakraborty.png
+  id: Ashish_Chakraborty
+  
+- name: Celine Wang
+  school: Chemistry, Harvey Mudd College 2022
+  bio: Hey guys, I'm Celine, a Palo Alto High School Scioly alum and former team captain. I've competed in Scioly for the last five years (but how much does middle school count) with some of my best friends and it has been one of best experiences of my life. I’ve competed in GGSO since its debut (a whopping two years) and I can’t wait to get involved again this year!
+  favEvents: Forensics, Materials Science, Protein Modeling
+  funFact: I went straight from States to prom to a 6 am flight for a college visit, getting maybe 5 hours of sleep total over four days but I'd definitely relive it all again
+  pic: Celine_Wang.png
+  id: Celine_Wang
 
-- name: Faith Harron
-  school: Mechanical Engineering, Stanford 2021
-  bio: Hello, I'm Faith, a former six-year member of Science Olympiad and a captain of the Century High school team from Bismarck, North Dakota. What I learned in SciOly's never really left my life--love for science, skills and random facts alike. Sometimes knowing the Mohs scale of mineral hardness or the redshift effect of universe expansion proves useful!
-  favEvents: Anatomy and Physiology, Astronomy, Rocks and Minerals, Dynamic Planet
-  funFact: I write sci-fi and fantasy books in my free time!
-  pic: Faith.jpg
-  id: faithharron
+- name: Lydia Chan
+  school: Mechanical Engineering, Stanford 2022
+  bio: Haiii, I'm Lydia. I am a Troy High School alumna. I have so many beautiful memories of SciOly, from hiking through the snowy Rockies in t-shirts and shorts with our team, late night study sessions with Andes mints, cup ramen, and Fruit Snacks, and meeting super awesome and interesting people at competition. I can’t wait to help out with SciOly this year and make it a fantastic experience for everyone!
+  favEvents: Forensics, Materials Science, Astronomy
+  funFact: I love narwhales, music, and boba.
+  pic: Lydia_Chan.jpg
+  id: Lydia_Chan
+  
+- name: Lynn Yang
+  school: Berkeley Graduate Student
+  bio: Hello! I am a PhD student in the Kaufer lab at UC Berkeley, studying neurobiology through the Integrative Biology program. I've spent over a decade involved with Science Olympiad, and I am an alum of Canyon Crest Academy Science Olympiad. I’m thrilled to be helping out with GGSO :)
+  favEvents: Mission Possible, Ornithology, Forestry
+  funFact: I enjoy playing pipa in my spare time!
+  pic: Lynn_Yang.jpg
+  id: Lynn_Yang
 
-
-- name: Evelyn Zhang
-  school: Human biology, Stanford 2021
-  bio: Hi!! I'm Evelyn Zhang, a Sci Oly alum from Mira Loma High school. It's an understatement to say that Science Olympiad changed my life, and I can't wait to keep doing what I love the most :)
-  favEvents: Anatomy and Physiology, Disease Detectives, Experimental Design
-  pic: Evelyn.jpg
-  id: evelynzhang
-
-
-- name: Grant Wang
-  school: Computer Science, Berkeley 2019
-  bio: Hello world, I’m Grant, former SciOly captain at Valencia High! My SciOly adventure began at Kraemer Middle, and I gradually found a passion for build events at Valencia High (competed 6 years). I still remember the long hours I spent soldering wires, gluing bridge joints with impossible precision, and getting wright stuff planes stuck in the ceiling. I have also helped coach the Kraemer team for 4 years and helped coordinate the CA Inland Empire Regionals and invitationals in the OC region. Overall, my SciOly experience has been a blast and I look forward to continuing to work with students in the community!
-  favEvents: Robot Arm, Wright Stuff, and Bridge Building
-  funFact: I love solving Rubik’s Cubes and writing/blogging!
-  linkedin: https://www.linkedin.com/in/grant-wang/
-  pic: Grant.jpg
-  id: grantwang
-
-
-- name: Alexis Hidalgo
-  school: Environmental Science, Berkeley 2018
-  bio: Hi! I’m Alexis and I was captain of my SAS High school team from Florida. I competed in Science Olympiad all throughout high school and loved every moment of it! I can’t wait to help out again this year with GGSO. 
-  favEvents: Forensics, Chemistry Lab, and Helicopters
-  pic: Alexis.png
-  id: alexishidalgo
-
-
-- name: Jared Zhao
-  bio: Hi, I’m Jared. I am a Troy High school alumni and captain, and I competed in all things physics and computer science. Science Olympiad has been one of my most cherished high school experiences, and I’m excited to continue to contribute!
-  favEvents: Optics, Robot Arm, Hovercraft
-  funFact: I’m a published game developer!
-  pic: Jared.jpg
-  id: jaredzhao
-
-
-- name: Christopher Lung
-  school: Materials Science and Engineering, Berkeley 2020
-  bio: Hi, I'm Chris, and I'm a three year veteran of Science Olympiad at North Hollywood High school in Southern California. I was captain of my team for two years and worked on build events for the majority of my Science Olympiad career. I look forward to fostering the inquisitive atmosphere that is inherent in the Science Olympiad culture. Science Olympiad made my high school experience incredibly enjoyable and I will do my best to enhance the overall experience at our competition. 
-  favEvents: Wright Stuff, Robot Arm, Dynamic Planet, Hydrogeology, Elastic Launch Glider
-  funFact: I play club frisbee for UC Berkeley, and I'm always willing to throw!
-  pic: Chris.jpeg
-  id: christopherlung
-
-
-- name: Amber Feng
-  school: Legal Studies and Business, Berkeley 2020
-  bio: I am an undergraduate at UC Berkeley and intends to double major in Legal Studies and Business. I have participated in Science Olympiad for 8 years and is excited to continue being involved with the competition. I hopes to eventually work in women's sports. 
-  pic: Amber.jpeg
-  id: amber
-
-
-- name: Tyler Hong
-  bio: Hey, I'm Tyler and I'm a Mounds View Science Olympiad alum. SciOly was probably the biggest part of my high school experience, so I'm looking forward to helping with GGSO!
-  favEvents: Wind Power, It's About Time, Green Generation
-  pic: Tyler.png 
-  id: tyler
-
-
+- name: Sophia Wang
+  school: Berkeley 2022
+  bio: Hi, I’m Sophia and I’m a Mira Loma High School and Winston Churchill Middle School Science Olympiad alum. I can’t really pinpoint exactly what I love about Science Olympiad, but it’s been seven years and I’m still here so I guess there must be something there.
+  favEvents: Disease Detectives, Ecology, Simple Machines
+  funFact: I've met a real life disease detective.
+  pic: Sophia_Wang.jpg
+  id: Sophia_Wang
