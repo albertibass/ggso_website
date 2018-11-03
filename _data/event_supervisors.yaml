@@ -89,6 +89,14 @@
   pic: Katherine_Zhang.jpg
   id: Katherine_Zhang
 
+- name: Rohan Konnur
+  school: Electrical Engineering and Computer Science, Berkeley 2019
+  bio: Hi! Over the course of 6 years, I competed for Winston Churchill Middle school and Mira Loma High school in Sacramento, CA. In those years, Science Olympiad became the most important influence on my collegiate and career choices leading me to where I am today. I hope to contribute to Science Olympiad to further impose the competition's positive influence on other students to help them discover their passions.
+  favEvents: Fossils, Technical Problem Solving, Remote Sensing
+  pic: Rohan_Konnur.jpg
+  role: Experimental Design
+  id: rohankonnur  
+  
 - name: Hanjay Wang
   school: Stanford Cardiothoracic Surgery Resident
   bio: I competed for Naperville Central High School (IL) from 2004-2007, placing 3rd at Nationals in Astronomy.
