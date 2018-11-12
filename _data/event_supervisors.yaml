@@ -1,6 +1,6 @@
 
 - name: Rebecca Shi
-  school: Neurosciences, Stanford Graduate Student
+  school: Neurosciences, Stanford PhD Program
   bio: Hi! I participated in Science Olympiad with West-Windsor Plainsboro High School South (NJ) from 2008-2011, and now I am a fourth year graduate student in the Stanford Neurosciences PhD Program. Science Olympiad helped foster my love for biology, and the community we have is fantastic -- I’m thrilled that I still have the chance to give back to Science Olympiad as an alum!
   role: Anatomy and Physiology
   favEvents: Ornithology, Cell Biology, Ecology
@@ -36,7 +36,7 @@
   id: Nick_Bowman
 
 - name: Alex Ozdemir
-  school: Computer Science, PhD, Stanford TBD
+  school: Computer Science, Stanford PhD Program
   bio: I'm Alex, and I love all things related to mathematics, engineering, and physical science. Back in the day I attended Mira Loma HS, where I competed in Science Olympiad. It helped me get excited about science & engineering, and I'm excited to help sustain the program now.
   role: Chemistry Lab
   favEvents: Circuit Lab, Optics, Experimental Design
@@ -45,7 +45,7 @@
   id: Alex_Ozdemir
 
 - name: Vyassa Baratham
-  school: Berkeley Grad Student (probably 2022-ish)
+  school: Physics/Neuroscience, Berkeley PhD Program
   bio: I'm a graduate student in the physics department at UC Berkeley, and I've been curious about science for as long as I can remember. My current research involves understanding the electrical signals that neuroscientists use to study the brain. I have many fond memories of SciOly, and it's great to be able to give back!
   role: Circuits Lab
   favEvents: Wind Power, Chem Lab
@@ -107,7 +107,7 @@
   id: Hanjay_Wang
 
 - name: Vivian Phan
-  school: EECS, Berkeley 2019
+  school: Electrical Engineering and Computer Science, Berkeley 2019
   bio: I am a first-year grad student and cybersecurity researcher. In my spare time I cook, hack, and contemplate my life choices. I play the piano quite terribly, and Secret Hitler less terribly, but still pretty terribly.
   role: Forensics
   favEvents: Forensics, Fossils, Rocks and Minerals
@@ -116,7 +116,7 @@
   id: Vivian_Phan
 
 - name: Aileen Lavelle
-  school: Environmental Science , Berkeley 2021
+  school: Environmental Science, Berkeley 2021
   bio: I like long walks on the beach and mineral identification. Science Olympiad sparked my passion in environmental science and ecology.
   role: Fossils 
   favEvents: Rocks and Minerals, Ecology and Fossils
@@ -134,7 +134,7 @@
   id: Peter_Zhu
 
 - name: Rebecca Nelson
-  school: Ecology and Evolution , Stanford 2020
+  school: Ecology and Evolution, Stanford 2020
   bio: I am a Daniel Wright JHS and Stevenson High School alumna! I competed in Science Olympiad for 6 years! I love all events involving ecology and geology. I currently do research on oak trees. 
   role: Herpetology 
   favEvents: Fossils, Forestry, Herpetology 
@@ -173,7 +173,7 @@
   id: colin
   
 - name: Victor Lam
-  school: PhD in Molecular Biology and Biochemistry, UCSF 2022
+  school: Molecular Biology and Biochemistry, UCSF PhD Program
   bio: Hi, I'm Victor! I'm originally from Texas, and graduated from UT Austin in 2017. I'm a Science Olympiad alum from Cypress Lakes High School, and I continued to volunteer at SciOly tournaments in undergrad. I'm currently in the Bay Area pursuing my PhD and researching viruses!
   role: Water Quality 
   favEvents: Microbe Mission, Fossils, History of Science (former Tx Trial Event)
