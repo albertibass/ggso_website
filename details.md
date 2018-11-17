@@ -6,11 +6,19 @@ permalink: /details/
 
 <div>
 
-Please see the Announcement tab for a list of updates regarding the competition.
+Announcements
 <br>
 <a class="btn btn-md btn-mid" href="/reg">Register</a>
 <a class="btn btn-md btn-mid" href="/payment">Payment</a>
 <a class="btn btn-md btn-mid" href="/volunteer">Volunteer</a>
+<a class="btn btn-md btn-mid" href="/policies">Policies</a>
+<br><br>
+
+Tournament Details
+<br>
+<a class="btn btn-md btn-mid" href="https://docs.google.com/spreadsheets/d/1KP6sDgLW2YGVTInC7Uecl691k-50nl79WJTraqXx-DE/edit?usp=sharing">Tentative Schedule</a>
+<a class="btn btn-md btn-mid" href="https://statescioly.org/golden-gate/Policy/Doc/public-appeal-form">Appeal Form</a>
+
 
 <!--<a class="btn btn-md btn-mid" href="/doc/results.pdf">FINAL RESULTS</a>-->
 <!--a class="btn btn-md btn-mid" href="/doc/welcome_letter.pdf">Welcome Letter</a-->

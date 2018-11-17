@@ -151,6 +151,13 @@
   pic: Nikhil_Gupta.jpg
   id: Nikhil_Gupta
 
+- name: Alaric Qin
+  school: Systems/Transportation Engineering, University of Pennsylvania PhD Program
+  bio: Hello! I'm Alaric, born and raised in Los Angeles, been involved with Science Olympiad for nearly 11 years now, Troy High c/o 2011, University of Pennsylvania c/o 2016 (M&T dual degree in Electrical Engineering & Management/Marketing; master's degree in systems/transportation engineering). Currently, I work in San Francisco at McKinsey&Company, a global management consulting firm. I was a former captain and 4-year member of Troy Science Olympiad, where I competed at Regionals, State and Nationals in mostly engineering events (of which Mission Possible was, and will always be, my favorite event of all time). In the years following high school, I directed three invitational tournaments in Southern California for Division B teams and have had extensive experience event supervising both Div B and C. Really excited to be a part of this Bay Area event!
+  role: Mousetrap Vehicle
+  pic: Alaric_Qin.jpg
+  id: Alaric_Qin
+  
 - name: Jun(e) Yang
   school: Chemical Engineering, MIT 2020
   bio: Hi! I'm Jun(e). I used to go to Troy High School until I got too old. My favorite parts of Science Olympiad were meeting people and crushing the souls of the weak. In my spare time, I like working on my undergraduate degree, painting my nails, and doing chemistry. 
@@ -158,7 +165,7 @@
   favEvents: Protein Modelling, Chemistry Lab, Dynamic Planet
   funFact: My name backwards is gullible. 
   pic: Junyu_Yang.jpg
-  id: Jun(e)_Yang
+  id: Jun_Yang
 
 - name: Colin Barber
   position: Tournament Director
