@@ -37,6 +37,14 @@
   funFact: I can juggle
   pic: Nikhil_Gupta.jpg
   id: Nikhil_Gupta
+
+- name: Jonathan Wang
+  school: Computer Science, Berkeley 2022
+  bio: Hi everyone, I'm Jonathan from West Windsor Plainsboro, New Jersey, and I am currently a freshman studying Computer Science at UC Berkeley. I was a captain of my high school Science Olympiad team and Science Olympiad was a big part of my high school experience. My favorite events are Ecology and all the Chemistry events. I'm looking forward to working with everyone this year! 
+  favEvents: Chemistry Lab, Materials Science, Ecology
+  funFact: I'm both near-sighted and far-sighted.
+  pic: Jonathan_Wang.jpg
+  id: Jonathan_Wang
   
 - name: Sophia Wang
   school: Berkeley 2022
