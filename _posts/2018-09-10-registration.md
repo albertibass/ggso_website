@@ -6,7 +6,7 @@ permalink: /reg/
 
 # Registration Announcement and Tournament Policies
 <br>
-	_**Update: Registration is now full. You may still sign up [here](https://statescioly.org/golden-gate) to be placed on the waitlist.**_
+	_**Update: Registration is now full.**_
 	<br>
 	<br>Hello from Golden Gate Science Olympiad! Every year we host a Science Olympiad invitational and this year it will be held on **February 9th, 2019** at the **University of California, Berkeley**. Take a moment to visit our website [here](https://goldengateso.com/). Our team is comprised of Science Olympiad alumni at UC Berkeley and Stanford University. Our goal is to continue to run a competitive, fun tournament based on our collective experience in competing, event supervision, and tournament logistics. Last year, we welcomed a total of 50 teams, results can be found [here](https://goldengateso.com/doc/results.pdf), from as far as Hawaii and Pennsylvania. Invitational trips are a great way to boost team bonding, get students excited about competition, and encourage the team to get started early in their preparations. If you have any interest or questions about the Golden Gate Invitational tournament, please don’t hesitate to reach out via email! We highly recommend making it out to our invitational for an unforgettable experience.
 <br>

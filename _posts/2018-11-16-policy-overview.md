@@ -41,6 +41,8 @@ An overview of basic practices and policies for the 2019 GGSO tournament.
 
 **Schedule**: Additionally, find a schedule release **[here](https://docs.google.com/spreadsheets/d/1KP6sDgLW2YGVTInC7Uecl691k-50nl79WJTraqXx-DE/edit?usp=sharing)**. Please remember that this is tentative, and we reserve the right to make any necessary changes should the university require us too. We will, however, make every effort to avoid any adjustments, and notify coaches ASAP should any occur. Detailed instructions on signing up for events will be given out in the next informational email.
 
+**Team numbers**: Team numbers will be released by 11/24! A link to the team numbers will be added here when they are finalizd.
+
 Thank you for your time, congratulations, and please feel free to reach out with questions! We are very exciting about hosting this tournament and wish you luck in your continued preparations.
 
 **Links**:
@@ -49,3 +51,4 @@ Thank you for your time, congratulations, and please feel free to reach out with
 <br>**Media waiver**: [https://tinyurl.com/ggso-media-waiver](https://tinyurl.com/ggso-media-waiver)
 <br>**Waiver upload**: [https://tinyurl.com/waiver-upload](https://tinyurl.com/waiver-upload)
 <br>**[Tentative schedule](https://docs.google.com/spreadsheets/d/1KP6sDgLW2YGVTInC7Uecl691k-50nl79WJTraqXx-DE/edit?usp=sharing)**
+<br>**Team numbers - Coming soon!**

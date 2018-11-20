@@ -17,6 +17,7 @@ Announcements
 Tournament Details
 <br>
 <a class="btn btn-md btn-mid" href="https://docs.google.com/spreadsheets/d/1KP6sDgLW2YGVTInC7Uecl691k-50nl79WJTraqXx-DE/edit?usp=sharing">Tentative Schedule</a>
+<a class="btn btn-md btn-mid" href="./">Team numbers [Coming soon]</a>
 <a class="btn btn-md btn-mid" href="https://statescioly.org/golden-gate/Policy/Doc/public-appeal-form">Appeal Form</a>
 
 
