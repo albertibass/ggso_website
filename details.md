@@ -12,6 +12,7 @@ Announcements
 <a class="btn btn-md btn-mid" href="/payment">Payment</a>
 <a class="btn btn-md btn-mid" href="/volunteer">Volunteer</a>
 <a class="btn btn-md btn-mid" href="/policies">Policies</a>
+<a class="btn btn-md btn-mid" href="/esus">Self-scheduled Events</a>
 <br><br>
 
 Tournament Details

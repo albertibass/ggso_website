@@ -6,7 +6,7 @@ permalink: /volunteer/
 
 # Volunteer
 <br>
-![image](/img/volunteer_graphic2.png){: .center-image}
+![image](/img/announcements/volunteer_graphic2.png){: .center-image}
 
 Calling all volunteers!
 
