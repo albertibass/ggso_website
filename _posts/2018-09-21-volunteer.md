@@ -1,7 +1,7 @@
 ---
 layout: info
 title: Volunteer
-permalink: /volunteer/
+permalink: /early-volunteer/
 ---
 
 # Volunteer at Golden Gate Invitational
