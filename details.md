@@ -14,26 +14,32 @@ Announcements
 <a class="btn btn-md btn-mid" href="/policies">Policies</a>
 <a class="btn btn-md btn-mid" href="/esus">Self-scheduled Events</a>
 <a class="btn btn-md btn-mid" href="/waivers">Waivers</a>
+<a class="btn btn-md btn-mid" href="/final_reminders">Final Reminders</a>
 <br><br>
 
-Tournament Details
+Schedules and Maps
 <br>
-<a class="btn btn-md btn-mid" target = "_blank" href="https://docs.google.com/spreadsheets/d/1KP6sDgLW2YGVTInC7Uecl691k-50nl79WJTraqXx-DE/edit?usp=sharing">Tentative Schedule</a>
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/event_schedule.pdf">Event Schedule</a>
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/day_schedule.pdf">Day of Schedule</a>
+<!--a class="btn btn-md btn-mid" href="/doc/award_schedule.pdf">Award Ceremony Schedule</a-->
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/awards_seating.jpg">Award Ceremony Seating</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://tinyurl.com/ggso19-map">Full Digital Map</a>
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/maps_2019.pdf">Homerooms and Event Map</a>
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/parking_map.pdf">Parking Details and Map</a>
+
+<br><br>
+
+Policies and Helpful Info
+<br>
+<!--<a class="btn btn-md btn-mid" href="/doc/results.pdf">FINAL RESULTS</a>-->
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/welcome.pdf" >Welcome Letter</a>
 <a class="btn btn-md btn-mid" target = "_blank" href="https://docs.google.com/spreadsheets/d/19kaeePb7xy0U50lZhdrbrMbqKm1Ou_YYB3bl5dfEVP0/edit#gid=2043171544">Team numbers</a>
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/food_options.pdf">Food Options</a>
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/policies.pdf">Tournament Policies</a>
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/injury_report.pdf">Accidental Injury Report</a>
 <a class="btn btn-md btn-mid" target = "_blank" href="https://statescioly.org/golden-gate/Policy/Doc/public-appeal-form">Appeal Form</a>
 
 
-<!--<a class="btn btn-md btn-mid" href="/doc/results.pdf">FINAL RESULTS</a>-->
-<!--a class="btn btn-md btn-mid" href="/doc/welcome_letter.pdf">Welcome Letter</a-->
-<!--a class="btn btn-md btn-mid" href="/doc/day_schedule.pdf">Day of Schedule</a-->
-<!--a class="btn btn-md btn-mid" href="/doc/eventschedule.pdf">Event Schedule</a-->
-<!--a class="btn btn-md btn-mid" href="/doc/signup_schedule.pdf">Event Signup Schedule</a-->
-<!--a class="btn btn-md btn-mid" href="/doc/award_schedule.pdf">Award Ceremony Schedule</a-->
-<!--a class="btn btn-md btn-mid" href="/doc/teamlist.pdf">List of Teams</a-->
-<!--a class="btn btn-md btn-mid" href="https://www.google.com/maps/d/u/0/viewer?mid=1mcrinzbQ5xZ24DlDjq8XIW4LAzxc4P3y&ll=37.867848%2C-122.25735899999995&z=14">Full Digital Map</a-->
-<!--a class="btn btn-md btn-mid" href="/doc/maps_2018.pdf">Homerooms and Event Map</a-->
-<!--a class="btn btn-md btn-mid" href="/doc/parkingmap.pdf">Parking Details and Map</a-->
-<!--a class="btn btn-md btn-mid" href="/doc/foodoptions.pdf">Food Options</a-->
 </div>
 
 # Eligibility & Registration Policies
