@@ -6,11 +6,29 @@ permalink: /final_reminders/
 
 # Final Reminders
 
-The Golden Gate Science Olympiad tournament is only eight days away, and we’re very excited to welcome you all to Berkeley’s campus. 
-
-**Please read this post carefully**, as it contains critical updates on the tournament schedule and day-of logistics. Another email will be sent the night before the tournament as a reminder. Updates will also be posted on our website.
+The Golden Gate Science Olympiad tournament is only four days away, and we’re looking forward to welcoming you this Saturday at Berkeley. 
 
 For any last-minute questions or concerns (Friday evening/during the day Saturday), the best person to contact is Faith. She can be reached at 701-595-4054.
+
+This post is edited to contain updated announcements in later emails. This post contains announcements from 2/1/19, and 2/6/19.
+
+## 2/6/19 Reminders:
+
+**Remind 101 service [share with students]**: We use this text message remind service to send out critical day-of updates aimed primarily at coaches, but we encourage any students and parents to sign up to stay updated as well. Phone numbers are kept completely confidential by the website service, we promise not to send any updates after the tournament, and you can opt out at any time. **Our Remind101 system code is @428ce7 this year, and you can join by texting @428ce7 to the number 81010.**
+
+**Forecast:** We want coaches to be aware that the current weather forecast is predicting possible rain on the day of the tournament. Please prepare accordingly, especially for events which require the transportation of impound creations. See the weather forecast [here](https://www.accuweather.com/en/us/berkeley-ca/94704/daily-weather-forecast/332044?day=4) for more specific information: 
+
+**Video**: We have an awesome pre-tournament video uploaded here. Please watch and share with students as well!
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sd4wJiqFvqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+**Wright Stuff dimensions**: A rule mandates that all competitors for the event Wright Stuff must be provided with the dimensions of the room in which this event will take place. This room is called the RSF Fieldhouse, and its dimensions are: **180' X 114'**, with a ceiling height of 30'. 
+	
+**Admissions panel:** The day schedule (below) includes information about the admissions panel. This panel is a special students-only event at 4 p.m. Saturday where Berkeley students will discuss student life, academics, and choosing Berkeley.
+
+**When to arrive:** Please also remember that check-in begins at 8 a.m. in Kerr Lobby. We look forward to meeting you then!
+	
+## 2/1/19 Reminders:
 
 **Food Regulation Reminder:** **NO FOOD IS ALLOWED IN HOMEROOMS.** We agree that this is a ridiculous and frustrating rule, but Berkeley’s Event Services has alerted us several times that custodians will be on patrol through our reserved areas. Similar student groups have faced **fines on the order of $5000** for violating this rule. We’re hoping for great weather on Saturday, so we recommend a nice lunch outside or encourage students to visit any of the many cafes highlighted in the maps on our website.
 
