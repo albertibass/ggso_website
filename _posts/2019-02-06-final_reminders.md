@@ -6,11 +6,30 @@ permalink: /final_reminders/
 
 # Final Reminders
 
-The Golden Gate Science Olympiad tournament is only four days away, and we’re looking forward to welcoming you this Saturday at Berkeley. 
+The Golden Gate Science Olympiad tournament is TOMORROW, and we’re looking forward to welcoming you at Berkeley. 
 
 For any last-minute questions or concerns (Friday evening/during the day Saturday), the best person to contact is Faith. She can be reached at 701-595-4054.
 
-This post is edited to contain updated announcements in later emails. This post contains announcements from 2/1/19, and 2/6/19.
+This post is edited to contain updated announcements in later emails. This post contains announcements from 2/1/19, 2/6/19, and 2/8/19.
+
+## 2/8/19 Reminders:
+
+Check-in begins at **8 a.m. in Kerr Lobby**. Bus parking is first-come first-serve at **West Circle/Crescent** parking, and there is also street parking and parking garages all marked on the maps included below.
+
+Team homerooms open by **8:15 a.m. and close at 5:20 p.m**. To see your homeroom, as well as event locations, please visit [this link](/doc/maps_2019.pdf), keeping in mind there are multiple tabs to the spreadsheet:  
+
+We expect rain on the day of the tournament; please keep this in mind when transporting event materials for impound. While food is NOT allowed in homerooms, **teams may eat together on the ground floor of the MLK building and Eshleman Hall first floor ONLY. Food cannot be brought into Kerr Lobby, Pauley, Stephens Lounge, Tilden, etc.**
+
+**Protein Modeling National SciOly Clarification:** We would like to let coaches know that **MSOE recently changed the grading rubric** of Protein Modeling from 40/30/30 (prebuilds/onsite/test) to 20/40/40 due to issues with their prebuild rubric. We will be using this new rubric for our event as well.
+
+In Kerr Lobby we will also have an awesome handmade photobooth for students to pose with. Please also follow our other social media accounts, where we’ll post fun tournament photos, updates, and live stories throughout the day to Snapchat **[(ggscioly)](https://snapchat.com/add/ggscioly)**, Instagram **[(goldengatescioly)](https://www.instagram.com/goldengatescioly/)** and Twitter **[(@goldengateso)](https://twitter.com/goldengateso)**. Check us out!
+
+We are also pleased to announce our keynote speaker, **Dr. Joshua Hug**. Dr. Joshua Hug is an Assistant Teaching Professor of Electrical Engineering and Computer Science (EECS) at UC Berkeley. He teaches some of the largest computer science and data science courses at Berkeley, including Data Structures and Principles and Techniques of Data Science. He also conducts computer science education research. In 2017, he won the Diane S. McEntyre Award for Excellence in Teaching Computer Science.
+
+**If you haven’t already, please remind to sign up for Remind 101. Remind 101 is how we will communicate with coaches tomorrow, rather than through emails.**
+
+**Remind 101 service [share with students]**: We use this text message remind service to send out critical day-of updates aimed primarily at coaches, but we encourage any students and parents to sign up to stay updated as well. Phone numbers are kept completely confidential by the website service, we promise not to send any updates after the tournament, and you can opt out at any time. **Our Remind101 system code is @428ce7 this year, and you can join by texting @428ce7 to the number 81010.**
+
 
 ## 2/6/19 Reminders:
 
