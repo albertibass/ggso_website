@@ -16,6 +16,7 @@ Announcements
 <a class="btn btn-md btn-mid" href="/waivers">Waivers</a>
 <a class="btn btn-md btn-mid" href="/final_reminders">Final Reminders</a>
 <a class="btn btn-md btn-mid" href="/quick_info">Quick Info</a>
+<a class="btn btn-md btn-mid" href="/awards">Awards</a>
 <br><br>
 
 Schedules and Maps
