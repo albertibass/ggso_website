@@ -23,7 +23,7 @@ Schedules and Maps
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/event_schedule.pdf">Event Schedule</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/day_schedule.pdf">Day of Schedule</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/awards_program.pdf">Awards Program</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/awards_seating.jpg">Awards Seating</a>
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/awards_seating.PNG">Awards Seating</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://tinyurl.com/ggso19-map">Full Digital Map</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/maps_2019.pdf">Homerooms and Event Map</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/parking_map.pdf">Parking Details and Map</a>
