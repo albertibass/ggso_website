@@ -33,7 +33,6 @@ Schedules and Maps
 
 Policies and Helpful Info
 <br>
-<!--<a class="btn btn-md btn-mid" href="/doc/results.pdf">FINAL RESULTS</a>-->
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/welcome.pdf" >Welcome Letter</a>
 <a class="btn btn-md btn-mid" target = "_blank" href="https://docs.google.com/spreadsheets/d/19kaeePb7xy0U50lZhdrbrMbqKm1Ou_YYB3bl5dfEVP0/edit#gid=2043171544">Team numbers</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/food_options.pdf">Food Options</a>
