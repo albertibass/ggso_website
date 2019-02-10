@@ -8,15 +8,16 @@ permalink: /details/
 
 Announcements
 <br>
-<a class="btn btn-md btn-mid" href="/reg">Register</a>
+<!-- <a class="btn btn-md btn-mid" href="/reg">Register</a>
 <a class="btn btn-md btn-mid" href="/payment">Payment</a>
 <a class="btn btn-md btn-mid" href="/volunteer">Volunteer</a>
 <a class="btn btn-md btn-mid" href="/policies">Policies</a>
 <a class="btn btn-md btn-mid" href="/esus">Self-scheduled Events</a>
-<a class="btn btn-md btn-mid" href="/waivers">Waivers</a>
+<a class="btn btn-md btn-mid" href="/waivers">Waivers</a> 
 <a class="btn btn-md btn-mid" href="/final_reminders">Final Reminders</a>
 <a class="btn btn-md btn-mid" href="/quick_info">Quick Info</a>
-<a class="btn btn-md btn-mid" href="/awards">Awards</a>
+<a class="btn btn-md btn-mid" href="/awards">Awards</a> -->
+<a class="btn btn-md btn-mid" href="/final_results">Final Results</a>
 <br><br>
 
 Schedules and Maps
