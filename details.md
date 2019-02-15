@@ -18,6 +18,7 @@ Announcements
 <a class="btn btn-md btn-mid" href="/quick_info">Quick Info</a>
 <a class="btn btn-md btn-mid" href="/awards">Awards</a> -->
 <a class="btn btn-md btn-mid" href="/final_results">Final Results</a>
+<a class="btn btn-md btn-mid" href="/tests">Tests</a>
 <br><br>
 
 Schedules and Maps
