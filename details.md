@@ -5,7 +5,7 @@ permalink: /details/
 ---
 
 <div>
-
+<!--
 Announcements
 <br>
 <!-- <a class="btn btn-md btn-mid" href="/reg">Register</a>
@@ -16,9 +16,9 @@ Announcements
 <a class="btn btn-md btn-mid" href="/waivers">Waivers</a> 
 <a class="btn btn-md btn-mid" href="/final_reminders">Final Reminders</a>
 <a class="btn btn-md btn-mid" href="/quick_info">Quick Info</a>
-<a class="btn btn-md btn-mid" href="/awards">Awards</a> -->
-<a class="btn btn-md btn-mid" href="/final_results">Final Results</a>
-<a class="btn btn-md btn-mid" href="/tests">Tests</a>
+<a class="btn btn-md btn-mid" href="/awards">Awards</a> 
+<a class="btn btn-md btn-mid" href="/final_results">2019 Scores</a>
+<a class="btn btn-md btn-mid" href="/tests">2019 Tests</a>
 <br><br>
 
 Schedules and Maps
@@ -42,12 +42,12 @@ Policies and Helpful Info
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/injury_report.pdf">Accidental Injury Report</a>
 <a class="btn btn-md btn-mid" target = "_blank" href="https://statescioly.org/golden-gate/Policy/Doc/public-appeal-form">Appeal Form</a>
 
-
-</div>
+-->
+</div> 
 
 # Eligibility & Registration Policies
 
-* Teams’ places in the tournament are reserved in the order that they submit online registration, provided that the registration fee is received by Golden Gate SciOly by November 1, 2018.  Teams whose payment is not received by November 1 will forfeit their place to a team on the waitlist.  Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
+* Teams’ places in the tournament are reserved in the order that they submit online registration, provided that the registration fee is received by Golden Gate SciOly by November 1, 2019.  Teams whose payment is not received by November 1 will forfeit their place to a team on the waitlist.  Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
 
 * The Golden Gate Science Olympiad Invitational Tournament is a Division C competition.  All teams must conform to the Science Olympiad Division C membership rules. All students on each team must be eligible to compete for that team as per the eligibility rules specified on soinc.org.
 
