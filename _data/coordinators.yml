@@ -1,25 +1,5 @@
-- name: Kevin Meng
-  position: Executive Director 
-  school: Psychology and Economics, UC Berkeley 2020
-  bio: Hi, my name is Kevin Meng, I’m an Ed W. Clark HS Scioly alumni and captain. In preparation for state and nationals, I’ve stayed at school so late that midnight snacks and basketball with the cleaning staff is a norm. I’ve been told before that my love for Science Olympiad is “infectious”. Spread the love and stay committed!
-  favEvents: Gravity Vehicle, Elastic Launched Glider, Wright Stuff, WIDI
-  funFact: My team and I won a state championship in soccer! I have a fierce passion for music and sports. Play me.
-  linkedin: https://www.linkedin.com/in/kevinmeng1
-  email: kevinlmeng@berkeley.edu
-  pic: Kevin_Meng.png
-  id: kevinM
-  
-- name: Sarah Gurev
-  position: Executive Director
-  school: Computer Science, Stanford 2020
-  bio: Hi, I’m Sarah Gurev, and I'm a Mira Loma High School and Winston Churchill Middle School Scioly alum. I've had the opportunity to attend Nationals five times, and the distinct pleasure of competing in every single water event each time. Science Olympiad was such a large part of my life, so I'm grateful it's not quite over yet. I'm really excited to help bring this tournament to life!
-  favEvents: Protein Modeling, Awesome Aquifers, Dynamic Planet
-  funFact: I was very overprotective of my protein model, possibly because I was constantly worrying that my cat would eat it.
-  pic: Sarah_Gurev.jpg
-  id: sarah
-
 - name: Kathryn Li
-  position: Tournament Director
+  position: Executive Director 
   school: Molecular and Cell Biology, Berkeley 2020
   bio: Hi, my name is Kathryn and I’m a Palo Alto Science Olympiad alum. In my three years on the team, I’ve competed in a variety of study, lab, and build events, from Chem Lab to Bridge Building. Science Olympiad has been the most important influencer of my college career, so I am incredibly excited to give back to the community through this tournament!
   favEvents: Forensics, Chem Lab, Protein Modeling, Bridge Building
@@ -28,6 +8,16 @@
   pic: Kathryn_Li.png
   id: kathryn
 
+- name: Faith Harron
+  position: Executive Director
+  school: Mechanical Engineering, Stanford 2021
+  bio: Hello, I’m Faith--I’m a Bismarck Century High alum, and was a part of Science Olympiad since my middle school years. SciO was always one of my favorite extracurricular activities, and I’m delighted to continue my involvement at university.
+  favEvents: Astronomy, Dynamic Planet, Anatomy and Physiology
+  funFact: Joan of Arc is my great-aunt--like 11 greats in there, but I am directly descended from her brother.
+  email: feharron@stanford.edu
+  pic: Faith_Harron.jpg
+  id: feharron
+  
 - name: Allison Yao
   position: Tournament Director
   school: MEB and Psychology, Berkeley 2021
@@ -49,6 +39,15 @@
   pic: Colin_Barber.jpg
   id: colin
   
+- name: Sarah Gurev
+  position: Tournament Director
+  school: Computer Science, Stanford 2020
+  bio: Hi, I’m Sarah Gurev, and I'm a Mira Loma High School and Winston Churchill Middle School Scioly alum. I've had the opportunity to attend Nationals five times, and the distinct pleasure of competing in every single water event each time. Science Olympiad was such a large part of my life, so I'm grateful it's not quite over yet. I'm really excited to help bring this tournament to life!
+  favEvents: Protein Modeling, Awesome Aquifers, Dynamic Planet
+  funFact: I was very overprotective of my protein model, possibly because I was constantly worrying that my cat would eat it.
+  pic: Sarah_Gurev.jpg
+  id: sarah
+  
 - name: Valerie Hsieh
   position: Tournament Director
   school: Physics and German, Berkeley 2020
@@ -59,26 +58,17 @@
   pic: Valerie_Hsieh.jpg
   id: valerie
 
-- name: Faith Harron
+- name: Kevin Meng
   position: Tournament Director
-  school: Mechanical Engineering, Stanford 2021
-  bio: Hello, I’m Faith--I’m a Bismarck Century High alum, and was a part of Science Olympiad since my middle school years. SciO was always one of my favorite extracurricular activities, and I’m delighted to continue my involvement at university.
-  favEvents: Astronomy, Dynamic Planet, Anatomy and Physiology
-  funFact: Joan of Arc is my great-aunt--like 11 greats in there, but I am directly descended from her brother.
-  email: feharron@stanford.edu
-  pic: Faith_Harron.jpg
-  id: feharron
-
-- name: Kelly Yu
-  position: Tournament Director
-  school: Economics, Berkeley 2021
-  bio: Hello, I’m Kelly! I’m an alum of John P. Stevens Science Olympiad in Edison, New Jersey. (East coast represent!)  I have made some of my best memories through SciOly, from the loud bus rides to the actual tournament days. Most importantly, SciOly has taught me to constantly stay curious and hungry.
-  favEvents: Forensics, Fossils, Microbe Mission
-  funFact: I played the clarinet for 10 years!
-  email: kelly_yu@berkeley.edu
-  pic: Kelly_Yu.jpg
-  id: kelly
-
+  school: Psychology and Economics, UC Berkeley 2020
+  bio: Hi, my name is Kevin Meng, I’m an Ed W. Clark HS Scioly alumni and captain. In preparation for state and nationals, I’ve stayed at school so late that midnight snacks and basketball with the cleaning staff is a norm. I’ve been told before that my love for Science Olympiad is “infectious”. Spread the love and stay committed!
+  favEvents: Gravity Vehicle, Elastic Launched Glider, Wright Stuff, WIDI
+  funFact: My team and I won a state championship in soccer! I have a fierce passion for music and sports. Play me.
+  linkedin: https://www.linkedin.com/in/kevinmeng1
+  email: kevinlmeng@berkeley.edu
+  pic: Kevin_Meng.png
+  id: kevinM  
+  
 - name: Evelyn Zhang
   position: Tournament Director
   school: Human Biology, Stanford 2021
