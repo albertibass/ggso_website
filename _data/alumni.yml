@@ -80,7 +80,17 @@
   email: neilpatil215@gmail.com
   pic: Neil_Patil.jpg
   id: neil
-
+- name: Kevin Meng
+  position: Executive Director
+  school: Psychology and Economics, UC Berkeley 2020
+  bio: Hi, my name is Kevin Meng, I’m an Ed W. Clark HS Scioly alumni and captain. In preparation for state and nationals, I’ve stayed at school so late that midnight snacks and basketball with the cleaning staff is a norm. I’ve been told before that my love for Science Olympiad is “infectious”. Spread the love and stay committed!
+  favEvents: Gravity Vehicle, Elastic Launched Glider, Wright Stuff, WIDI
+  funFact: My team and I won a state championship in soccer! I have a fierce passion for music and sports. Play me.
+  linkedin: https://www.linkedin.com/in/kevinmeng1
+  email: kevinlmeng@berkeley.edu
+  pic: Kevin_Meng.png
+  id: kevinM  
+  
 - name: Kelly Yu
   position: Tournament Director
   school: Economics, Berkeley 2021
