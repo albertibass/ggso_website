@@ -28,17 +28,6 @@
   pic: Allison_Yao.jpg
   id: allison
   
-- name: Colin Barber
-  position: Tournament Director
-  school: Microbiology, Berkeley PhD Program
-  bio: Hi I’m Colin and I love microbes. I competed for Wellwood Middle School and Fayetteville-Manlius High School and I graduated with a BS in microbiology from Cornell University last May. For three years, I also helped lead Science Olympiad at Cornell where I served as co-president 2015-16. Did I mention I love microbes?
-  favEvents: Microbe Mission, Fermi Questions, Thermodynamics
-  funFact: My Fermi partner and I agreed to shave each other’s heads if we got 1st in Fermi at States 2013. The rest is history.
-  linkedin: https://www.linkedin.com/in/colin-barber-a206b1a6/
-  email: cbarber@berkeley.edu
-  pic: Colin_Barber.jpg
-  id: colin
-  
 - name: Sarah Gurev
   position: Tournament Director
   school: Computer Science, Stanford 2020
@@ -80,7 +69,7 @@
 
 - name: Matthew Tang
   position: Tournament Director
-  school: Electrical Engineering and Computer Science, Berkeley 2022
+  school: EECS, Berkeley 2022
   bio: Hi, I'm Matthew, a SciOly alum from Northwood High School. Having competed for 6 years, SciOly has been a major part of my life. Many of my fondest memories have been from Science Olympiad and I've been able to meet many close friends, competing with them over the years. I'm excited to be on the other side now organizing tournaments for the community!
   favEvents: Mission Possible, Disease Detectives, Robot Arm
   funFact: I love puns, puzzles, and cryptography! Sad that Code Busters came back the year after I graduated.
@@ -97,3 +86,13 @@
   email: ewen22@stanford.edu
   pic: Emily_Wen.jpg
   id: emily
+
+- name: Sophia Wang
+  position: Tournament Director
+  school: Berkeley 2022
+  bio: Hi, I’m Sophia and I’m a Mira Loma High School and Winston Churchill Middle School Science Olympiad alum. I can’t really pinpoint exactly what I love about Science Olympiad, but it’s been seven years and I’m still here so I guess there must be something there.
+  favEvents: Disease Detectives, Ecology, Simple Machines
+  funFact: I've met a real life disease detective.
+  pic: Sophia_Wang.jpg
+  id: Sophia_Wang
+
