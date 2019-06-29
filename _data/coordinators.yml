@@ -18,6 +18,15 @@
   pic: Faith_Harron.jpg
   id: feharron
   
+- name: Sarah Gurev
+  position: Tournament Director
+  school: Computer Science, Stanford 2020
+  bio: Hi, I’m Sarah Gurev, and I'm a Mira Loma High School and Winston Churchill Middle School Scioly alum. I've had the opportunity to attend Nationals five times, and the distinct pleasure of competing in every single water event each time. Science Olympiad was such a large part of my life, so I'm grateful it's not quite over yet. I'm really excited to help bring this tournament to life!
+  favEvents: Protein Modeling, Awesome Aquifers, Dynamic Planet
+  funFact: I was very overprotective of my protein model, possibly because I was constantly worrying that my cat would eat it.
+  pic: Sarah_Gurev.jpg
+  id: sarah
+
 - name: Allison Yao
   position: Tournament Director
   school: MEB and Psychology, Berkeley 2021
@@ -27,15 +36,6 @@
   email: allison_y@berkeley.edu    
   pic: Allison_Yao.jpg
   id: allison
-  
-- name: Sarah Gurev
-  position: Tournament Director
-  school: Computer Science, Stanford 2020
-  bio: Hi, I’m Sarah Gurev, and I'm a Mira Loma High School and Winston Churchill Middle School Scioly alum. I've had the opportunity to attend Nationals five times, and the distinct pleasure of competing in every single water event each time. Science Olympiad was such a large part of my life, so I'm grateful it's not quite over yet. I'm really excited to help bring this tournament to life!
-  favEvents: Protein Modeling, Awesome Aquifers, Dynamic Planet
-  funFact: I was very overprotective of my protein model, possibly because I was constantly worrying that my cat would eat it.
-  pic: Sarah_Gurev.jpg
-  id: sarah
   
 - name: Valerie Hsieh
   position: Tournament Director
@@ -72,20 +72,30 @@
   school: EECS, Berkeley 2022
   bio: Hi, I'm Matthew, a SciOly alum from Northwood High School. Having competed for 6 years, SciOly has been a major part of my life. Many of my fondest memories have been from Science Olympiad and I've been able to meet many close friends, competing with them over the years. I'm excited to be on the other side now organizing tournaments for the community!
   favEvents: Mission Possible, Disease Detectives, Robot Arm
-  funFact: I love puns, puzzles, and cryptography! Sad that Code Busters came back the year after I graduated.
+  funFact: I love puzzles! Puzzle hunts are one of my favorite activities. I also make puzzle sets of my own too.
   email: matthewtang@berkeley.edu
   pic: Matthew_Tang.jpg
   id: matthew
 
 - name: Emily Wen
   position: Tournament Director
-  school: Stanford 2022
+  school: CS and Math, Stanford 2022
   bio: Hi! I'm Emily, an alum of NCSSM and Enloe High School SciOly. Through my 6 years of competing, I've met the most amazing community, both on my teams and online. I'm so glad I can continue being involved through GGSO. Super excited to help make this invite happen! :)
   favEvents: Codebusters, Experimental Design, Dynamic Planet
   funFact: I've never competed in a scioly invitational.
   email: ewen22@stanford.edu
   pic: Emily_Wen.jpg
   id: emily
+
+- name: Martin Altenburg 
+  position: Tournament Director
+  school: Electrical Engineering, Stanford 2021  
+  bio: I am super excited to be a part of this year's GGSO team. Growing up in North Dakota, Science Olympiad was the first times I really got to share my interest in STEM with people around my school and state. I'm passionate about making STEM education and opportunities accessible for students of all backgrounds and can't wait to help make that a reality within GGSO! 
+  favEvents: Meteorology and Towers 
+  funFact: I once competed in eight events during a regional tournament. Quite the time! 
+  pic: Martin_Altenburg.jpg 
+  id: Martin_Altenburg 
+  email: altenbur@stanford.edu
 
 - name: Sophia Wang
   position: Tournament Director
@@ -94,5 +104,26 @@
   favEvents: Disease Detectives, Ecology, Simple Machines
   funFact: I've met a real life disease detective.
   pic: Sophia_Wang.jpg
-  id: Sophia_Wang
+  id: sophia
+  
+- name: Vinay Gautam
+  position: Tournament Director
+  school: Computer Science, Berkeley 2023
+  bio: Hi! My name is Vinay and I am an alum of Seven Lakes High School in Houston, Texas. Science Olympiad completely changed my life and I am forever grateful for the skills and friendships I made in my years on the team. I’m so excited to be apart of GGSO and can’t wait to help host this tournament for everyone!
+  favEvents: Codebusters, Sounds of Music, Game On
+  funFact: In the 2 years I was on the team, I competed in 17 events. 
+  pic: Vinay_Gautam.png
+  id: vinay
+  email: vinaygautam@berkeley.edu
+ 
+- name: Amy Lo
+  position: Tournament Director
+  school: Stanford 2023
+  bio: Hi, I'm Amy, and I'm a Walnut High School and Suzanne Middle School alum! SciOly has been a formative part of my growth, which is why I’m even more excited to see how I can help this tournament grow!
+  favEvents: Forensics and Experimental Design
+  funFact: I have 50+ (and growing) themed Spotify playlists, each curated to a different mood, atmosphere, and vibe. 
+  pic: Amy_Lo.jpg
+  id: amy_lo
+  email: amyflo@stanford.edu
+
 
