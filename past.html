@@ -15,8 +15,12 @@ permalink: /past/
 	<div class="col-lg-4" style="margin-top:24px;"><p>{{ tournament.description }}</p>
 	<a href="{{ tournament.website }}" class="btn btn-mid">Go to webpage</a>
 	{% if tournament.pictures %}
-		<a href="{{ tournament.pictures }}" class="btn btn-mid">Pictures</a>
+		<a href="{{ tournament.pictures }}" class="btn btn-mid" target="_blank">Pictures</a>
 	{% endif %}
+	{% if tournament.tests %}
+		<a href="{{ tournament.tests }}" class="btn btn-mid" target="_blank">Tests</a>
+	{% endif %}
+	
 </div>
 {% endfor %}
 </script>
