@@ -125,3 +125,13 @@
   pic: Amy_Lo.jpg
   id: amy_lo
   email: amyflo@stanford.edu
+
+- name: Britney Weng
+  position: Tournament Director
+  school: Berkeley 2023
+  bio: Hey, I'm Britney and I'm a Milpitas High alum! I'm super excited to stay involved with SciOly and give back to the Bay Area and SciOly communities through GGSO. 
+  favEvents: Herpetology, Invasive Species
+  funFact: I have the same birthday as McDonald's! 
+  pic: Britney_Weng.jpeg
+  id: Britney_Weng
+  email: britneyweng@berkeley.edu
