@@ -5,10 +5,11 @@ permalink: /details/
 ---
 
 <div>
+
+<h4>Announcements</h4>
+<a class="btn btn-md btn-mid" href="/tournament2020">Tournament Date</a>
+<a class="btn btn-md btn-mid" href="/register">Register</a>
 <!--
-Announcements
-<br>
-<!-- <a class="btn btn-md btn-mid" href="/reg">Register</a>
 <a class="btn btn-md btn-mid" href="/payment">Payment</a>
 <a class="btn btn-md btn-mid" href="/volunteer">Volunteer</a>
 <a class="btn btn-md btn-mid" href="/policies">Policies</a>
@@ -20,7 +21,6 @@ Announcements
 <a class="btn btn-md btn-mid" href="/final_results">2019 Scores</a>
 <a class="btn btn-md btn-mid" href="/tests">2019 Tests</a>
 <br><br>
-
 Schedules and Maps
 <br>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/event_schedule.pdf">Event Schedule</a>
@@ -47,7 +47,7 @@ Policies and Helpful Info
 
 # Eligibility & Registration Policies
 
-* Teams’ places in the tournament are reserved in the order that they submit online registration, provided that the registration fee is received by Golden Gate SciOly by November 1, 2019.  Teams whose payment is not received by November 1 will forfeit their place to a team on the waitlist.  Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
+* Teams’ places in the tournament are reserved on a first come, first served basis, provided that the registration fee is received by Golden Gate Science Olympiad by November 1, 2019.  Teams whose payment is not received by November 1 will forfeit their place to a team on the waitlist.  Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
 
 * The Golden Gate Science Olympiad Invitational Tournament is a Division C competition.  All teams must conform to the Science Olympiad Division C membership rules. All students on each team must be eligible to compete for that team as per the eligibility rules specified on soinc.org.
 

@@ -10,4 +10,8 @@ Our next Golden Gate Science Olympiad tournament will be held on February 20, 20
 
 Additionally, we have study materials available online. Check out our Golden Gate Resource Center [here](/ggrc/) and tests from our 2019 tournament [here](https://drive.google.com/open?id=13TAiWgzuwMoPwjBq3Qrd5_19HK7j3kj_).
 
-
+**Links**
+<br/>
+<a class="btn btn-md btn-mid" target="_blank" href="http://eepurl.com/b7zsSj">Mailing List</a>
+<a class="btn btn-md btn-mid" target="_blank" href="/ggrc/">GGRC</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/open?id=13TAiWgzuwMoPwjBq3Qrd5_19HK7j3kj_">2019 Tests</a>
