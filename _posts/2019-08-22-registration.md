@@ -6,6 +6,8 @@ permalink: /register/
 
 # Registration
 
+**UPDATE [9/9/19]: Registration is now full! Teams that sign up from now on will be placed on the waitlist.**
+
 We are pleased to announce that registration for our fourth annual tournament will open on **Monday, September 9, 2019 at 12 pm PDT** on our platform, [Scilympiad](https://statescioly.org/golden-gate). Please see this [document](https://docs.google.com/document/d/1Jq3jVo8NdcEI5Iy9mQgXa3MByH-2AZXzX-0Q6B_1zYY/edit) for a detailed registration guide.
 
 The full registration policy may be found [here](https://docs.google.com/document/d/1oOu_m32ga_Dyd0OO9fe_1uTvjrDhSE09beeILQldWlo/edit).

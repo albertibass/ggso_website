@@ -9,9 +9,9 @@ permalink: /details/
 <h4>Announcements</h4>
 <a class="btn btn-md btn-mid" href="/tournament2020">Tournament Date</a>
 <a class="btn btn-md btn-mid" href="/register">Register</a>
+<a class="btn btn-md btn-mid" href="/volunteer">Volunteer</a>
 <!--
 <a class="btn btn-md btn-mid" href="/payment">Payment</a>
-<a class="btn btn-md btn-mid" href="/volunteer">Volunteer</a>
 <a class="btn btn-md btn-mid" href="/policies">Policies</a>
 <a class="btn btn-md btn-mid" href="/esus">Self-scheduled Events</a>
 <a class="btn btn-md btn-mid" href="/waivers">Waivers</a> 
