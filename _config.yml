@@ -12,3 +12,6 @@ collections:
     ggrc:
         output: true
         permalink: /ggrc/:path/
+        
+plugins:
+  - jekyll-redirect-from
