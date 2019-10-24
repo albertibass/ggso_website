@@ -10,6 +10,7 @@ permalink: /details/
 <a class="btn btn-md btn-mid" href="/tournament2020">Tournament Date</a>
 <a class="btn btn-md btn-mid" href="/register">Register</a>
 <a class="btn btn-md btn-mid" href="/volunteer">Volunteer</a>
+<a class="btn btn-md btn-mid" href="/ppp-update">Ping Pong Parachute Update</a>
 <!--
 <a class="btn btn-md btn-mid" href="/payment">Payment</a>
 <a class="btn btn-md btn-mid" href="/policies">Policies</a>
