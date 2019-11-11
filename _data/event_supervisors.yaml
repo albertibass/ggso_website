@@ -221,8 +221,17 @@
   pic: Nikhil_Gupta.jpg
   id: Nikhil_Gupta
 
+- name: David Yang
+  school: Mechanical Engineering, Berkeley 2021
+  bio: Hi!! I’m David, and I’m a Mira Loma Sci Oly alumni. I was only on the team since freshman year, but those 4 years definitely shaped my passions and love for science. It was Science Olympiad that developed my interest in engineering and led me to pursue a career in mechanical engineering.
+  role: Wright Stuff
+  favEvents: Robot Arm, Wright Stuff, Air Trajectory
+  funFact: I finished building my air trajectory the night before I left for nationals and I had no idea if it was going to work. Still ended up getting that bread tho.
+  pic: David_Yang.jpg
+  id: David_Yang
+
 - name: Alice Tran
-  school: Biology+Business, Berkeley 2023
+  school: Biology & Business, Berkeley 2023
   bio: Hello! My name is Alice Tran, the event supervisor for Write It Do It. I'm from Rosemead, California and I competed in Science Olympiad during middle school and high school. 
   role: Write It, Do It
   favEvents: Bridge Building, Anatomy, Write It Do It
