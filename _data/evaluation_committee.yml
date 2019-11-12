@@ -87,3 +87,12 @@
   funFact: My name backwards is gullible. 
   pic: Junyu_Yang.jpg
   id: Jun_Yang
+
+- name: Mihir Singhal
+  school: Math, MIT 2022
+  bio: Hi! I'm Mihir, and I am a Palo Alto High School Scioly alum. I had a great time during my 6 years of competing, and I'm excited to be on the evaluation committee for my first year!
+  role: Thermodynamics
+  favEvents: Fermi Questions, Astronomy
+  funFact: Did you know that raindrops aren't raindrop-shaped?
+  pic: Mihir_Singhal.jpg
+  id: Mihir_Singhal
