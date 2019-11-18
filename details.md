@@ -11,6 +11,9 @@ permalink: /details/
 <a class="btn btn-md btn-mid" href="/register">Register</a>
 <a class="btn btn-md btn-mid" href="/volunteer">Volunteer</a>
 <a class="btn btn-md btn-mid" href="/ppp-update">Ping Pong Parachute Update</a>
+<a class="btn btn-md btn-mid" href="/tournament-guidelines">Tournament Guidelines</a>
+<a class="btn btn-md btn-mid" href="/tshirt-order">T-Shirt Order</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1fG5vYdeYpk0abGosZQ8Y5ku28tr0SqRUVmbu00LwqO8/edit#gid=1935009993">Event Schedule</a>
 <!--
 <a class="btn btn-md btn-mid" href="/payment">Payment</a>
 <a class="btn btn-md btn-mid" href="/policies">Policies</a>
