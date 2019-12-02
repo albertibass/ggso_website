@@ -13,6 +13,8 @@ permalink: /details/
 <a class="btn btn-md btn-mid" href="/ppp-update">Ping Pong Parachute Update</a>
 <a class="btn btn-md btn-mid" href="/tournament-guidelines">Tournament Guidelines</a>
 <a class="btn btn-md btn-mid" href="/tshirt-order">T-Shirt Order</a>
+<a class="btn btn-md btn-mid" href="/self-registration">Self Registration</a>
+<a class="btn btn-md btn-mid" href="https://docs.google.com/spreadsheets/d/18EzTQeIsobi_cl85j--G3x0rDnNxKEEBnLlmAKb27uM/edit#gid=2043171544">Team Numbers</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1fG5vYdeYpk0abGosZQ8Y5ku28tr0SqRUVmbu00LwqO8/edit#gid=1935009993">Event Schedule</a>
 <!--
 <a class="btn btn-md btn-mid" href="/payment">Payment</a>
