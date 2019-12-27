@@ -1,7 +1,7 @@
 $(function(){
 	
 	var note = $('#note'),
-		ts = 1549762200000 //1549764000000 //1549731600000 //(new Date()).getTime(); 1549764000000 for awards
+		ts = 1582390800000 
 
 	$('#countdown').countdown({
 		timestamp	: ts,
