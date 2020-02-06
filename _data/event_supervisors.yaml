@@ -79,14 +79,23 @@
   pic: Connor_Duffy.jpg
   id: Connor_Duffy
 
-- name: Ravneet Rajasansi
-  school: Molecular and Cell Biology, Berkeley 2023
-  bio: Hi, I'm Ravneet, and I'm Tokay High alum! Competing in Science Olympiad for 9 years fostered my passion for biology and influenced my collegiate and career choices. I am excited to stay involved in the SciOly community and help others discover their love for science. 
+- name: Rachel Chen
+  school: University of Rochester 2023
+  bio: Hi, I'm Rachel! I'm a SciOly alum from Interlake High School. I competed for four years and loved (almost) every moment, so I'm excited to be able to contribute to GGSO!
   role: Disease Detectives
-  favEvents: Anatomy and Physiology, Disease Detectives
-  funFact: I have never tried boba.
-  pic: Ravneet_Rajasansi.JPG
-  id: Ravneet_Rajasansi
+  favEvents: Designer Genes, Microbe Mission
+  funFact: I have a pet tortoise.
+  pic: Rachel_Chen.jpg
+  id: Rachel_Chen
+  
+- name: Krishni Satchi
+  school: Global Health, University of Southern California 2023
+  bio: Hey, I'm Krishni! I competed on the Winston Churchill and Mira Loma team for a total of 7 years. Competing in Scioly was an incredible experience that sparked my interest in medicine and introduced me to so many amazing people. I'm excited to continue this journey as an alum :) 
+  role: Disease Detectives
+  favEvents: Disease Detectives, Anatomy & Physiology, Designer Genes
+  funFact: I think Love Island is the greatest reality show ever.
+  pic: Krishni_Satchi.jpg
+  id: Krishni_Satchi
 
 - name: Tim Dai
   school: Stanford 2023
