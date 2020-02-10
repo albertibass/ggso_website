@@ -24,6 +24,8 @@ permalink: /quick_info/
 
 - **Day Schedule:** Day schedule [here](/doc/day_schedule.pdf) 
 
+- **Social Flyer:** Flyer [here](/doc/social_flyer.pdf) 
+
 - **Awards ceremony:** 5:30 p.m. - 7:30 p.m. in Pauley Ballroom. Award seating [here](/doc/awards_seating_2020.png) and program [here.](/doc/awards_program.pdf) Chairs for participants only. Pick up tournament exams and score sheets from Tilden in MLK.
 
 - **NO FOOD** in homerooms, Kerr Lobby, Pauley, Stephens Lounge, Tilden, etc. Food is allowed in the ground floor of the MLK building and Eshleman Hall first floor ONLY.

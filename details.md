@@ -36,6 +36,7 @@ permalink: /details/
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/welcome.pdf" >Welcome Letter</a>
 <a class="btn btn-md btn-mid" target = "_blank" href="https://docs.google.com/spreadsheets/d/18EzTQeIsobi_cl85j--G3x0rDnNxKEEBnLlmAKb27uM/edit#gid=2043171544">Team numbers</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/food_options.pdf">Food Options</a>
+<a class="btn btn-md btn-mid" target="_blank" href="/doc/social_flyer.pdf">Social Flyer</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/policies.pdf">Tournament Policies</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/injury_report.pdf">Accidental Injury Report</a>
 <a class="btn btn-md btn-mid" target = "_blank" href="https://statescioly.org/golden-gate/Policy/Doc/public-appeal-form">Appeal Form</a>
