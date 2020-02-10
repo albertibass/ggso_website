@@ -26,6 +26,7 @@ permalink: /details/
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/awards_program.pdf">Awards Program</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/awards_seating_2020.png">Awards Seating</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://tinyurl.com/ggso20-map">Full Digital Map</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://statescioly.org/golden-gate/Map/EventMap?mId=98552995578380921">Event Locations Digital Map</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/maps_2020.pdf">Homerooms and Event Map</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/parking_map.pdf">Parking Details and Map</a>
 

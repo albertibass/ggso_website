@@ -16,7 +16,9 @@ permalink: /quick_info/
 
 - **Team homerooms and event locations:** **open at 8:15 a.m., close at 5:20 p.m**. [Homeroom locations](/doc/maps_2020.pdf) 
 
-- **Campus Map:** Digital map [here]( https://tinyurl.com/ggso20-map) 
+- **Campus Map:** Digital map [here]( https://tinyurl.com/ggso20-map)
+
+- **Event Location Google Map:** Digital map [here](https://statescioly.org/golden-gate/Map/EventMap?mId=98552995578380921)
 
 - **Event schedule:** Event schedule [here](/doc/event_schedule.pdf) 
 
