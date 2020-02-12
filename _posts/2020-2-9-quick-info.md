@@ -36,6 +36,6 @@ permalink: /quick_info/
 
 - **Attachment list:** Please see the [tournament details](/details/) page for links to all attachments.
 
-- **T-shirts**: A limited number of shirts will be available for $15 in Kerr Lobby during the tournament, beginning at 10 a.m. (cash or check only).
+- **T-shirts**: A limited number of shirts will be available for $15 in Wheeler Hall during the tournament, beginning at 10 a.m. (cash or check only).
 
 - **Social media handles:** Snapchat **[(ggscioly)](https://snapchat.com/add/ggscioly)**, Instagram **[(goldengatescioly)](https://www.instagram.com/goldengatescioly/)** and Twitter **[(@goldengateso)](https://twitter.com/goldengateso)**. 
