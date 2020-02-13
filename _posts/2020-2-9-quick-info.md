@@ -6,9 +6,9 @@ permalink: /quick_info/
 
 # Quick Info
 
-- **Last-minute questions:** Contact Faith (701-595-4054)
+- **Last-minute questions:** Contact Martin (701-781-4538)
 
-- **Remind 101 service**: Text @428ce7 to the number 81010.
+- **Remind 101 service**: Text @a3977ed to the number 81010.
 
 - **Check-in:** **8 a.m. Kerr Lobby**. 
 
