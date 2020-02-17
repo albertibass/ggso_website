@@ -11,9 +11,9 @@ permalink: /details/
 <a class="btn btn-md btn-mid" href="/tournament-guidelines">Tournament Guidelines</a>
 <a class="btn btn-md btn-mid" href="/tshirt-order">T-Shirt Order</a>
 <a class="btn btn-md btn-mid" href="/self-registration">Self Registration</a>
-<!--
 <a class="btn btn-md btn-mid" href="/final_reminders">Final Reminders</a>
 <a class="btn btn-md btn-mid" href="/quick_info">Quick Info</a>
+<!--
 <a class="btn btn-md btn-mid" href="/awards">Awards</a> 
 <a class="btn btn-md btn-mid" href="/final_results">2019 Scores</a>
 <a class="btn btn-md btn-mid" href="/tests">2019 Tests</a>
@@ -33,6 +33,7 @@ permalink: /details/
 <br><br>
 
 <h4> Policies and Helpful Info </h4>
+<a class="btn btn-md btn-mid" target="_blank" href="/rules.pdf">Event Rules</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/welcome.pdf" >Welcome Letter</a>
 <a class="btn btn-md btn-mid" target = "_blank" href="https://docs.google.com/spreadsheets/d/18EzTQeIsobi_cl85j--G3x0rDnNxKEEBnLlmAKb27uM/edit#gid=2043171544">Team numbers</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/food_options.pdf">Food Options</a>

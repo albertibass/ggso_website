@@ -1,7 +1,7 @@
 ---
 layout: info
 title: Final Reminders
-permalink: /final-reminders/
+permalink: /final_reminders/
 ---
 
 # Final Reminders
