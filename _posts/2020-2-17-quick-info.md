@@ -14,7 +14,7 @@ permalink: /quick_info/
 
 - **Parking:** Bus parking is first-come first-serve at **West Circle/Crescent** parking. [Map here](/doc/parking_map.pdf)
 
-- **Team homerooms and event locations:** **open at 8:15 a.m., close at 5:20 p.m**. [Homeroom locations](/doc/maps_2020.pdf) 
+- **Team homerooms and event locations:** **open at 8:15 a.m., close at 4:30 p.m**. [Homeroom locations](/doc/maps_2020.pdf) 
 
 - **Campus Map:** Digital map [here]( https://tinyurl.com/ggso20-map)
 
