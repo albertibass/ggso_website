@@ -22,6 +22,12 @@ permalink: /quick_info/
 
 - **Event schedule:** Event schedule [here](/doc/event_schedule.pdf) 
 
+- **Events in Soda & Latimer Hall**: Soda Hall and Latimer Hall will be locked during the day. A volunteer will be let people in 10 minutes before the event block is scheduled to start to 10 minutes after.
+
+- **RSF Practice Regulations**: No practice times for Wright Stuff before the first time slot, but students can practice during competition if there are no concurrent flights. There will not be practice runs for Gravity Vehicle.
+
+- **Event Self Sign up:** Can be modified day of tournament by coaches in head coach dashboard [here](https://statescioly.org/golden-gate)
+
 - **Day Schedule:** Day schedule [here](/doc/day_schedule.pdf) 
 
 - **Social Flyer:** Flyer [here](/doc/social_flyer.pdf) 
