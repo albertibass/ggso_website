@@ -13,11 +13,9 @@ permalink: /details/
 <a class="btn btn-md btn-mid" href="/self-registration">Self Registration</a>
 <a class="btn btn-md btn-mid" href="/final_reminders">Final Reminders</a>
 <a class="btn btn-md btn-mid" href="/quick_info">Quick Info</a>
-<!--
-<a class="btn btn-md btn-mid" href="/awards">Awards</a> 
-<a class="btn btn-md btn-mid" href="/final_results">2019 Scores</a>
-<a class="btn btn-md btn-mid" href="/tests">2019 Tests</a>
--->
+<a class="btn btn-md btn-mid" href="/final_scores">Final Scores</a> 
+<a class="btn btn-md btn-mid" href="/tests">Photos and Tests</a>
+
 <br><br>
 
 <h4> Schedules and Maps </h4>
