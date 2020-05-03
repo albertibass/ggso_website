@@ -12,9 +12,9 @@
 - name: Alex Lu
   position: Founder
   school: Biomedical Computation, Stanford 2019
-  bio: Hi! I’m Alex, I went to Palo Alto High School! Looking forward to a fun second year of GGSO. Also looking forward to not having to drive to Berkeley… the cinnamon buns were worth it though.
+  current: Johns Hopkins University
+  bio: Hi! I'm Alex, from Palo Alto High School. SciOly was what first introduced me to the intersection of science, tech, and medicine.  Missing late night study sessions, forensics lab practice, and dying my hair green with the rest of my team.
   favEvents: Anatomy and Physiology, Forensics
-  funFact: This pic is from pre-prom after States 2015 .__.
   email: alu2@stanford.edu
   pic: Alex_Lu.jpg
   id: alex
@@ -112,3 +112,33 @@
   email: kelly_yu@berkeley.edu
   pic: Kelly_Yu.jpg
   id: kelly
+
+- name: Kathryn Li
+  position: Executive Director 
+  school: Molecular and Cell Biology, Berkeley 2020
+  current: Harvard Medical School (HST) MD Candidate 
+  bio: Hi, my name is Kathryn and I’m a Palo Alto Science Olympiad alum. In my three years on the team, I’ve competed in a variety of study, lab, and build events, from Chem Lab to Bridge Building. Science Olympiad has been the most important influencer of my college career, so I am incredibly excited to give back to the community through this tournament!
+  favEvents: Forensics, Chem Lab, Protein Modeling, Bridge Building
+  funFact: I like to figure skate in my free time!
+  email: katli@berkeley.edu 
+  pic: Kathryn_Li.png
+  id: kathryn
+
+- name: Sarah Gurev
+  position: Executive Director
+  school: Computer Science, Stanford 2020
+  bio: Hi, I’m Sarah Gurev, and I'm a Mira Loma High School and Winston Churchill Middle School Scioly alum. I've had the opportunity to attend Nationals five times, and the distinct pleasure of competing in every single water event each time. Science Olympiad was such a large part of my life, so I'm grateful it's not quite over yet. I'm really excited to help bring this tournament to life!
+  favEvents: Protein Modeling, Awesome Aquifers, Dynamic Planet
+  funFact: I was very overprotective of my protein model, possibly because I was constantly worrying that my cat would eat it.
+  pic: Sarah_Gurev.jpg
+  id: sarah
+
+- name: Valerie Hsieh
+  position: Tournament Director
+  school: Physics and German, Berkeley 2020
+  bio: Hey, I’m Valerie! Although I’m not a Science Olympiad alum, I have always been passionate about science and science outreach. I’m incredibly excited to be a part of GGSO’s Executive Board, and am looking forward to help organize a tournament that gives so much to the Bay Area and SciOly communities.
+  favEvents: Herpetology, Mousetrap Vehicle, Materials Science
+  funFact: One time, Tina Fey’s bodyguard pushed me away from her after a major fangirl moment at the Tony Awards. It was awesome.
+  email: valeriehsieh@berkeley.edu
+  pic: Valerie_Hsieh.jpg
+  id: valerie

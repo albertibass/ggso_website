@@ -93,11 +93,11 @@ window.onload = function() {
 
 <div class="col-lg-12" id="eval">
 
-<h1>Evaluation Committee</h1>
+<h1>Evaluation Committee (2020)</h1>
 
-<!--br>
-Interested in becoming an Event Supervisor/Test Committee member for the 2020 GGSO Tournament? Keep an eye out for when applications open in fall 2019!
-<br-->
+<br>
+Interested in becoming an Event Supervisor/Test Committee member for the 2021 GGSO Tournament? Keep an eye out for when applications open in fall 2019!
+<br>
 <ul class="gridder col-lg-12">
 {% for member in site.data.evaluation_committee %}
 
@@ -134,11 +134,11 @@ Interested in becoming an Event Supervisor/Test Committee member for the 2020 GG
 
 <div class="col-lg-12" id="supervisors">
 
-<h1>Event Supervisors</h1>
+<h1>Event Supervisors (2020)</h1>
 
-<!--br>
-Interested in becoming an Event Supervisor/Test Committee member for the 2020 GGSO Tournament? Keep an eye out for when applications open in fall 2019!
-<br-->
+<br>
+Interested in becoming an Event Supervisor/Test Committee member for the 2021 GGSO Tournament? Keep an eye out for when applications open in fall 2019!
+<br>
 
 <ul class="gridder col-lg-12">
 {% for member in site.data.event_supervisors %}
@@ -187,6 +187,7 @@ Interested in becoming an Event Supervisor/Test Committee member for the 2020 GG
 		<img class="img-circle" src="../img/team/alumni/{{ member.pic }}" width="200" height="200">
 		<h3>{{ member.name }}</h3>
 		<h4>{{ member.position }}</h4>
+		<h5><strong>{{ member.current }}</strong></h5>
 		<h5>{{ member.school }}</h5>
 	</li>
 

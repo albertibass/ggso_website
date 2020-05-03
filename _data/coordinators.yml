@@ -1,15 +1,25 @@
-- name: Kathryn Li
-  position: Executive Director 
-  school: Molecular and Cell Biology, Berkeley 2020
-  bio: Hi, my name is Kathryn and I’m a Palo Alto Science Olympiad alum. In my three years on the team, I’ve competed in a variety of study, lab, and build events, from Chem Lab to Bridge Building. Science Olympiad has been the most important influencer of my college career, so I am incredibly excited to give back to the community through this tournament!
-  favEvents: Forensics, Chem Lab, Protein Modeling, Bridge Building
-  funFact: I like to figure skate in my free time!
-  email: katli@berkeley.edu 
-  pic: Kathryn_Li.png
-  id: kathryn
+- name: Evelyn Zhang
+  position: Executive Director
+  school: Human Biology, Stanford 2021
+  bio: Hi!! I’m Evelyn, and I’m a Mira Loma Sci Oly alumni. I was only on the team since sophomore year, but those 3 years definitely shaped my passions and love for science. It was Science Olympiad that developed my interest in biology and led me to pursue a career in medicine. 
+  favEvents: Anatomy and Physiology, Disease Detectives
+  funFact: I actually didn’t want to do Disease Detectives until my sci oly coach put me on the event sophomore year, and by senior year I was 1st in the nation for the event. Lets just say that my coach made a good call :)
+  email: evzhang@stanford.edu
+  pic: Evelyn_Zhang.jpg
+  id: evelyn
+
+- name: Matthew Tang
+  position: Executive Director
+  school: EECS, Berkeley 2022
+  bio: Hi, I'm Matthew, a SciOly alum from Northwood High School. Having competed for 6 years, SciOly has been a major part of my life. Many of my fondest memories have been from Science Olympiad and I've been able to meet many close friends, competing with them over the years. I'm excited to be on the other side now organizing tournaments for the community!
+  favEvents: Mission Possible, Disease Detectives, Robot Arm
+  funFact: I love puzzles! Puzzle hunts are one of my favorite activities, and I also make puzzle sets of my own too.
+  email: matthewtang@berkeley.edu
+  pic: Matthew_Tang.jpg
+  id: matthew
 
 - name: Faith Harron
-  position: Executive Director
+  position: Tournament Director
   school: Mechanical Engineering, Stanford 2021
   bio: Hello, I’m Faith--I’m a Bismarck Century High alum, and was a part of Science Olympiad since my middle school years. SciO was always one of my favorite extracurricular activities, and I’m delighted to continue my involvement at university.
   favEvents: Astronomy, Dynamic Planet, Anatomy and Physiology
@@ -17,15 +27,6 @@
   email: feharron@stanford.edu
   pic: Faith_Harron.jpg
   id: feharron
-  
-- name: Sarah Gurev
-  position: Tournament Director
-  school: Computer Science, Stanford 2020
-  bio: Hi, I’m Sarah Gurev, and I'm a Mira Loma High School and Winston Churchill Middle School Scioly alum. I've had the opportunity to attend Nationals five times, and the distinct pleasure of competing in every single water event each time. Science Olympiad was such a large part of my life, so I'm grateful it's not quite over yet. I'm really excited to help bring this tournament to life!
-  favEvents: Protein Modeling, Awesome Aquifers, Dynamic Planet
-  funFact: I was very overprotective of my protein model, possibly because I was constantly worrying that my cat would eat it.
-  pic: Sarah_Gurev.jpg
-  id: sarah
 
 - name: Allison Yao
   position: Tournament Director
@@ -37,26 +38,6 @@
   pic: Allison_Yao.jpg
   id: allison
   
-- name: Valerie Hsieh
-  position: Tournament Director
-  school: Physics and German, Berkeley 2020
-  bio: Hey, I’m Valerie! Although I’m not a Science Olympiad alum, I have always been passionate about science and science outreach. I’m incredibly excited to be a part of GGSO’s Executive Board, and am looking forward to help organize a tournament that gives so much to the Bay Area and SciOly communities.
-  favEvents: Herpetology, Mousetrap Vehicle, Materials Science
-  funFact: One time, Tina Fey’s bodyguard pushed me away from her after a major fangirl moment at the Tony Awards. It was awesome.
-  email: valeriehsieh@berkeley.edu
-  pic: Valerie_Hsieh.jpg
-  id: valerie
-  
-- name: Evelyn Zhang
-  position: Tournament Director
-  school: Human Biology, Stanford 2021
-  bio: Hi!! I’m Evelyn, and I’m a Mira Loma Sci Oly alumni. I was only on the team since sophomore year, but those 3 years definitely shaped my passions and love for science. It was Science Olympiad that developed my interest in biology and led me to pursue a career in medicine. 
-  favEvents: Anatomy and Physiology, Disease Detectives
-  funFact: I actually didn’t want to do Disease Detectives until my sci oly coach put me on the event sophomore year, and by senior year I was 1st in the nation for the event. Lets just say that my coach made a good call :)
-  email: evzhang@stanford.edu
-  pic: Evelyn_Zhang.jpg
-  id: evelyn
-
 - name: Amy Jiang
   position: Tournament Director
   school: Berkeley 2022
@@ -66,16 +47,6 @@
   email: p.amyjiang@berkeley.edu
   pic: Amy_Jiang.jpg
   id: amy
-
-- name: Matthew Tang
-  position: Tournament Director
-  school: EECS, Berkeley 2022
-  bio: Hi, I'm Matthew, a SciOly alum from Northwood High School. Having competed for 6 years, SciOly has been a major part of my life. Many of my fondest memories have been from Science Olympiad and I've been able to meet many close friends, competing with them over the years. I'm excited to be on the other side now organizing tournaments for the community!
-  favEvents: Mission Possible, Disease Detectives, Robot Arm
-  funFact: I love puzzles! Puzzle hunts are one of my favorite activities. I also make puzzle sets of my own too.
-  email: matthewtang@berkeley.edu
-  pic: Matthew_Tang.jpg
-  id: matthew
 
 - name: Emily Wen
   position: Tournament Director
