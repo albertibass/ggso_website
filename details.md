@@ -7,18 +7,11 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
-<a class="btn btn-md btn-mid" href="/ppp-update">Ping Pong Parachute Update</a>
-<a class="btn btn-md btn-mid" href="/tournament-guidelines">Tournament Guidelines</a>
-<a class="btn btn-md btn-mid" href="/tshirt-order">T-Shirt Order</a>
-<a class="btn btn-md btn-mid" href="/self-registration">Self Registration</a>
-<a class="btn btn-md btn-mid" href="/final_reminders">Final Reminders</a>
-<a class="btn btn-md btn-mid" href="/quick_info">Quick Info</a>
-<a class="btn btn-md btn-mid" href="/final_scores">Final Scores</a> 
 <a class="btn btn-md btn-mid" href="/tests">Photos and Tests</a>
 
 <br><br>
 
-<h4> Schedules and Maps </h4>
+<!--h4> Schedules and Maps </h4>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/event_schedule.pdf">Event Schedule</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/day_schedule.pdf">Day of Schedule</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/awards_program.pdf">Awards Program</a>
@@ -38,14 +31,14 @@ permalink: /details/
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/social_flyer.pdf">Social Flyer</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/policies.pdf">Tournament Policies</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/injury_report.pdf">Accidental Injury Report</a>
-<a class="btn btn-md btn-mid" target = "_blank" href="https://statescioly.org/golden-gate/Policy/Doc/public-appeal-form">Appeal Form</a>
+<a class="btn btn-md btn-mid" target = "_blank" href="https://statescioly.org/golden-gate/Policy/Doc/public-appeal-form">Appeal Form</a-->
 
 
 </div> 
 
 # Eligibility & Registration Policies
 
-* Teams’ places in the tournament are reserved on a first come, first served basis, provided that the registration fee is received by Golden Gate Science Olympiad by November 1, 2019.  Teams whose payment is not received by November 1 will forfeit their place to a team on the waitlist.  Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
+* Teams’ places in the tournament are reserved on a first come, first served basis, provided that the registration fee is received by Golden Gate Science Olympiad by November 1, 2020.  Teams whose payment is not received by November 1 will forfeit their place to a team on the waitlist.  Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
 
 * The Golden Gate Science Olympiad Invitational Tournament is a Division C competition.  All teams must conform to the Science Olympiad Division C membership rules. All students on each team must be eligible to compete for that team as per the eligibility rules specified on soinc.org.
 
