@@ -7,7 +7,7 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
-<a class="btn btn-md btn-mid" href="/tests">Photos and Tests</a>
+<a class="btn btn-md btn-mid" href="/tests">2020 Photos and Tests</a>
 
 <br><br>
 
