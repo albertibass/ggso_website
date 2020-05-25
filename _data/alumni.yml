@@ -1,12 +1,13 @@
 - name: Abraham Chen
   position: Founder
   school: Economics  and Computer Science, Berkeley 2019
+  current: Engineering Product Manager at Apple, SF
   bio: Hi, my name is Abraham Chen, I’m a Mounds View Scioly Alumni, and I’ve been involved in Scioly all through high school. One time my team’s Scioly bus got stranded on a highway for 7 hours, making our trip to a tournament 21+ hours. That’s dedication.
   favEvents: Forensics, Fossils and Experimental Design
   funFact: I like heights because it scares me.
   linkedin: https://www.linkedin.com/in/abrahamchen1
   email: abraham.chen1@berkeley.edu
-  pic: Abraham_Chen.jpg
+  pic: Abraham_Chen.jpeg
   id: abraham
   
 - name: Alex Lu
@@ -44,9 +45,10 @@
 - name: Jonathan Wang
   position: Founder
   school: Computational Biology, Stanford 2019
-  bio: I’m a Mounds View high school alum who has been to nationals since my freshman year. Scioly has played an influential role in my dedication towards impacting society through health and tech! I am looking forward to sharing my Science Olympiad experience with current scioly competitors by helping to run invitationals across the bay area, hoping to inspire and enrich STEM education for students nationwide.
+  current: Medical Student @ UCSF, AI Research Associate @ Bill and Melinda Gates Foundation
+  bio: Hi! I'm Jon (https://jonxwang.com), from Mounds View High School! In high school, Science Olympiad was one of my favorite activities--  it taught me how fun science could be and I made teammates  turned co-GGSO founder turned lifelong friends. Im glad I can still keep in touch with the community as a test writer and event supervisor and hope others discover their own interests through it.
   favEvents: Mission Possible, Chemistry Lab, Sounds of Music, Designer Genes
-  funFact: 
+  funFact: i can eat two chipotle burritos in one sitting
   linkedin: https://www.linkedin.com/in/jonxwang
   email: jonxwang@stanford.edu
   pic: Jonathan_Wang.jpg
@@ -60,7 +62,7 @@
   favEvents: Circuit Lab, Mission Possible, MagLev
   funFact: Once spent a summer working underground at an Andean archeological site.
   email: rrcohen@stanford.edu
-  pic: Ryan_Cohen.jpg
+  pic: Ryan_Cohen.png
   id: ryan
   
 - name: Rohan Chakraborty
