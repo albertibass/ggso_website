@@ -106,3 +106,63 @@
   pic: Britney_Weng.jpeg
   id: Britney_Weng
   email: britneyweng@berkeley.edu
+
+- name: Arya Sharma
+  position: Tournament Director
+  school: Computer Science, Berkeley 2024
+  bio: Hi! I'm Arya, an American High School SciOly alumni. I've competed in SciOly since 5th grade, and this organization has been truly instrumental in shaping my interests. I’m so excited to continue my journey by helping run this invitational and look forward to spreading my passion for science to others!
+  favEvents: Mousetrap Vehicle, Compound Machines
+  funFact: My Mousetrap Vehicle is featured in one of Mark Rober's YouTube videos :)
+  pic: Arya_Sharma.jpeg
+  id: Arya_Sharma
+  email: aryasharma26@berkeley.edu
+
+- name: Nikhil Gupta
+  position: Tournament Director
+  school: Mechanical Engineering, Berkeley 2022
+  bio: Hi! I’m Nikhil, and I'm a Mira Loma Science O alum. I’ve been a part of Sci Oly for for nine years, and have loved every moment of it! I've made so many memories with the teams I've been a part of and can't wait to make more!
+  favEvents: Mission Possible, Robot Arm, Game On
+  funFact: I won an event because of a pencil eraser, only in Science O
+  pic: Nikhil_Gupta.jpg
+  id: Nikhil_Gupta
+  email: nikhil.gupta.ca@berkeley.edu
+
+- name: Nicole Xin
+  position: Tournament Director
+  school: Molecular and Cell Biology, Berkeley 2024
+  bio: Hi! I’m Nicole, a SciOly alum of Mountain View High School. Over the past 4 years, SciOly has allowed me to find and develop my passions and closest friendships leaving me with some of my fondest memories. I’m so excited to be able to stay involved with SciOly through GGSO and be able to bring this experience to others!
+  favEvents: Anatomy and Physiology, Microbe Mission
+  funFact: I moved to the Bay Area under the impression that I was only here to visit and attend a summer camp, except it was actually the first day of 4th grade. 
+  pic: Nicole_Xin.jpeg
+  id: Nicole_Xin
+  email: nicolexin@berkeley.edu
+
+- name: Phillip Liu
+  position: Tournament Director
+  school: Biophysics, Stanford PhD
+  bio: Hi, I’m Phillip, a Scarsdale High School and Caltech alum. I’ve been involved in Science Olympiad as a competitor since my middle school years, and I’ve also served as an Event Supervisor and on the Caltech SciOly Planning Team when I was in undergrad. The Science Olympiad community has really helped me explore my passions in STEM, and I’m excited to contribute back through GGSO!
+  favEvents: Cell Biology, It's About Time
+  funFact: A friend and I have unfortunately eaten two AYCE KBBQ places out of business :(
+  pic: Phillip_Liu.png
+  id: Phillip_Liu
+  email: pliu2@stanford.edu
+
+- name: Iris Xia
+  position: Tournament Director
+  school: Stanford 2024
+  bio: Hi! I'm Iris and I'm a Monta Vista High School and Kennedy Middle School SciOly alumna! Competing in Science Olympiad for the past six years has made a profound impact on my intellectual goals and introduced me to an amazing STEM community. I'm excited to continue sharing my love for SciOly as part of the GGSO team!
+  favEvents: Remote Sensing, Write It Do It, Sounds of Music
+  funFact: Getting subbed last-minute into Meteorology in seventh grade literally shaped my research interests!
+  pic: Iris_Xia.jpg
+  id: Iris_Xia
+  email: irisxia2012@gmail.com
+
+- name: Alvin Xu
+  position: Tournament Director
+  school: EECS, Berkeley 2024
+  bio: Hey everyone, I'm Alvin Xu! In high school I competed for Seven Lakes, and Science Olympiad quickly became a very major part of my life. Those years have taught me so much, and I am excited to now be working to deliver that experience from the tournament organization side.
+  favEvents: Astronomy, Codebusters
+  funFact: I like to create music in my free time.
+  pic: Alvin_Xu.jpg
+  id: Alvin_Xu
+  email: alvin.xu5745@berkeley.edu
