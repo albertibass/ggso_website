@@ -1,3 +1,14 @@
+- name: Rohan Chakraborty
+  position: Founder
+  school: Chemical Engineering, Berkeley 2019
+  bio: Hi! I'm Rohan, and I’m an alum of Seven Lakes High School and Beckendorff Junior High in Katy, Texas. Throughout my Science Olympiad experience, I’ve competed extensively in building events such as Gravity Vehicle and Scrambler as well in as lab events like Chemistry Lab and Forensics. I had a blast organizing our inaugural tournament for you all, and I'm looking forward to making our next tournament even greater!
+  favEvents: Forensics and Chem Lab
+  funFact: I love anything and everything Drake.
+  linkedin: https://www.linkedin.com/in/rohan-chakraborty-394313112?trk=nav_responsive_tab_profile
+  email: rohanchak@berkeley.edu
+  pic: Rohan_Chakraborty.jpg
+  id: rohan
+
 - name: Abraham Chen
   position: Founder
   school: Economics  and Computer Science, Berkeley 2019
@@ -10,16 +21,16 @@
   pic: Abraham_Chen.jpeg
   id: abraham
   
-- name: Alex Lu
+- name: Ryan Cohen
   position: Founder
-  school: Biomedical Computation, Stanford 2019
-  current: Johns Hopkins MD-PhD Program
-  bio: Hi! I'm Alex, from Palo Alto High School. SciOly was a huge part of my life in high school, and what first introduced me to the intersection of science, tech, and medicine. I hope that through GGSO, others will be able to have the same eye-opening experiences that I once did. Currently missing late night study sessions, forensics lab practice, and folding toobers with the rest of the team.
-  favEvents: Anatomy and Physiology, Forensics, WIDI
-  funFact: My team dyed our hair (everyone's, all of it) green for 2013 Nationals!
-  email: alu2@stanford.edu
-  pic: Alex_Lu.jpg
-  id: alex
+  school: Mechanical Engineering, Stanford 2019
+  current: Business Analyst at McKinsey & Co
+  bio: Hey, I’m Ryan! I’m an alum of Mira Loma High School from Sacramento, California. I co-founded and led communications/strategy for GGSO, and I also volunteer at NorCal state and regional tournaments on the arbitration committees. My incredible science olympiad experience inspired me to pursue a career in systems engineering and autonomous transportation, and I hope to promote and expand access to those opportunities for students today.
+  favEvents: Circuit Lab, Mission Possible, MagLev
+  funFact: Once spent a summer working underground at an Andean archeological site.
+  email: rrcohen@stanford.edu
+  pic: Ryan_Cohen.png
+  id: ryan
 
 - name: Denis Li
   position: Founder
@@ -31,6 +42,17 @@
   email: denis.li@berkeley.edu
   pic: Denis_Li.jpg
   id: denis
+
+- name: Alex Lu
+  position: Founder
+  school: Biomedical Computation, Stanford 2019
+  current: Johns Hopkins MD-PhD Program
+  bio: Hi! I'm Alex, from Palo Alto High School. SciOly was a huge part of my life in high school, and what first introduced me to the intersection of science, tech, and medicine. I hope that through GGSO, others will be able to have the same eye-opening experiences that I once did. Currently missing late night study sessions, forensics lab practice, and folding toobers with the rest of the team.
+  favEvents: Anatomy and Physiology, Forensics, WIDI
+  funFact: My team dyed our hair (everyone's, all of it) green for 2013 Nationals!
+  email: alu2@stanford.edu
+  pic: Alex_Lu.jpg
+  id: alex
   
 - name: Dhruv Puri
   position: Founder
@@ -53,28 +75,6 @@
   email: jonxwang@stanford.edu
   pic: Jonathan_Wang.jpg
   id: jonathan
-  
-- name: Ryan Cohen
-  position: Founder
-  school: Mechanical Engineering, Stanford 2019
-  current: Business Analyst at McKinsey & Co
-  bio: Hey, I’m Ryan! I’m an alum of Mira Loma High School from Sacramento, California. I co-founded and led communications/strategy for GGSO, and I also volunteer at NorCal state and regional tournaments on the arbitration committees. My incredible science olympiad experience inspired me to pursue a career in systems engineering and autonomous transportation, and I hope to promote and expand access to those opportunities for students today.
-  favEvents: Circuit Lab, Mission Possible, MagLev
-  funFact: Once spent a summer working underground at an Andean archeological site.
-  email: rrcohen@stanford.edu
-  pic: Ryan_Cohen.png
-  id: ryan
-  
-- name: Rohan Chakraborty
-  position: Founder
-  school: Chemical Engineering, Berkeley 2019
-  bio: Hi! I'm Rohan, and I’m an alum of Seven Lakes High School and Beckendorff Junior High in Katy, Texas. Throughout my Science Olympiad experience, I’ve competed extensively in building events such as Gravity Vehicle and Scrambler as well in as lab events like Chemistry Lab and Forensics. I had a blast organizing our inaugural tournament for you all, and I'm looking forward to making our next tournament even greater!
-  favEvents: Forensics and Chem Lab
-  funFact: I love anything and everything Drake.
-  linkedin: https://www.linkedin.com/in/rohan-chakraborty-394313112?trk=nav_responsive_tab_profile
-  email: rohanchak@berkeley.edu
-  pic: Rohan_Chakraborty.jpg
-  id: rohan
 
 - name: Neil Patil
   position: Website
@@ -85,17 +85,6 @@
   email: neilpatil215@gmail.com
   pic: Neil_Patil.jpg
   id: neil
-  
-- name: Kevin Meng
-  position: Executive Director
-  school: Psychology and Economics, UC Berkeley 2020
-  bio: Hi, my name is Kevin Meng, I’m an Ed W. Clark HS Scioly alumni and captain. In preparation for state and nationals, I’ve stayed at school so late that midnight snacks and basketball with the cleaning staff is a norm. I’ve been told before that my love for Science Olympiad is “infectious”. Spread the love and stay committed!
-  favEvents: Gravity Vehicle, Elastic Launched Glider, Wright Stuff, WIDI
-  funFact: My team and I won a state championship in soccer! I have a fierce passion for music and sports. Play me.
-  linkedin: https://www.linkedin.com/in/kevinmeng1
-  email: kevinlmeng@berkeley.edu
-  pic: Kevin_Meng.png
-  id: kevinM
 
 - name: Colin Barber
   position: Tournament Director
@@ -108,6 +97,17 @@
   pic: Colin_Barber.jpg
   id: colin
   
+- name: Kevin Meng
+  position: Executive Director
+  school: Psychology and Economics, UC Berkeley 2020
+  bio: Hi, my name is Kevin Meng, I’m an Ed W. Clark HS Scioly alumni and captain. In preparation for state and nationals, I’ve stayed at school so late that midnight snacks and basketball with the cleaning staff is a norm. I’ve been told before that my love for Science Olympiad is “infectious”. Spread the love and stay committed!
+  favEvents: Gravity Vehicle, Elastic Launched Glider, Wright Stuff, WIDI
+  funFact: My team and I won a state championship in soccer! I have a fierce passion for music and sports. Play me.
+  linkedin: https://www.linkedin.com/in/kevinmeng1
+  email: kevinlmeng@berkeley.edu
+  pic: Kevin_Meng.png
+  id: kevinM
+  
 - name: Kelly Yu
   position: Tournament Director
   school: Economics, Berkeley 2021
@@ -117,17 +117,6 @@
   email: kelly_yu@berkeley.edu
   pic: Kelly_Yu.jpg
   id: kelly
-
-- name: Kathryn Li
-  position: Executive Director 
-  school: Molecular and Cell Biology, Berkeley 2020
-  current: Harvard Medical School (HST) MD Candidate 
-  bio: Hi, my name is Kathryn and I’m a Palo Alto Science Olympiad alum. SciOly sparked my interest in STEM many years ago, and I'm grateful that I've been able to stay involved and give back to the community even after I graduated high school. I'll always miss the feeling of the night before the tournament - whether that's cramming last minute for an event or powwowing with the GGSO team :)
-  favEvents: Forensics, Chem Lab, Protein Modeling, Bridge Building
-  funFact: I like to figure skate in my free time!
-  email: katli@berkeley.edu 
-  pic: Kathryn_Li.png
-  id: kathryn
 
 - name: Sarah Gurev
   position: Executive Director
@@ -147,6 +136,17 @@
   email: valeriehsieh@berkeley.edu
   pic: Valerie_Hsieh.jpg
   id: valerie
+
+- name: Kathryn Li
+  position: Executive Director 
+  school: Molecular and Cell Biology, Berkeley 2020
+  current: Harvard Medical School (HST) MD Candidate 
+  bio: Hi, my name is Kathryn and I’m a Palo Alto Science Olympiad alum. SciOly sparked my interest in STEM many years ago, and I'm grateful that I've been able to stay involved and give back to the community even after I graduated high school. I'll always miss the feeling of the night before the tournament - whether that's cramming last minute for an event or powwowing with the GGSO team :)
+  favEvents: Forensics, Chem Lab, Protein Modeling, Bridge Building
+  funFact: I like to figure skate in my free time!
+  email: katli@berkeley.edu 
+  pic: Kathryn_Li.png
+  id: kathryn
 
 - name: Amy Lo
   position: Tournament Director
