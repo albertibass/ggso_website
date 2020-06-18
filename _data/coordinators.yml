@@ -86,16 +86,6 @@
   pic: Vinay_Gautam.jpg
   id: vinay
   email: vinaygautam@berkeley.edu
- 
-- name: Amy Lo
-  position: Tournament Director
-  school: Stanford 2023
-  bio: Hi, I'm Amy, and I'm a Walnut High School and Suzanne Middle School alum! SciOly has been a formative part of my growth, which is why I’m even more excited to see how I can help this tournament grow!
-  favEvents: Forensics and Experimental Design
-  funFact: I have 50+ (and growing) themed Spotify playlists, each curated to a different mood, atmosphere, and vibe. 
-  pic: Amy_Lo.jpg
-  id: amy_lo
-  email: amyflo@stanford.edu
 
 - name: Britney Weng
   position: Tournament Director
@@ -137,7 +127,7 @@
   id: Arya_Sharma
   email: aryasharma26@berkeley.edu
 
-  - name: Iris Xia
+- name: Iris Xia
   position: Tournament Director
   school: Stanford 2024
   bio: Hi! I'm Iris and I'm a Monta Vista High School and Kennedy Middle School SciOly alumna! Competing in Science Olympiad for the past six years has made a profound impact on my intellectual goals and introduced me to an amazing STEM community. I'm excited to continue sharing my love for SciOly as part of the GGSO team!
