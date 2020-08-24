@@ -52,8 +52,6 @@ permalink: /details/
 
 * No team or team coach will be asked to write a test or supervise an event. All events will be run by Science Olympiad alumni, and all tests and answer keys will be made available to teams after the competition.
 
-* On competition day, every team will be given access to a room or part of a room at UC Berkeley to serve as their homeroom/team base.
-
 * Golden Gate Science Olympiad Invitational will make every attempt to adhere closely to the current year National Science Olympiad event schedule.
 
 * Unless otherwise stated, the Golden Gate Science Olympiad Invitational Tournament will follow all rules as stated in the printed national rule book and national event clarifications posted here. We will follow all rules and clarifications published by the National Science Olympiad organization.
