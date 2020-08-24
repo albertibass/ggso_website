@@ -24,3 +24,10 @@ In February 2021, Golden Gate Science Olympiad will be hosting their fifth tourn
 
 ## About Science Olympiad
 Science Olympiad has led our nation’s youth in science education for the past 32 years. Beginning as a group of science educators, Science Olympiad has evolved into one of the top science competitions in the United States, allowing thousands of students from nearly 7,400 teams in 49 states to challenge themselves and achieve their maximum potential. With a constantly changing roster of events in all areas of Science, Technology, Engineering, and Mathematics (STEM), Science Olympiad opens students’ eyes to a multitude of scientific disciplines and possible future careers, and enhances classroom education with a diverse wealth of content.
+
+<br>
+
+## Organization Policy
+The Golden Gate Science League and the Golden Gate Science Olympiad Invitational is committed to equal opportunity for all persons without regard to sex, race, color, religion, national origin, citizenship, ancestry, age, maritalstatus, physical or mental disability, medical condition, genetic information, pregnancy or perceived pregnancy, gender, gender identity or expression, sexual orientation, protected veteran status, or any other characteristic or condition protected by state and federal law, in any of its activities or operations. These activities include, but are not limited to, selection of board members, volunteers, vendors, and participants. 
+
+Feel free to reach out for any questions or concerns.
