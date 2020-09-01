@@ -30,3 +30,5 @@ The GGSO Team
 **Links**
 <br/>
 <a class="btn btn-md btn-mid" target="_blank" href="mailto:goldengatescioly@gmail.com">Email us</a>
+<a class = "btn btn-md btn-mid" target="_blank" href="https://statescioly.org/golden-gate">Registration Link</a>
+<a class = "btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1PgulkUgZ8pOl2daWdRuLzUSWo5lmfeKH7uJjoBNgBtk/edit?usp=sharing">Tournament Details</a>
