@@ -7,6 +7,7 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
+<a class="btn btn-md btn-mid" href="/registration">2021 Registration</a>
 <a class="btn btn-md btn-mid" href="/event-supervisor">ES/TC Application</a>
 <a class="btn btn-md btn-mid" href="/2021-announcement">2021 Announcement</a>
 <a class="btn btn-md btn-mid" href="/tests">2020 Photos and Tests</a>
