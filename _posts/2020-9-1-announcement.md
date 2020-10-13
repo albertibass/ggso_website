@@ -14,7 +14,7 @@ Important highlights include:
 
 - Official team registration opens on Scilympiad on <b>Monday, October 5th</b> at Noon PDT on a first-come first-served basis at <a target="_blank" href = "https://statescioly.org/golden-gate">this</a> link. The registration fee will be $50, due by <b>November 20, 2020</b>. Please contact us if the registration fee poses a challenge for your team. 
 
-- The tournament will have a maximum of 100 competing teams, and a maximum of 2 teams allowed per school.
+- The tournament will have a maximum of 150 competing teams, and a maximum of 2 teams allowed per school.
 
 - We will be holding all Division C events allowed in the MiniSO model following regional-level rules. All tests will be administered in a synchronous form according to the PDT time zone. Students residing in other time zones are also welcome to participate, but will need to adhere to these times. 
 
