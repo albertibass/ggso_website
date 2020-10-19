@@ -12,6 +12,7 @@ Registration for the 2021 GGSO Invitational is now open at our  <a target="_blan
 
 Details for the Scilympiad registration process can be found <a target="_blank" href="https://docs.google.com/document/d/1Jq3jVo8NdcEI5Iy9mQgXa3MByH-2AZXzX-0Q6B_1zYY/edit?usp=sharing">here</a>. <b>Please read this document carefully - you must complete all requirements to be officially registered. Payment details are at the bottom of the above document.</b>
 
+<b>[10/12/20] Update: We have expanded tournament capacity to 150 teams. The first 50 teams that were on the waitlist were moved into the tournament. Other prospective teams can add themselves to the waitlist in case spots open up.</b>
 
 
 General details regarding how the tournament will operate can be found <a target="_blank" href = "https://docs.google.com/document/d/1PgulkUgZ8pOl2daWdRuLzUSWo5lmfeKH7uJjoBNgBtk/edit?usp=sharing">here</a>.
