@@ -8,7 +8,7 @@ permalink: /registration/
 
 Hello GGSO Community,
 
-Registration for the 2021 GGSO Invitational is now open at our  <a target="_blank" href = "https://statescioly.org/golden-gate">Scilympiad</a> page! Remember that sign-ups are on a <b>first-come, first-serve</b> basis, and that the registration period will close on <b>November 20, 2020</b>. 
+Registration for the 2021 GGSO Invitational is now open at our  <a target="_blank" href = "https://scilympiad.com/golden-gate">Scilympiad</a> page! Remember that sign-ups are on a <b>first-come, first-serve</b> basis, and that the registration period will close on <b>November 20, 2020</b>. 
 
 Details for the Scilympiad registration process can be found <a target="_blank" href="https://docs.google.com/document/d/1Jq3jVo8NdcEI5Iy9mQgXa3MByH-2AZXzX-0Q6B_1zYY/edit?usp=sharing">here</a>. <b>Please read this document carefully - you must complete all requirements to be officially registered. Payment details are at the bottom of the above document.</b>
 
@@ -25,6 +25,6 @@ The GGSO Team
 **Links**
 <br/>
 <a class="btn btn-md btn-mid" target="_blank" href="mailto:goldengatescioly@gmail.com">Email us</a>
-<a class = "btn btn-md btn-mid" target="_blank" href="https://statescioly.org/golden-gate">Registration Link</a>
+<a class = "btn btn-md btn-mid" target="_blank" href="https://scilympiad.com/golden-gate">Registration Link</a>
 <a class = "btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Jq3jVo8NdcEI5Iy9mQgXa3MByH-2AZXzX-0Q6B_1zYY/edit?usp=sharing">Registration Instructions</a>
 <a class = "btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1PgulkUgZ8pOl2daWdRuLzUSWo5lmfeKH7uJjoBNgBtk/edit?usp=sharing">Tournament Details</a>

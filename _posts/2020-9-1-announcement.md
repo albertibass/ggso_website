@@ -12,7 +12,7 @@ We’re excited to announce that the 2021 GGSO Invitational will be taking place
 
 Important highlights include:
 
-- Official team registration opens on Scilympiad on <b>Monday, October 5th</b> at Noon PDT on a first-come first-served basis at <a target="_blank" href = "https://statescioly.org/golden-gate">this</a> link. The registration fee will be $50, due by <b>November 20, 2020</b>. Please contact us if the registration fee poses a challenge for your team. 
+- Official team registration opens on Scilympiad on <b>Monday, October 5th</b> at Noon PDT on a first-come first-served basis at <a target="_blank" href = "https://scilympiad.com/golden-gate">this</a> link. The registration fee will be $50, due by <b>November 20, 2020</b>. Please contact us if the registration fee poses a challenge for your team. 
 
 - The tournament will have a maximum of 150 competing teams, and a maximum of 2 teams allowed per school.
 
@@ -30,5 +30,5 @@ The GGSO Team
 **Links**
 <br/>
 <a class="btn btn-md btn-mid" target="_blank" href="mailto:goldengatescioly@gmail.com">Email us</a>
-<a class = "btn btn-md btn-mid" target="_blank" href="https://statescioly.org/golden-gate">Registration Link</a>
+<a class = "btn btn-md btn-mid" target="_blank" href="https://scilympiad.com/golden-gate">Registration Link</a>
 <a class = "btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1PgulkUgZ8pOl2daWdRuLzUSWo5lmfeKH7uJjoBNgBtk/edit?usp=sharing">Tournament Details</a>
