@@ -6,7 +6,7 @@ permalink: /volunteer/
 
 # 2021 General Volunteer Applications
 
-The application to be a general volunteer for the 2021 Golden Gate Science Olympiad Invitational is now open <a target="_blank" href="https://forms.gle/ciCogNc3kiFwDWJw7">here</a>. This form will be due on <b>January 3rd, 2021</b> at <b>11:59 PM PT</b>.
+The application to be a general volunteer for the 2021 Golden Gate Science Olympiad Invitational is now open <a target="_blank" href="https://forms.gle/ciCogNc3kiFwDWJw7">here</a>. This form will be due on <b>January 31st, 2021</b> at <b>11:59 PM PT</b>.
 
 Please be sure to read the particular details about this role in the form description. You must meet the following requirements:
 
