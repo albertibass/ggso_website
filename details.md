@@ -7,11 +7,28 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
-<a class="btn btn-md btn-mid" href="/volunteer">Volunteer Form</a>  
-<a class="btn btn-md btn-mid" href="/registration">2021 Registration</a>
-<a class="btn btn-md btn-mid" href="/event-supervisor">ES/TC Application</a>
-<a class="btn btn-md btn-mid" href="/2021-announcement">2021 Announcement</a>
-<a class="btn btn-md btn-mid" href="/tests">2020 Photos and Tests</a>
+<a class="btn btn-md btn-mid" href="/final-updates">Final Updates</a>
+
+<br><br>
+<h4> Schedules</h4>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1XhhFDybp2RPfqP_s_4udwhTCQWXFlkmDZoc5O-3EYFg/edit#gid=1308440264">Events Schedule</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1yu9vtbaEITvUqZculFzEZIy6IVRowMNpLhBmWEn2j20/edit?usp=sharing">Awards Schedule</a>
+
+<br><br>
+<h4> Policies and Helpful Info </h4>
+<a class="btn btn-md btn-mid" target="_blank" href="https://scilympiad.com/golden-gate">Scilympiad Page</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1PgulkUgZ8pOl2daWdRuLzUSWo5lmfeKH7uJjoBNgBtk/edit">2021 Plan Document</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/15S0l71y05jJcq5jR_tgCBhPnlH0wrfs-f_nUiTHpQqs/edit?usp=sharing">Team Numbers</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://forms.gle/3MENf7XUx1spKtDt6">Notes Submission Form</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://stanford.zoom.us/j/93917725257?pwd=WmpCL1dOWkdzbzdxN1JFMHBMd1B1UT09">Troubleshooting Zoom</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1RwFu7o9ulwN38wOhzgiJbcd3WqxK6dKm0yXTlSPJzYQ/edit?fbclid=IwAR1_L41ff1XKi-vKV7voq7AktFOgg0jxx70B5MyLgQWacAdy-P2j6xpWQ9g">Student Troubleshooting Guide</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1p-SrlxuggYGClG7R8Vz__0jYUTTMuQNCSHoSG7tRr14/edit?usp=sharing">Academic Integrity Guide</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://www.customink.com/g/nga0-00cd-6nfk">T-Shirt Orders</a>
+
+<br><br>
+<h4> Scilympiad Official Reference Guides </h4>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1C89iAxOcoc6cH4OIqX9pm5p88cta7X6931HrJCgmOeY/edit?usp=sharing">Head Coach Reference Guide</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1_e-9ChGJRhjaOCdEa4wn9sEpOPfH2KdWdKyDq8O6u-g/edit?usp=sharing">Student Reference Guide</a>
 
 <br><br>
 
