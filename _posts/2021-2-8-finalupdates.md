@@ -1,12 +1,12 @@
 ---
 layout: info
 title: Final Updates
-permalink: /final-updates/
+permalink: /feb-updates/
 ---
 
-# Final Updates
+# February Updates
 
-With the tournament one week away, we would like to provide you with one final update.
+With the tournament one week away, we would like to provide you with one more update.
 
 <b>Waivers:</b> Several teams have reached out about the student waiver/release forms. We apologize for the confusion, but to clarify, our tournament is only requiring one release form to be signed per student, which can be found in the “Release Forms” section of the Head Coach Dashboard. We have also now activated the “Verification/Checklist” function on the coach dashboard, so you can check which students have submitted their release forms. Students must turn in their forms prior to <b>February 12, 11:59 pm PT</b> in order to compete.
 

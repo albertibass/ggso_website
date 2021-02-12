@@ -9,6 +9,7 @@ permalink: /details/
 <h4> Announcements </h4>
 <a class="btn btn-md btn-mid" href="/quick-info">Quick Info</a>
 <a class="btn btn-md btn-mid" href="/final-updates">Final Updates</a>
+<a class="btn btn-md btn-mid" href="/feb-updates">February Updates</a>
 <a class="btn btn-md btn-mid" href="/jan-updates">January Updates</a>
 <a class="btn btn-md btn-mid" href="/dec-updates">December Updates</a>
 <a class="btn btn-md btn-mid" href="/nov-updates">November Updates</a>
