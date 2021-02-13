@@ -7,7 +7,7 @@ permalink: /day-of-updates/
 # Day Of Updates
 
 ## Update 3:
-We apologize for all Write It CAD It issues. Our event supervisors will be reviewing all issues on a case by case basis. If your team were not able to upload files, please email Iris Xia(ixia@stanford.edu) or Nicole Xin (nicolexin@berkeley.edu).
+We apologize for all Write It CAD It issues. Our event supervisors will be reviewing all issues on a case by case basis. If your team were not able to upload files, please email Iris Xia(ixxia@stanford.edu) or Nicole Xin (nicolexin@berkeley.edu).
 
 ## Update 2:
 Thank you for your patience as we have worked to resolve all the technical difficulties this morning. We have an update for the time slots for block 1 events.
