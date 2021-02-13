@@ -6,6 +6,13 @@ permalink: /day-of-updates/
 
 # Day Of Updates
 
+## Update 4:
+We thank you for your patience as we deal with all of the issues associated with Write It CAD It. It appears that Onshape crashed at the beginning of the CAD-er’s time slot, causing multiple teams to not have the full 20 minutes to complete the build. If this was the case for your team, please email the event supervisors (ixxia@stanford.edu and nicolexin@berkeley.edu), and we will grant extensions. For teams that need extensions, we will be manually opening the CAD-er event after 1 PM PST, after which the CAD-er will have a 20 minute time-block to continue their build, which they can start anytime during the day. The CAD-er will have access to the writer’s instructions during that time.
+
+To clarify, all teams that have reached out to us asking for extensions will be receiving an extension on the CAD-er’s end -- we just haven’t had the capacity to reply to every email. We have also had some issues with the writer’s instructions not saving -- unfortunately, this is a persistent issue with Scilympiad and we will not be able to grant exceptions.
+
+- WICI ES Team
+
 ## Update 3:
 We apologize for all Write It CAD It issues. Our event supervisors will be reviewing all issues and time extension requests on a case by case basis. If your team were not able to upload files, please email Iris Xia (ixxia@stanford.edu) or Nicole Xin (nicolexin@berkeley.edu).
 
