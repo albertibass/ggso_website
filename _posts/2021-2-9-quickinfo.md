@@ -28,4 +28,4 @@ permalink: /quick-info/
 
 - <b>Awards Ceremony:</b> February 20, 2021 at 5pm PT. Schedule <a target="_blank" href="https://docs.google.com/document/d/1yu9vtbaEITvUqZculFzEZIy6IVRowMNpLhBmWEn2j20/edit?usp=sharing">here</a>
 
-- <b>Social Media Handles:</b> Snapchat <a target = "_blank" href="https://snapchat.com/add/ggscioly">(ggscioly)</a>, Instagram <a target = "_blank" href="https://www.instagram.com/goldengatescioly/">(goldengatescioly)</a>, and Twitter <a target = "_blank" href="https://twitter.com/goldengateso">(@goldengateso)</a>
+- <b>Social Media Handles:</b> Instagram <a target = "_blank" href="https://www.instagram.com/goldengatescioly/">(@goldengatescioly)</a>, Facebook <a target = "_blank" href="https://www.facebook.com/goldengatescioly">(@goldengatescioly)</a>, Twitter <a target = "_blank" href="https://twitter.com/goldengateso">(@goldengateso)</a>, and Snapchat <a target = "_blank" href="https://snapchat.com/add/ggscioly">(@ggscioly)</a>
