@@ -6,6 +6,9 @@ permalink: /day-of-updates/
 
 # Day Of Updates
 
+## Update 5:
+We thank you again for your patience as we deal with all of the issues associated with Write It CAD It. Due to all the issues that arose as a result of the Onshape crash this morning, we will be making Write It CAD It a trial event. The score will not factor into overall team placement, however, we will still be handing out medals for the event. Again, sorry for all the issues with this event.
+
 ## Update 4:
 We thank you for your patience as we deal with all of the issues associated with Write It CAD It. It appears that Onshape crashed at the beginning of the CAD-er’s time slot, causing multiple teams to not have the full 20 minutes to complete the build. If this was the case for your team, please email the event supervisors (ixxia@stanford.edu and nicolexin@berkeley.edu), and we will grant extensions. For teams that need extensions, we will be manually opening the CAD-er event after 1 PM PST, after which the CAD-er will have a 20 minute time-block to continue their build, which they can start anytime during the day. **Please only use the amount of time you lost during the actual event** (i.e. if you were able to CAD for 10 minutes during the event, use only 10 minutes of the extension time). The CAD-er will have access to the writer’s instructions during that time.
 
