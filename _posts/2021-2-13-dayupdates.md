@@ -11,8 +11,6 @@ We thank you for your patience as we deal with all of the issues associated with
 
 To clarify, all teams that have reached out to us asking for extensions will be receiving an extension on the CAD-er’s end -- we just haven’t had the capacity to reply to every email. We have also had some issues with the writer’s instructions not saving -- unfortunately, this is a persistent issue with Scilympiad and we will not be able to grant exceptions.
 
-- WICI ES Team
-
 ## Update 3:
 We apologize for all Write It CAD It issues. Our event supervisors will be reviewing all issues and time extension requests on a case by case basis. If your team were not able to upload files, please email Iris Xia (ixxia@stanford.edu) or Nicole Xin (nicolexin@berkeley.edu).
 
