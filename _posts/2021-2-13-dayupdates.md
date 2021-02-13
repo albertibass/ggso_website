@@ -5,6 +5,17 @@ permalink: /day-of-updates/
 ---
 
 # Day Of Updates
+
+## Update 2:
+Thank you for your patience as we have worked to resolve all the technical difficulties this morning. We have an update for the time slots for block 1 events.
+
+Block 1 events (Detector Building, Digital Structures, and Biophysics) may be started at its designated rescheduled time block (from **4:10pm - 5:10pm PT**) or **at any time before 4:10pm**. Teams no longer need to email us to ask to take it earlier in the day. Please note that only during the rescheduled time block, event supervisors will be present, so we highly recommend that students take the exam during that block. In the case that competitors are unable to compete at that time block, they may take it at an earlier time (but the event supervisor will not be there). If a school has more than one team, both teams must take the block 1 events at the same time in order to ensure fairness (or else teams risk being disqualified). 
+
+Additionally, we have received reports from Write it Cad It that students could not access the file. This has been resolved, so please refresh and log-in for the changes to take effect.
+
+If you are still facing problems or have any questions, please feel free to contact us with your team numbers and which events you are facing problems with.
+
+## Update 1:
 We are sorry for all the inconveniences that Scilympiad has caused. As of now, we believe we have fixed the issue and would like to let you all know that you should do the following right now before students go on to take their next event:
 
 Log out of Scilympiad and restart your browser to make sure that changes on Scilympiad are reflected.
