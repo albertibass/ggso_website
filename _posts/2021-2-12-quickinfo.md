@@ -24,7 +24,7 @@ permalink: /quick-info/
 
 - <b>Appeals:</b> Done through <a target="_blank" href="https://scilympiad.com/golden-gate">Scilympiad</a> from Head Coach Dashboard
 
-- <b>T-shirts:</b> Orders can be placed until competition day, found <a target="_blank" href="https://www.customink.com/g/nga0-00cd-6nfk">here</a>
+- <b>T-shirts:</b> Orders can be placed through Sunday of competition weekend, found <a target="_blank" href="https://www.customink.com/g/nga0-00cd-6nfk">here</a>
 
 - <b>Awards Ceremony:</b> February 20, 2021 at 5pm PT. Schedule <a target="_blank" href="https://docs.google.com/document/d/1yu9vtbaEITvUqZculFzEZIy6IVRowMNpLhBmWEn2j20/edit?usp=sharing">here</a>
 
