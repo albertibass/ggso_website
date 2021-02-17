@@ -16,7 +16,7 @@ We were so pleased to have you join us for the fifth annual (and first virtual!)
 
 <b>T-shirts:</b> T-shirts are still on sale! The order deadline has been extended through <b>11:59 PM PST on Sunday, February 14th</b>. T-shirts are $16 dollars each and you can order them directly <a target="_blank" href="https://www.customink.com/g/nga0-00cd-6nfk">here</a>. Orders will be shipped directly to you by CustomInk two weeks after, in early March. You are responsible for covering the shipping costs, so we encourage teams to place orders together to reduce the cost of shipping.
 
-Once again, we are extremely sorry for all the inconveniences that Scilympiad caused and we appreciate you being patient with us. We thank you and congratulate you on your achievements in STEM and Science Olympiad, and we hope you will consider joining us again next year!
+Once again, we are extremely sorry for all the inconveniences that you may have experienced and we appreciate you being patient with us. We thank you and congratulate you on your achievements in STEM and Science Olympiad, and we hope you will consider joining us again next year!
 
 If you have any questions, feel free to email us at goldengatescioly@gmail.com!
 
