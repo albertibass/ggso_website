@@ -1,15 +1,24 @@
-- name: Evelyn Zhang
+- name: Sophia Wang
   position: Executive Director
-  school: Human Biology, Stanford 2021
-  bio: Hi!! I’m Evelyn, and I’m a Mira Loma Sci Oly alumni. I was only on the team since sophomore year, but those 3 years definitely shaped my passions and love for science. It was Science Olympiad that developed my interest in biology and led me to pursue a career in medicine. 
-  favEvents: Anatomy and Physiology, Disease Detectives
-  funFact: I actually didn’t want to do Disease Detectives until my sci oly coach put me on the event sophomore year, and by senior year I was 1st in the nation for the event. Lets just say that my coach made a good call :)
-  email: evzhang@stanford.edu
-  pic: Evelyn_Zhang.jpg
-  id: evelyn
+  school: Molecular and Cell Biology, Berkeley 2022
+  bio: Hi, I’m Sophia and I’m a Mira Loma High School and Winston Churchill Middle School Science Olympiad alum. I can’t really pinpoint exactly what I love about Science Olympiad, but it’s been seven years and I’m still here so I guess there must be something there.
+  favEvents: Disease Detectives, Ecology, Simple Machines
+  funFact: I've met a real life disease detective.
+  pic: Sophia_Wang.jpg
+  id: sophia
+
+- name: Emily Wen
+  position: Executive Director
+  school: CS and Math, Stanford 2022
+  bio: Hi! I'm Emily, an alum of NCSSM and Enloe High School SciOly. Through my 6 years of competing, I've met the most amazing community, both on my teams and online. I'm so glad I can continue being involved through GGSO. Super excited to help make this invite happen! :)
+  favEvents: Codebusters, Experimental Design, Dynamic Planet
+  funFact: I've never competed in a scioly invitational.
+  email: ewen22@stanford.edu
+  pic: Emily_Wen.jpg
+  id: emily
 
 - name: Matthew Tang
-  position: Executive Director
+  position: Tournament Director
   school: EECS, Berkeley 2022
   bio: Hi, I'm Matthew, a SciOly alum from Northwood High School. Having competed for 6 years, SciOly has been a major part of my life. Many of my fondest memories have been from Science Olympiad and I've been able to meet many close friends, competing with them over the years. I'm excited to be on the other side now organizing tournaments for the community!
   favEvents: Mission Possible, Disease Detectives, Robot Arm
@@ -17,26 +26,6 @@
   email: matthewtang@berkeley.edu
   pic: Matthew_Tang.jpg
   id: matthew
-
-- name: Faith Harron
-  position: Tournament Director
-  school: Mechanical Engineering, Stanford 2021
-  bio: Hello, I’m Faith--I’m a Bismarck Century High alum, and was a part of Science Olympiad since my middle school years. SciO was always one of my favorite extracurricular activities, and I’m delighted to continue my involvement at university.
-  favEvents: Astronomy, Dynamic Planet, Anatomy and Physiology
-  funFact: Joan of Arc is my great-aunt--like 11 greats in there, but I am directly descended from her brother.
-  email: feharron@stanford.edu
-  pic: Faith_Harron.jpg
-  id: feharron
-
-- name: Allison Yao
-  position: Tournament Director
-  school: MEB and Psychology, Berkeley 2021
-  bio: Hi, I’m Allison! I love everything Science Olympiad -- my years of competing, the amazing community of people I’ve met, and this very tournament. I’m beyond excited to see what the upcoming season will bring to the table!
-  favEvents: Invasive Species, Herpetology, Forensics
-  funFact: If you give me a clover patch, I'll be able to find you a four-leafed (or sometimes even five-leafed) one within minutes!
-  email: allison_y@berkeley.edu    
-  pic: Allison_Yao.jpg
-  id: allison
   
 - name: Amy Jiang
   position: Tournament Director
@@ -47,35 +36,6 @@
   email: p.amyjiang@berkeley.edu
   pic: Amy_Jiang.jpg
   id: amy
-
-- name: Emily Wen
-  position: Tournament Director
-  school: CS and Math, Stanford 2022
-  bio: Hi! I'm Emily, an alum of NCSSM and Enloe High School SciOly. Through my 6 years of competing, I've met the most amazing community, both on my teams and online. I'm so glad I can continue being involved through GGSO. Super excited to help make this invite happen! :)
-  favEvents: Codebusters, Experimental Design, Dynamic Planet
-  funFact: I've never competed in a scioly invitational.
-  email: ewen22@stanford.edu
-  pic: Emily_Wen.jpg
-  id: emily
-
-- name: Martin Altenburg 
-  position: Tournament Director
-  school: Electrical Engineering, Stanford 2021  
-  bio: I am super excited to be a part of this year's GGSO team. Growing up in North Dakota, Science Olympiad was the first times I really got to share my interest in STEM with people around my school and state. I'm passionate about making STEM education and opportunities accessible for students of all backgrounds and can't wait to help make that a reality within GGSO! 
-  favEvents: Meteorology and Towers 
-  funFact: I once competed in eight events during a regional tournament. Quite the time! 
-  pic: Martin_Altenburg.jpg 
-  id: Martin_Altenburg 
-  email: altenbur@stanford.edu
-
-- name: Sophia Wang
-  position: Tournament Director
-  school: Molecular and Cell Biology, Berkeley 2022
-  bio: Hi, I’m Sophia and I’m a Mira Loma High School and Winston Churchill Middle School Science Olympiad alum. I can’t really pinpoint exactly what I love about Science Olympiad, but it’s been seven years and I’m still here so I guess there must be something there.
-  favEvents: Disease Detectives, Ecology, Simple Machines
-  funFact: I've met a real life disease detective.
-  pic: Sophia_Wang.jpg
-  id: sophia
   
 - name: Vinay Gautam
   position: Tournament Director

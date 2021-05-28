@@ -157,3 +157,43 @@
   email: amyflo@stanford.edu
   pic: Amy_Lo.jpg
   id: amy_lo
+
+- name: Martin Altenburg 
+  position: Tournament Director
+  school: Electrical Engineering, Stanford 2021  
+  bio: I am super excited to be a part of this year's GGSO team. Growing up in North Dakota, Science Olympiad was the first times I really got to share my interest in STEM with people around my school and state. I'm passionate about making STEM education and opportunities accessible for students of all backgrounds and can't wait to help make that a reality within GGSO! 
+  favEvents: Meteorology and Towers 
+  funFact: I once competed in eight events during a regional tournament. Quite the time! 
+  pic: Martin_Altenburg.jpg 
+  id: Martin_Altenburg 
+  email: altenbur@stanford.edu
+
+- name: Faith Harron
+  position: Executive Director
+  school: Mechanical Engineering, Stanford 2021
+  bio: Hello, I’m Faith--I’m a Bismarck Century High alum, and was a part of Science Olympiad since my middle school years. SciO was always one of my favorite extracurricular activities, and I’m delighted to continue my involvement at university.
+  favEvents: Astronomy, Dynamic Planet, Anatomy and Physiology
+  funFact: Joan of Arc is my great-aunt--like 11 greats in there, but I am directly descended from her brother.
+  email: feharron@stanford.edu
+  pic: Faith_Harron.jpg
+  id: feharron
+
+- name: Allison Yao
+  position: Tournament Director
+  school: MEB and Psychology, Berkeley 2021
+  bio: Hi, I’m Allison! I love everything Science Olympiad -- my years of competing, the amazing community of people I’ve met, and this very tournament. I’m beyond excited to see what the upcoming season will bring to the table!
+  favEvents: Invasive Species, Herpetology, Forensics
+  funFact: If you give me a clover patch, I'll be able to find you a four-leafed (or sometimes even five-leafed) one within minutes!
+  email: allison_y@berkeley.edu    
+  pic: Allison_Yao.jpg
+  id: allison
+
+- name: Evelyn Zhang
+  position: Executive Director
+  school: Human Biology, Stanford 2021
+  bio: Hi!! I’m Evelyn, and I’m a Mira Loma Sci Oly alumni. I was only on the team since sophomore year, but those 3 years definitely shaped my passions and love for science. It was Science Olympiad that developed my interest in biology and led me to pursue a career in medicine. 
+  favEvents: Anatomy and Physiology, Disease Detectives
+  funFact: I actually didn’t want to do Disease Detectives until my sci oly coach put me on the event sophomore year, and by senior year I was 1st in the nation for the event. Lets just say that my coach made a good call :)
+  email: evzhang@stanford.edu
+  pic: Evelyn_Zhang.jpg
+  id: evelyn
