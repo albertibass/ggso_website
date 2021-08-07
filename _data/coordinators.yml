@@ -116,3 +116,43 @@
   pic: Alvin_Xu.jpg
   id: Alvin_Xu
   email: alvin.xu5745@berkeley.edu
+
+- name: Adrian Huang
+  position: Tournament Director
+  school: Chemistry, Berkeley PhD
+  bio: Hello hello! I'm Adrian, a Leigh High School SciOly Alum. I've been involved with Science Olympiad for almost a decade now (wow!) from competing in high school to helping the Caltech SciOly Planning Team. Happy to keep this streak of giving back to Science Olympiad through GGSO!
+  favEvents: Chemistry Lab, Forensics, Potions and Poisons
+  funFact: I'm allergic to avocado but like the taste so I power through the mild discomfort.
+  pic: Adrian_Huang.png
+  id: Adrian_Huang
+  email: ajhuang@berkeley.edu
+
+- name: Shivansh Baveja
+  position: Tournament Director
+  school: CS and Math, Berkeley 2025
+  bio: Hey! I'm Shivansh, an Irvington High School Science Olympiad alum who has been doing SciOly for 6 years now. Having run a small tournament of my own, I hope to contribute all that I can to making GGSO enjoyable and educational for everyone!
+  favEvents: Fermi Questions, Astronomy, Dynamic Planet
+  funFact: I've taken more notes for Astronomy than for all of my classes combined.
+  pic: Shivansh_Baveja.png
+  id: Shivansh_Baveja
+  email: shivansh.baveja@berkeley.edu
+
+- name: Flora Huang
+  position: Tournament Director
+  school: Computer Science, Stanford 2025
+  bio: Hi everyone! I'm Flora, a Lynbrook High School Science Olympiad alumna! Being a part of Science Olympiad through high school has encouraged me to pursue my STEM interests in college, and I look forward to sharing my love of science to students through GGSO!
+  favEvents: Dynamic Planet, Geologic Mapping
+  funFact: I filled in a Water Quality science olympiad exam with Pokémon names once.
+  pic: Flora_Huang.jpg
+  id: Flora_Huang
+  email: flora221@stanford.edu
+
+- name: Caitlynn Tran
+  position: Tournament Director
+  school: Chemistry, Stanford 2025
+  bio: Hi! I'm Caitlynn Tran and I am an Irvington High School and Horner Junior High School SciOly alum. I have created some of my fondest memories and developed many of my passions from SciOly. I am excited to still be involved in this amazing community through GGSO and share my love for science with others. 
+  favEvents: Mousetrap Vehicle, Write It Do It, Forensics
+  funFact: I know how to spin flag, rifle, and sabre (though not particularly well for rifle and sabre).
+  pic: Caitlynn_Tran.png
+  id: Caitlynn_Tran
+  email: caitlynn@stanford.edu
