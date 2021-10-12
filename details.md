@@ -7,6 +7,7 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
+<a class="btn btn-md btn-mid" href="/volunteer">Volunteer Applications</a>
 <a class="btn btn-md btn-mid" href="/registration">Registration Announcement</a>
 <a class="btn btn-md btn-mid" href="/estc-applications">Event Supervisor/Test Committee Applications</a>
 <a class="btn btn-md btn-mid" href="/september-updates">September Updates</a>
