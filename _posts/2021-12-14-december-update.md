@@ -6,7 +6,7 @@ permalink: /december-updates/
 
 # December Updates
 
-Hello GGSO coaches,
+Hello GGSO community,
 
 I hope winter has been off to a great start for you all! As the tournament soon approaches, we would like to just give some friendly reminders and updates. First, if you have not done so already, please <b>complete and submit the student release forms on Scilympiad</b>. 
 
