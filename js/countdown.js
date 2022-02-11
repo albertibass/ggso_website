@@ -1,7 +1,7 @@
 $(function(){
 	
 	var note = $('#note'),
-		ts = 1613232000000
+		ts = 1644685200000
 
 	$('#countdown').countdown({
 		timestamp	: ts,
