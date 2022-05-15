@@ -7,6 +7,7 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
+<a class="btn btn-md btn-mid" href="/final-scores-tests">Final Scores & Tests</a>
 <a class="btn btn-md btn-mid" href="/quick-links">Quick Links</a>
 <a class="btn btn-md btn-mid" href="/final-updates">Final Updates</a>
 <a class="btn btn-md btn-mid" href="/february-updates">February Updates</a>
