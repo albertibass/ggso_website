@@ -8,24 +8,10 @@ permalink: /details/
 
 <h4> Announcements </h4>
 <a class="btn btn-md btn-mid" href="/final-scores-tests">Final Scores & Tests</a>
-<a class="btn btn-md btn-mid" href="/quick-links">Quick Links</a>
-<a class="btn btn-md btn-mid" href="/final-updates">Final Updates</a>
-<a class="btn btn-md btn-mid" href="/february-updates">February Updates</a>
-<a class="btn btn-md btn-mid" href="/reminder-updates">Reminder Updates</a>
-<a class="btn btn-md btn-mid" href="/january-updates">January Updates</a>
-<a class="btn btn-md btn-mid" href="/registration-reopening">Registration Re-opening</a>
-<a class="btn btn-md btn-mid" href="/important-update">Important Update</a>
-<a class="btn btn-md btn-mid" href="/december-updates">December Updates</a>
-<a class="btn btn-md btn-mid" href="/november-updates">November Updates</a>
-<a class="btn btn-md btn-mid" href="/volunteer">Volunteer Applications</a>
-<a class="btn btn-md btn-mid" href="/registration">Registration Announcement</a>
-<a class="btn btn-md btn-mid" href="/estc-applications">Event Supervisor/Test Committee Applications</a>
-<a class="btn btn-md btn-mid" href="/september-updates">September Updates</a>
-<a class="btn btn-md btn-mid" href="/august-updates">August Updates</a>
 
 <br><br>
 
-<h4> Quick Links </h4>
+<!--h4> Quick Links </h4>
 <a class="btn btn-md btn-mid" target="_blank" href="https://scilympiad.com/golden-gate">Scilympiad</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/forms/d/11rS66hjU2Sy0njrNnhmJTsd1cnLkL5SZKes-ln-VxPQ/edit" >Notes Submission Form</a>
 <a class="btn btn-md btn-mid" target = "_blank" href="https://stanford.zoom.us/j/95327809173?pwd=amt4V0tLbVd0eUN6Q215UG5YNjdUUT09">Troubleshooting Zoom</a>
@@ -44,7 +30,7 @@ permalink: /details/
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/15s4beEAVf4fmfHdjErVZjvQpTJpAtw2PjXpSSTBUjcE/edit">Event Modifications</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1lQ7RcRiRQGmYeyipulkWe2KdQJE0HtLU_86MhBmytuQ/edit?usp=sharing" >Team Numbers</a>
 <a class="btn btn-md btn-mid" target = "_blank" href="https://docs.google.com/document/d/1RwFu7o9ulwN38wOhzgiJbcd3WqxK6dKm0yXTlSPJzYQ/edit?fbclid=IwAR1_L41ff1XKi-vKV7voq7AktFOgg0jxx70B5MyLgQWacAdy-P2j6xpWQ9g">Troubleshooting Guide</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1vhsnbwgHFlcBDZ_vkUlkFTbN5cixNtqMfeSnWBDzPS4/edit?usp=sharing">Academic Integrity Guide</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1vhsnbwgHFlcBDZ_vkUlkFTbN5cixNtqMfeSnWBDzPS4/edit?usp=sharing">Academic Integrity Guide</a-->
 
 <!--h4> Schedules and Maps </h4>
 <a class="btn btn-md btn-mid" target="_blank" href="/doc/event_schedule.pdf">Event Schedule</a>
