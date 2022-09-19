@@ -7,7 +7,8 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
-<a class="btn btn-md btn-mid" href="/announucement">Tournament Announcement</a>
+<a class="btn btn-md btn-mid" href="/registration">Registration</a>
+<a class="btn btn-md btn-mid" href="/announcement">Tournament Announcement</a>
 
 <br><br>
 
