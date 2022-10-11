@@ -9,7 +9,9 @@ permalink: /past/
 	<h2>{{ tournament.year }} - {{ tournament.location }}</h2>
 	<h3>Division C Champion: {{ tournament.firstPlaceWinner }}</h3>
 	<div class="col-lg-6" style="margin-top:24px;">
+		{% if tournament.firstPlacePicture %}
 		<img class="tournamentPhoto" src="/img/tournaments/{{ tournament.firstPlacePicture }}">
+		{% endif %}
 		<img class="tournamentPhoto" src="/img/tournaments/{{ tournament.directorsPhoto }}">
 	</div>
 	<div class="col-lg-4" style="margin-top:24px;"><p>{{ tournament.description }}</p>
