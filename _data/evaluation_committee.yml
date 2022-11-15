@@ -1,11 +1,56 @@
-- name: Akshay Patwardhan
-  school: Biochemistry, Georgia Tech 2024
-  bio: Hi! I'm Akshay Patwardhan, a Chattahoochee High School alum. SciOly helped shape a lot of the passions that I'm pursuing now, and I'm excited to give back to the community through GGSO!
+- name: Erich Bahm
+  school: Mechanical Engineering, Rensselaer Polytechnic Institute 2025
+  bio: I am Erich and I am currently a Sophomore studying Mechanical Engineering at RPI. I started Sci Oly in 9th grade at Mira Loma HS, and I participated in it for all four years of high school. I have competed at GGSO for several years, and I am very excited to be writing a test for the first time.
   role: Test Committee
-  favEvents: Anatomy and Physiology, Protein Modeling, Designer Genes
-  funFact: I accidently stole my roommate's backpack during a hotel fire drill evacuation six hours before a SciOly Tournament.
-  pic: Akshay_Patwardhan.jpg
-  id: Akshay_Patwardhan
+  favEvents: Detector Building, Chemistry Lab, Fermi Questions
+  funFact: One of the tournament directors once broke my arm (guess which one!)
+  pic: Erich_Bahm.jpg
+  id: Erich_Bahm
+
+- name: Ting Guo
+  school: Molecular Environmental Biology, Berkeley 2024
+  bio: Hi, I am Ting and I am very excited to be on the Test Committee! SciOly helped me meet some of my close friends while also learning more scientific reasoning! So, I look forward to helping out with GGSO to help others explore their passion for science.
+  role: Test Committee
+  favEvents: Forensics, Designer Genes
+  funFact: Super inflexible (I can't touch my toes haha)
+  pic: Ting_Guo.jpg
+  id: Ting_Guo
+
+- name: Tiffany Hwang
+  school: Computer Science, UCLA 2025
+  bio: Hi! I'm Tiffany, a Lynbrook High School Science Olympiad alumna. Scioly was where I learned a lot and gained a lot of friends and I look forward to contributing through GGSO!
+  role: Test Committee
+  favEvents: Write it Do it, Sounds of Music, Water Quality
+  funFact: I've broken a tower right before a competition - luckily we had a backup!
+  pic: Tiffany_Hwang.jpg
+  id: Tiffany_Hwang
+
+- name: Anson Pham
+  school: Computer Science, San Jose State University 2023
+  bio: Hi! Hi! I'm Anson and I'm a Milpitas High School alum! I've competed in Science Olympiad for four years and have been a Division A tournament director for two years. Looking forward to volunteering for my 4th year at GGSO!
+  role: Test Committee
+  favEvents: Experimental Design, Codebusters, Fermi Questions
+  funFact: I made a round-trip around the Earth in 15 days!
+  pic: Anson_Pham.png
+  id: Anson_Pham
+
+- name: Mihir Singhal
+  school: Mathematics, MIT 2022
+  bio: Hi! I did Scioly with Palo Alto High School for 6 years mastering my skills with Scratch (the pinnacle of programming languages), and I'm excited for my third year on Test Committee.
+  role: Test Committee
+  favEvents: Fermi Questions, Astronomy
+  funFact: My favorite bird is the common hoopoe.
+  pic: Mihir_Singhal.jpg
+  id: Mihir_Singhal
+
+- name: Daniel Sun
+  school: Physics & Mathematics, Stanford 2025
+  bio: Hi! I'm Daniel, and I led and competed for the Interlake High School SciOly team, doing mainly physics events. Some of my fondest memories in high school were created through SciOly, whether it was in competition or waving around a meterstick wildly during a build session. I'm glad to be able to contribute to GGSO!
+  role: Test Committee
+  favEvents: Circuit Lab, Sounds of Music, Fermi Questions
+  funFact: My Sounds of Music "build" comprised of 10 Perrier bottles filled with water. It worked really well!
+  pic: Daniel_Sun.png
+  id: Daniel_Sun
 
 - name: Alice Wang
   school: Biology (Molecular, Cellular, Developmental Bio), Stanford 2023
@@ -16,65 +61,29 @@
   pic: Alice_Wang.jpg
   id: Alice_Wang
 
-- name: Anna Perhach
-  school: UT Health San Antonio 2024
-  bio: I graduated August 2020. Did some work in Biotech. Now I'm in my first year of medical school. Science Olympiad is the best.
+- name: Celine Wang
+  school: Chemistry, Berkeley PhD
+  bio: Hi! I’m Celine and I’m a proud Paly Science Olympiad alum. Scioly has been a big part of my life, from competing in high school to volunteering, supervising, and writing tests with the Caltech Scioly team. I’m excited to be back in the Bay working on GGSO, my favorite tournament competing back in the day!
   role: Test Committee
-  favEvents: Road Scholar, Rocks and Minerals, Entomology
-  funFact: I twist balloon animals.
-  pic: Anna_Perhach.png
-  id: Anna_Perhach
+  favEvents: Forensics, Protein Modeling
+  funFact: I have t-shirts from 5 GGSO tournaments.
+  pic: Celine_Wang.jpg
+  id: Celine_Wang
 
-- name: Daniel Ye
-  school: Chemistry, Carnegie Mellon University 2025
-  bio: Hello! I’m Daniel, and I am an alum from Stuyvesant High School in NY. I mainly did chem events during competitions, and now I’m transitioning to supervising those same events. SciOly has given me a direction for my interests and created many fond memories, and I look forward to giving back by helping out at GGSO!
+- name: William Zhang
+  school: Mathematics and Computer Science, Stanford 2024
+  bio: Hi! I'm William, an alum of Enloe High School. I've met some amazing people through Science Olympiad and I'm excited to give back to the community!
   role: Test Committee
-  favEvents: Protein Modeling, Forensics, Chemistry Lab
-  funFact: I never thought I'd be happy with a 40% on an exam until SciOly happened.
-  pic: Daniel_Ye.jpg
-  id: Daniel_Ye
+  favEvents: Thermodynamics, Optics, Fermi Questions
+  funFact: At thermodynamics nationals, I correctly predicted the exact temperature of my device!
+  pic: William_Zhang.jpg
+  id: William_Zhang
 
-- name: Dave Jiang
-  school: Chemistry, Binghamton University 2025
-  bio: Hello all! My name is Dave, and I'm from New York City. Throughout high school, I enjoyed competing in Forensics and Experimental Design for Stuyvesant High School. I'm excited to be part of the GGSO Test Committee for the upcoming season!
+- name: Eileen Zu
+  school: MIT 2026
+  bio: Hey! i'm Eileen, a Diamond Bar High School SciOly alum :-) So excited to be able to volunteer and help out at GGSO!
   role: Test Committee
-  favEvents: Forensics, Experimental Design
-  funFact: 
-  pic: Dave_Jiang.png
-  id: Dave_Jiang
-
-- name: Jay Siri
-  school: Computer Science, Caltech 2024
-  bio: Hello! I'm Jay, and I'm a Diamond Bar High School and South Pointe Middle School SciOly alum. This will be my eighth year being involved in SciOly (wow!), and I'm really excited to be working on this year's GGSO Tournament!
-  role: Test Committee
-  favEvents: Astronomy, Chemistry Lab, Experimental Design
-  funFact: I came before the iPhone did :')
-  pic: Jay_Siri.JPG
-  id: Jay_Siri
-
-- name: Lynn Yang
-  school: California Institute of Technology 2024
-  bio: Hi! I'm Lynn, and I'm a Mira Loma High School and Winston Churchill Middle School Science Olympiad alum. I fell deeply in love with Science Olympiad at my first competition in 6th grade, and that passion hasn't died since. Throughout my years as a competitor, I've made the most unforgettable memories and lasting friendships, and I'm so excited to help out at GGSO!
-  role: Test Committee
-  favEvents: Astronomy, Rocks and Minerals, Boomilever
-  funFact: I have a couple scuba diving licenses despite not really knowing how to swim.
-  pic: Lynn_Yang.jpg
-  id: Lynn_Yang
-
-- name: Ryan Anselm
-  school: Computer Science, Columbia 2024
-  bio: Hello! I'm Ryan and I'm excited to be on the Test Committee again! I competed for Clements High School for 3 years, doing a variety of earth & space science, chemistry, and inquiry events. Being a part of the SciOly community has been deeply impactful on me, and I've made many of my closest friends through doing SciOly. I'm looking forward to GGSO being amazing as always!
-  role: Test Committee
-  favEvents: Fermi Questions, Dynamic Planet, F0ssils
-  funFact: I didn't play Pokemon Go at all when it first came out, but now I'm addicted.
-  pic: Ryan_Anselm.jpg
-  id: Ryan_Anselm
-
-- name: Tiffany Hwang
-  school: Computer Science, UCLA 2025
-  bio: Hi! I'm Tiffany, a Lynbrook High School Science Olympiad alumna. Scioly was where I learned a lot and gained a lot of friends and I look forward to contributing through GGSO!
-  role: Test Committee
-  favEvents: Write it Do it, Sounds of Music, Water Quality
-  funFact: I've broken a tower right before a competition - luckily we had a backup!
-  pic: Tiffany_Hwang.jpg
-  id: Tiffany_Hwang
+  favEvents: Forensics, Anatomy & Physiology, Disease Detectives
+  funFact: I'm an ordained minister!
+  pic: Eileen_Zu.jpg
+  id: Eileen_Zu
