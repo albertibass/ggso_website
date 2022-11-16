@@ -89,13 +89,22 @@
   id: Caleb_Chiang
 
 - name: Oliver Ni
-  school: Electrical Engineering and Computer Sciences, Berkeley 2026
+  school: EECS, Berkeley 2026
   bio: Hi! I'm Oliver. I'm a Lynbrook HS Alum, and I'm super excited to work on Scioly again. GGSO was my first ever tournament, so I'm excited to bring that experience to many others!
   role: Detector Building
   favEvents: Detector Building, Wifi Lab, Codebusters
   funFact: I was born on February 29
   pic: Oliver_Ni.jpg
   id: Oliver_Ni
+
+- name: Saahil Sundaresan
+  school: Computer Science, Stanford 2026
+  bio: Hi! I'm Saahil, an alum of Mountain View SciOly. Science Olympiad gave me a great sense of community in high school, and I'm excited to stay involved through GGSO!
+  role: Detector Building
+  favEvents: Fermi Questions, Protein Modeling
+  funFact: I may or may not have confirmed hydrometer readings at 2019 GGSO Water Quality with a taste test :)
+  pic: Saahil_Sundaresan.jpg
+  id: Saahil_Sundaresan
 
 - name: Coral Chen
   school: Physics and Geophysics, Berkeley 2023
@@ -204,6 +213,15 @@
   funFact: From personal experience, salt makes very good timers.
   pic: Matthew_Song.jpg
   id: Matthew_Song
+
+- name: Andrew Liu
+  school: Math and Computer Science, Berkeley 2025
+  bio: Hi y'all! I'm from SSA in Pittsburgh, and I competed in Div C for 3 years, and I'm really excited to come back to my favorite event!
+  role: Forensics
+  favEvents: Forensics, Designer Genes, Water Quality
+  funFact: I've been yo-yoing for ~6 years and competed once in high school.
+  pic: Andrew_Liu.jpg
+  id: Andrew_Liu
 
 - name: Shrayen Patel
   school: Biology, University of Texas at Austin 2024
