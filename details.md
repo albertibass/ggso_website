@@ -7,6 +7,13 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
+<a class="btn btn-md btn-mid" href="/tournament-information">Tournament Info</a>
+<a class="btn btn-md btn-mid" href="/selfschedule-instructions">Self-scheduling</a>
+<a class="btn btn-md btn-mid" href="/january-updates">January Updates</a>
+<a class="btn btn-md btn-mid" href="/event-update">Event Updates</a>
+<a class="btn btn-md btn-mid" href="/event-modifications">Event Modifications</a>
+<a class="btn btn-md btn-mid" href="/volunteer-bump">Volunteer Bump</a>
+<a class="btn btn-md btn-mid" href="/payment-reminder">Payment</a>
 <a class="btn btn-md btn-mid" href="/volunteer">Volunteering</a>
 <a class="btn btn-md btn-mid" href="/registration">Registration</a>
 <a class="btn btn-md btn-mid" href="/announcement">Tournament Announcement</a>
