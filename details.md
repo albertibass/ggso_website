@@ -7,6 +7,7 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
+<a class="btn btn-md btn-mid" href="/tournament-plans">Tournament Plans</a>
 <a class="btn btn-md btn-mid" href="/tournament-information">Tournament Info</a>
 <a class="btn btn-md btn-mid" href="/selfschedule-instructions">Self-scheduling</a>
 <a class="btn btn-md btn-mid" href="/january-updates">January Updates</a>
