@@ -7,6 +7,7 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
+<a class="btn btn-md btn-mid" href="/final-reminders">Final Reminders</a>
 <a class="btn btn-md btn-mid" href="/tournament-plans">Tournament Plans</a>
 <a class="btn btn-md btn-mid" href="/tournament-information">Tournament Info</a>
 <a class="btn btn-md btn-mid" href="/selfschedule-instructions">Self-scheduling</a>
@@ -21,48 +22,21 @@ permalink: /details/
 
 <br><br>
 
-<!--h4> Quick Links </h4>
-<a class="btn btn-md btn-mid" target="_blank" href="https://scilympiad.com/golden-gate">Scilympiad</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/forms/d/11rS66hjU2Sy0njrNnhmJTsd1cnLkL5SZKes-ln-VxPQ/edit" >Notes Submission Form</a>
-<a class="btn btn-md btn-mid" target = "_blank" href="https://stanford.zoom.us/j/95327809173?pwd=amt4V0tLbVd0eUN6Q215UG5YNjdUUT09">Troubleshooting Zoom</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://www.customink.com/g/nga0-00cj-6eeg">T-shirt Orders</a>
-
-<br><br>
-
-<h4> Schedules </h4>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1tMKRDN0k8Tpf7kfq9fsDuSrwhSToJnWKrGSfbmWRB-c/edit?usp=sharing">Event Schedule</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1_hxhts2Zixuj8q-R1-h2yplQWhYeesoWBhYiLJyZyD0/edit?usp=sharing" >Awards Schedule</a>
+<h4> Schedules and Maps </h4>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1B_QA_xZmPuL3p5ZXWZEOfe5NuY2Im7bPj9elCecx1X4/edit?usp=sharing">Event Schedule</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1qJJzyo8BQPmCtOJEbySli-TzUGC9-2pC/view?usp=sharing">Event Locations</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Kp5OvwcZcO8H6DDXTakFtGhLU9Vbai9gtIHdqd4Ff-w/edit?usp=sharing">Day of Schedule</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1YYW2o2U0628UTScIqj_zKCLQS5ihZ3d5/view?usp=share_link">Campus Map</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://www.google.com/maps/d/u/1/edit?mid=1x9ZScwyMU4d-PS1F-6hxtByDs42Ofqo&ll=37.87056059350552%2C-122.26232606881649&z=15">Digital Map</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1glofWxJTbxc1B3g5Lc8yoVqH5rBlXelc/view?usp=share_link">Parking Map</a>
 
 <br><br>
 
 <h4> Policies and Helpful Info </h4>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1q0Bj58jJeTsfraQjAVHoKzkRsz8YTwK1HTwxmNS8Bhw/edit?usp=sharing">Tournament Info</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/15s4beEAVf4fmfHdjErVZjvQpTJpAtw2PjXpSSTBUjcE/edit">Event Modifications</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1lQ7RcRiRQGmYeyipulkWe2KdQJE0HtLU_86MhBmytuQ/edit?usp=sharing" >Team Numbers</a>
-<a class="btn btn-md btn-mid" target = "_blank" href="https://docs.google.com/document/d/1RwFu7o9ulwN38wOhzgiJbcd3WqxK6dKm0yXTlSPJzYQ/edit?fbclid=IwAR1_L41ff1XKi-vKV7voq7AktFOgg0jxx70B5MyLgQWacAdy-P2j6xpWQ9g">Troubleshooting Guide</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1vhsnbwgHFlcBDZ_vkUlkFTbN5cixNtqMfeSnWBDzPS4/edit?usp=sharing">Academic Integrity Guide</a-->
-
-<!--h4> Schedules and Maps </h4>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/event_schedule.pdf">Event Schedule</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/day_schedule.pdf">Day of Schedule</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/awards_program.pdf">Awards Program</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/awards_seating_2020.png">Awards Seating</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://tinyurl.com/ggso20-map">Full Digital Map</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://statescioly.org/golden-gate/Map/EventMap?mId=98552995578380921">Event Locations Digital Map</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/maps_2020.pdf">Homerooms and Event Map</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/parking_map.pdf">Parking Details and Map</a>
-
-<br><br>
-
-<h4> Policies and Helpful Info </h4>
-<a class="btn btn-md btn-mid" target="_blank" href="/rules.pdf">Event Rules</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/welcome.pdf" >Welcome Letter</a>
-<a class="btn btn-md btn-mid" target = "_blank" href="https://docs.google.com/spreadsheets/d/18EzTQeIsobi_cl85j--G3x0rDnNxKEEBnLlmAKb27uM/edit#gid=2043171544">Team numbers</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/food_options.pdf">Food Options</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/social_flyer.pdf">Social Flyer</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/policies.pdf">Tournament Policies</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/doc/injury_report.pdf">Accidental Injury Report</a>
-<a class="btn btn-md btn-mid" target = "_blank" href="https://statescioly.org/golden-gate/Policy/Doc/public-appeal-form">Appeal Form</a-->
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/drive/folders/1FXUdXWjFEi0GLE-3T4lla1hXIr2670yW?usp=sharing">Coaches Packet</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1B_QA_xZmPuL3p5ZXWZEOfe5NuY2Im7bPj9elCecx1X4/edit?usp=sharing">Homerooms and Team Numbers</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Og5nL5fKYhruK7-fapqulQJyaGy1yQvLocAuFsjOcgc/edit?usp=sharing">Food Options</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1nIXkfy7aUxtm4_ljmC_-fdWFARAhQrYJ/view?usp=sharing">Event Rules</a>
 
 
 </div> 
