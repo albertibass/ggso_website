@@ -7,6 +7,7 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
+<a class="btn btn-md btn-mid" href="/final-scores">Final Scores</a>
 <a class="btn btn-md btn-mid" href="/quick-info">Quick Info</a>
 <a class="btn btn-md btn-mid" href="/final-reminders">Final Reminders</a>
 <a class="btn btn-md btn-mid" href="/tournament-plans">Tournament Plans</a>
