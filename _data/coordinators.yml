@@ -74,7 +74,7 @@
   bio: Hi folks! I’m Kunal, a Mason High School and Middle School Science Olympiad alum. Beyond helping to shape my passions and career goals, my SciOly team quickly became a second family after I moved to Ohio. I’m excited to keep giving back to this wonderful community through GGSO!
   favEvents: Forensics, Ornithology, Sounds of Music
   funFact: I think s'mores taste best when made over a Bunsen burner.
-  pic: Kunal_Arora.JPG
+  pic: Kunal_Arora.png
   id: Kunal_Arora
   email: arorak@stanford.edu
 
@@ -90,7 +90,7 @@
 
 - name: Lauren Lee
   position: Tournament Director
-  school: Industrial Engineering & Operations Research, Berkeley 2026
+  school: IEOR, Berkeley 2026
   bio: Hi! I'm Lauren, a Castro Valley High School alum! I've competed in SciOly for 7 years. From eating instant ramen at every competition to making 5-point font cheatsheets, I’ve made some of my fondest memories as a competitor. GGSO was one of the first invitationals I competed in and I'm excited to give back to the SciOly community!
   favEvents: Write it Do it, Codebusters
   funFact: I named both of my hamsters after scientists!
@@ -100,7 +100,7 @@
 
 - name: William Lee
   position: Tournament Director
-  school: Bioengineering, Berkeley 2026
+  school: Computer Science, Berkeley 2026
   bio: Hi! I'm William, an alum and former captain of Mason High School in Ohio. I'm super excited to (hopefully) see the return of in-person Scioly in college!
   favEvents: Codebusters, PPP
   funFact: My Venmo account was frozen the day I created it!
@@ -114,6 +114,45 @@
   bio: Heyo! I’m Gwennie, and I am an alum of Torrey Pines High School in San Diego, California. I have competed in Science Olympiad for 8 years, which has provided me with lifelong friends and many new scientific interests. I’m looking forward to contributing back to the wonderful SciOly community through GGSO!
   favEvents: Astronomy, Fossils, Rocks and Minerals
   funFact: I have a stuffed carrot named Seefee. 
-  pic: Gwennie_Liu.JPG
+  pic: Gwennie_Liu.jpg
   id: Gwennie_Liu
   email: gwennieliu2004@gmail.com
+
+- name: Dawen Cheng
+  school: Mechanical Engineering, Stanford 2027
+  bio: Hey there! My name is Dawen and I'm currently a freshman at Stanford studying Mechanical Engineering and Political Science. I've competed for a total of 7 years, first for Gallagher Middle School and later for Barrington High School, which are both in the cool state of Rhode Island (do we even exist?)! Two of my favorite things are Science Olympiad and the Golden State Warriors!
+  favEvents: Battery Buggy, Boomilever, Reach for the Stars
+  funFact: Not only had I never competed at GGSO, I had also never visited California (until I committed to Stanford)!
+  pic: Dawen_Cheng.jpg
+  id: Dawen_Cheng
+  email: dawen@stanford.edu
+
+- name: Annabelle Huang
+  school: B.A. Molecular and Cell Biology, Berkeley 2027
+  bio: Hi! My name is Annabelle Huang and I’m a Lexington High School alum. I’ve loved competing, coaching, and directing tournaments for SciOly throughout high school. SciOly gave me so many great learning experiences and memories, so I’m really excited to stay involved through GGSO!
+  favEvents: Anatomy and Physiology, Boomilever
+  funFact: I can make balloon animals.
+  pic: Annabelle_Huang.jpg
+  id: Annabelle_Huang
+  email: ayhuang@berkeley.edu
+
+- name: Annabelle Liu
+  school: Civil Engineering, Berkeley 2027
+  bio: Hi everyone! I'm Annabelle, a Milpitas High School SciOly alum. Being involved with SciOly these past 4 years has been so much fun, and I've had the opportunity to meet many amazing individuals. I’m excited to continue my journey in SciOly and give back to this community through GGSO!
+  favEvents: Forensics, Bridges, Chemistry Lab
+  funFact: I think jellyfish are cool:)
+  pic: Annabelle_Liu.jpg
+  id: Annabelle_Liu
+  email: annabelleliu@berkeley.edu
+
+- name: Iona Xia
+  school: Undecided, Stanford 2027
+  bio: Hi, I'm Iona and I'm a Monta Vista High School and Kennedy Middle School SciOly alum. Having done SciOly for seven years, it was my first step into the world of STEM and a catalyst for my further exploration in the various fields of science. Furthermore, I've been able to develop various life skills as well as a wonderful community through SciOly, and I'm excited to continue growing this community in GGSO.
+  favEvents: Experimental Design, Forensics, Write It Do It
+  funFact: I was almost not allowed to compete in Write It Do It at nationals because my wristband was too loose.
+  pic: Iona_Xia.JPEG
+  id: Iona_Xia
+  email: ionaxia2013@gmail.com
+
+
+
