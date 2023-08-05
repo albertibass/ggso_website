@@ -8,6 +8,16 @@
   id: Iris_Xia
   email: irisxia2012@gmail.com
 
+- name: Nicole Xin
+  position: Executive Director
+  school: Molecular and Cell Biology, Berkeley 2024
+  bio: Hi! I’m Nicole, a SciOly alum of Mountain View High School. Over the past 4 years, SciOly has allowed me to find and develop my passions and closest friendships leaving me with some of my fondest memories. I’m so excited to be able to stay involved with SciOly through GGSO and be able to bring this experience to others!
+  favEvents: Anatomy and Physiology, Microbe Mission
+  funFact: I moved to the Bay Area under the impression that I was only here to visit and attend a summer camp, except it was actually the first day of 4th grade.
+  pic: Nicole_Xin.jpeg
+  id: Nicole_Xin
+  email: nicolexin@berkeley.edu
+
 - name: Phillip Liu
   position: Tournament Director
   school: Biophysics, Stanford PhD
@@ -17,16 +27,6 @@
   pic: Phillip_Liu.png
   id: Phillip_Liu
   email: pliu2@stanford.edu
-
-- name: Nicole Xin
-  position: Tournament Director
-  school: Molecular and Cell Biology, Berkeley 2024
-  bio: Hi! I’m Nicole, a SciOly alum of Mountain View High School. Over the past 4 years, SciOly has allowed me to find and develop my passions and closest friendships leaving me with some of my fondest memories. I’m so excited to be able to stay involved with SciOly through GGSO and be able to bring this experience to others!
-  favEvents: Anatomy and Physiology, Microbe Mission
-  funFact: I moved to the Bay Area under the impression that I was only here to visit and attend a summer camp, except it was actually the first day of 4th grade. 
-  pic: Nicole_Xin.jpeg
-  id: Nicole_Xin
-  email: nicolexin@berkeley.edu
 
 - name: Alvin Xu
   position: Tournament Director
