@@ -1,13 +1,3 @@
-- name: Iris Xia
-  position: Executive Director
-  school: Math & Computational Sciences, Stanford 2024
-  bio: Hi! I'm Iris and I'm a Monta Vista High School and Kennedy Middle School SciOly alumna! Competing in Science Olympiad for the past six years has made a profound impact on my intellectual goals and introduced me to an amazing STEM community. I'm excited to continue sharing my love for SciOly as part of the GGSO team!
-  favEvents: Remote Sensing, Write It Do It, Sounds of Music
-  funFact: Getting subbed last-minute into Meteorology in seventh grade literally shaped my research interests!
-  pic: Iris_Xia.jpg
-  id: Iris_Xia
-  email: irisxia2012@gmail.com
-
 - name: Nicole Xin
   position: Executive Director
   school: Molecular and Cell Biology, Berkeley 2024
@@ -17,6 +7,16 @@
   pic: Nicole_Xin.jpeg
   id: Nicole_Xin
   email: nicolexin@berkeley.edu
+
+- name: Flora Huang
+  position: Executive Director
+  school: Computer Science, Stanford 2025
+  bio: Hi everyone! I'm Flora, a Lynbrook High School Science Olympiad alumna! Being a part of Science Olympiad through high school has encouraged me to pursue my STEM interests in college, and I look forward to sharing my love of science to students through GGSO!
+  favEvents: Dynamic Planet, Geologic Mapping
+  funFact: I filled in a Water Quality science olympiad exam with Pokémon names once.
+  pic: Flora_Huang.jpg
+  id: Flora_Huang
+  email: flora221@stanford.edu
 
 - name: Phillip Liu
   position: Tournament Director
@@ -28,6 +28,16 @@
   id: Phillip_Liu
   email: pliu2@stanford.edu
 
+- name: Iris Xia
+  position: Tournament Director
+  school: Math & Computational Sciences, Stanford 2024
+  bio: Hi! I'm Iris and I'm a Monta Vista High School and Kennedy Middle School SciOly alumna! Competing in Science Olympiad for the past six years has made a profound impact on my intellectual goals and introduced me to an amazing STEM community. I'm excited to continue sharing my love for SciOly as part of the GGSO team!
+  favEvents: Remote Sensing, Write It Do It, Sounds of Music
+  funFact: Getting subbed last-minute into Meteorology in seventh grade literally shaped my research interests!
+  pic: Iris_Xia.jpg
+  id: Iris_Xia
+  email: irisxia2012@gmail.com
+
 - name: Alvin Xu
   position: Tournament Director
   school: EECS, Berkeley 2024
@@ -37,16 +47,6 @@
   pic: Alvin_Xu.jpg
   id: Alvin_Xu
   email: alvin.xu5745@berkeley.edu
-
-- name: Flora Huang
-  position: Tournament Director
-  school: Computer Science, Stanford 2025
-  bio: Hi everyone! I'm Flora, a Lynbrook High School Science Olympiad alumna! Being a part of Science Olympiad through high school has encouraged me to pursue my STEM interests in college, and I look forward to sharing my love of science to students through GGSO!
-  favEvents: Dynamic Planet, Geologic Mapping
-  funFact: I filled in a Water Quality science olympiad exam with Pokémon names once.
-  pic: Flora_Huang.jpg
-  id: Flora_Huang
-  email: flora221@stanford.edu
 
 - name: Caitlynn Tran
   position: Tournament Director
