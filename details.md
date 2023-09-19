@@ -7,7 +7,7 @@ permalink: /details/
 <div>
 
 <h4> Announcements </h4>
-<a class="btn btn-md btn-mid" href="/final-scores">Final Scores</a>
+<!-- <a class="btn btn-md btn-mid" href="/final-scores">Final Scores</a>
 <a class="btn btn-md btn-mid" href="/quick-info">Quick Info</a>
 <a class="btn btn-md btn-mid" href="/final-reminders">Final Reminders</a>
 <a class="btn btn-md btn-mid" href="/tournament-plans">Tournament Plans</a>
@@ -18,16 +18,17 @@ permalink: /details/
 <a class="btn btn-md btn-mid" href="/event-modifications">Event Modifications</a>
 <a class="btn btn-md btn-mid" href="/volunteer-bump">Volunteer Bump</a>
 <a class="btn btn-md btn-mid" href="/payment-reminder">Payment</a>
-<a class="btn btn-md btn-mid" href="/volunteer">Volunteering</a>
-<a class="btn btn-md btn-mid" href="/registration">Registration</a>
+<a class="btn btn-md btn-mid" href="/volunteer">Volunteering</a> -->
+<a class="btn btn-md btn-mid" href="/estc-applications">Registration</a>
 <a class="btn btn-md btn-mid" href="/announcement">Tournament Announcement</a>
+
 
 <br><br>
 
 <h4> Schedules and Maps </h4>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1B_QA_xZmPuL3p5ZXWZEOfe5NuY2Im7bPj9elCecx1X4/edit?usp=sharing">Event Schedule</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1qJJzyo8BQPmCtOJEbySli-TzUGC9-2pC/view?usp=sharing">Event Locations</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Kp5OvwcZcO8H6DDXTakFtGhLU9Vbai9gtIHdqd4Ff-w/edit?usp=sharing">Day of Schedule</a>
+<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1B_QA_xZmPuL3p5ZXWZEOfe5NuY2Im7bPj9elCecx1X4/edit?usp=sharing">Event Schedule</a> -->
+<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1qJJzyo8BQPmCtOJEbySli-TzUGC9-2pC/view?usp=sharing">Event Locations</a> -->
+<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Kp5OvwcZcO8H6DDXTakFtGhLU9Vbai9gtIHdqd4Ff-w/edit?usp=sharing">Day of Schedule</a> -->
 <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1YYW2o2U0628UTScIqj_zKCLQS5ihZ3d5/view?usp=share_link">Campus Map</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://www.google.com/maps/d/u/1/edit?mid=1x9ZScwyMU4d-PS1F-6hxtByDs42Ofqo&ll=37.87056059350552%2C-122.26232606881649&z=15">Digital Map</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1glofWxJTbxc1B3g5Lc8yoVqH5rBlXelc/view?usp=share_link">Parking Map</a>
@@ -35,8 +36,8 @@ permalink: /details/
 <br><br>
 
 <h4> Policies and Helpful Info </h4>
-<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/drive/folders/1FXUdXWjFEi0GLE-3T4lla1hXIr2670yW?usp=sharing">Coaches Packet</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1B_QA_xZmPuL3p5ZXWZEOfe5NuY2Im7bPj9elCecx1X4/edit?usp=sharing">Homerooms and Team Numbers</a>
+<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/drive/folders/1FXUdXWjFEi0GLE-3T4lla1hXIr2670yW?usp=sharing">Coaches Packet</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1B_QA_xZmPuL3p5ZXWZEOfe5NuY2Im7bPj9elCecx1X4/edit?usp=sharing">Homerooms and Team Numbers</a> -->
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Og5nL5fKYhruK7-fapqulQJyaGy1yQvLocAuFsjOcgc/edit?usp=sharing">Food Options</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1nIXkfy7aUxtm4_ljmC_-fdWFARAhQrYJ/view?usp=sharing">Event Rules</a>
 
