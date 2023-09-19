@@ -39,7 +39,7 @@ permalink: /details/
 <!-- <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/drive/folders/1FXUdXWjFEi0GLE-3T4lla1hXIr2670yW?usp=sharing">Coaches Packet</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1B_QA_xZmPuL3p5ZXWZEOfe5NuY2Im7bPj9elCecx1X4/edit?usp=sharing">Homerooms and Team Numbers</a> -->
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Og5nL5fKYhruK7-fapqulQJyaGy1yQvLocAuFsjOcgc/edit?usp=sharing">Food Options</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1nIXkfy7aUxtm4_ljmC_-fdWFARAhQrYJ/view?usp=sharing">Event Rules</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://www.soinc.org/sites/default/files/2023-09/Science_Olympiad_Div_C_Rules_2024_for_Web.pdf">Event Rules</a>
 
 
 </div> 
