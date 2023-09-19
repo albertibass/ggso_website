@@ -19,7 +19,7 @@ permalink: /details/
 <a class="btn btn-md btn-mid" href="/volunteer-bump">Volunteer Bump</a>
 <a class="btn btn-md btn-mid" href="/payment-reminder">Payment</a>
 <a class="btn btn-md btn-mid" href="/volunteer">Volunteering</a> -->
-<a class="btn btn-md btn-mid" href="/estc-applications">Registration</a>
+<a class="btn btn-md btn-mid" href="/estc-applications">ES/TC Applications</a>
 <a class="btn btn-md btn-mid" href="/announcement">Tournament Announcement</a>
 
 
