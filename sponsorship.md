@@ -7,9 +7,9 @@ permalink: /sponsorship/
 ### Golden Gate Science Olympiad would like to thank our sponsors for bringing our dream of the tournament to reality:
 
 <br>
-<img class="sponsor" src="/img/sponsor/stanford_earth.png">
+<img class="sponsor" src="/img/sponsor/stanford_doerr.png">
 
-The Stanford School of Earth, Energy & Environmental Sciences develops the knowledge, talent and leadership to understand the changing Earth and to help solve the enormous resource and environmental challenges facing the world.
+The Stanford Doerr School of Sustainability draws on a deep understanding of Earth, climate, and society to create solutions at a global scale, striving to create a future where humans and nature thrive in concert and in perpetuity.
 
 <br>
 <img class="sponsor" src="/img/sponsor/berkeley_bioengineering.png">
