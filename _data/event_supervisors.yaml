@@ -35,6 +35,15 @@
   id: Ahana_Wokhlu
 
 # Robert Lee, Connor Todd, Tad Komacek
+- name: Connor Todd
+  school: Space Telescope Science Institute, 2020
+  bio: Hello all! I am a Masters student at the University of Michigan, and I'm excited to be back at GGSO co-supervising Astronomy. I love all things space, and am pursuing an M.Eng degree in Space Engineering for this Spring. When I'm not doing Astro stuff, I love running, playing trumpet and reading/writing poetry.
+  role: Astronomy
+  favEvents: Astronomy, GeoLogic Mapping, Remote Sensing
+  funFact: Once on a backpacking trip, my friends and I got stranded in a blizzard in the highest-elevation city in America (Leadville, CO - 10,151 ft).
+  pic: Connor_Todd.jpg
+  id: Connor_Todd
+
 - name: Robert Lee
   school: Aerospace Engineering and Mathematics of Computation, UCLA 2024
   bio: Hi! My name is Robert and I'm an alum of Westview High School in San Diego, California. Having competed for 7 years, SciOly has created timeless memories and introduced me to many lifelong friends. I'm excited to give back to this community that has given me so much.
