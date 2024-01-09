@@ -35,8 +35,17 @@
   id: Ahana_Wokhlu
 
 # Robert Lee, Connor Todd, Tad Komacek
+- name: Tad Komacek
+  school: University of Maryland 2013
+  bio: I am an assistant professor of astronomy at the University of Maryland, College Park. I've been helping out with the Astronomy event since 2010, when I was an undergraduate at UChicago.
+  role: Astronomy
+  favEvents: Astronomy
+  funFact: I'm currently at a conference in the southern hemisphere, and everything in the sky is upside-down. It appears obvious, but is still surprising to experience.
+  pic: Tad_Komacek.jpg
+  id: Tad_Komacek
+
 - name: Connor Todd
-  school: Space Telescope Science Institute, 2020
+  school: Space Telescope Science Institute 2020
   bio: Hello all! I am a Masters student at the University of Michigan, and I'm excited to be back at GGSO co-supervising Astronomy. I love all things space, and am pursuing an M.Eng degree in Space Engineering for this Spring. When I'm not doing Astro stuff, I love running, playing trumpet and reading/writing poetry.
   role: Astronomy
   favEvents: Astronomy, GeoLogic Mapping, Remote Sensing
@@ -97,6 +106,26 @@
   funFact: I've never broken a single bone in my body, but both of my pinkies are crooked.
   pic: Dominique_Sun.jpg
   id: Dominique_Sun
+
+# detector - oliver ni, joe lin, not aidan shiu
+
+- name: Joe Lin
+  school: Computer Science, UCLA 2026
+  bio: Hi everyone! I'm Joe, a Lynbrook High School alumni now studying Computer Science at UCLA. I love to hike and play basketball/beach volleyball, and I’m hoping to, one day, learn how to surf! Having competed in Science Olympiad since middle school, I'm excited to give back to the SciOly community as an Event Supervisor for Detector Building!
+  role: Detector Building
+  favEvents: Detector Building, Dynamic Planet, Gravity Vehicle
+  funFact: I love being in nature!
+  pic: Joe_Lin.jpg
+  id: Joe_Lin
+
+- name: Oliver Ni
+  school: EECS, Berkeley 2026
+  bio: Hi! I'm Oliver. I'm a Lynbrook HS Alum, and I'm super excited to work on Scioly again. GGSO was my first ever tournament, so I'm excited to bring that experience to many others!
+  role: Detector Building
+  favEvents: Detector Building, WiFi Lab, Codebusters
+  funFact: I was born on February 29.
+  pic: Oliver_Ni.jpg
+  id: Oliver_Ni
 
 - name: Aniyah Shen
   school: Human Biology & Creative Writing, Stanford 2027
@@ -179,6 +208,15 @@
   pic: Alex_Ozdemir.jpg
   id: Alex_Ozdemir
 
+- name: Isha Shah
+  school: Astrophysics, Berkeley 2027
+  bio: Hi! I'm Isha, and I'm a Lynbrook SciOly alumna! SciOly decided my major and my obsession with Earth Science and has also given me the ability to pull explanations for scientific processes out of thin air! I'm excited to bring GGSO to a new generation of high schoolers!
+  role: Experimental Design
+  favEvents: Meteorology, Dynamic Planet, Tower
+  funFact: I've hoarded boxes of tower, boomilever, and bridge corpses in every corner of my garage.
+  pic: Isha_Shah.jpg
+  id: Isha_Shah
+
 - name: Anjali Sreenivas
   school: Computer Science, Stanford 2027
   bio: Hi all!! My name is Anjali and I'm from the Seattle suburbs in Washington State. I'm a freshman studying computer science at Stanford, and I’m so thrilled to be a part of the team putting on GGSO this year! SciOly was one of my favorite parts of high school and I'm excited to be able to share that with all of you. Looking forward to meeting you soon! :)
@@ -250,6 +288,15 @@
   funFact: I speak Japanese!
   pic: Rudy_Mahajan.jpg
   id: Rudy_Mahajan
+
+- name: Matthew Kim
+  school: Biology, Stanford 2026
+  bio: Hello! I’m an alum of Jeffrey Trail Middle School and Portola High School. I have made some of my greatest and fondest memories as part of Science Olympiad. I hope I can now contribute to the creation of core memories for GGSO competitors!
+  role: Fossils
+  favEvents: Fossils, Anatomy and Physiology, Scrambler
+  funFact: I am an avid fossil collector, particularly in dinosaur fossils, of over 12 years!
+  pic: Matthew_Kim.png
+  id: Matthew_Kim
 
 - name: Arnav Vora
   school: Computer Science and Engineering, UCLA 2026
@@ -331,6 +378,15 @@
   funFact: I did Circuit Lab.
   pic: Jason_Katz.jpg
   id: Jason_Katz
+
+- name: Angel Millard-Bruzos
+  school: Electrical Engineering, Stanford 2024
+  bio: Hi, I'm Angel! I'm a student at Stanford interested in EE, ME, and CS. In high school I loved spending time working on my SciOly builds (Mission Possible, Mousetrap Vehicle, Detector Building) and taking Circuit Lab tests. I hope to become an engineer one day and continue working on 'builds,' hopefully on a much larger scale.
+  role: Robot Tour
+  favEvents: Mission Possible, Circuit Lab, Mousetrap Vehicle
+  funFact: I can solve a Rubik's cube one-handed in under two minutes!
+  pic: Angel_Millard-Bruzos.jpg
+  id: Angel_Millard-Bruzos
 
 - name: Nicole Lee
   school: Computer Science, Berkeley 2025
