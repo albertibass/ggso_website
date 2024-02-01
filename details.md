@@ -40,7 +40,7 @@ permalink: /details/
 
 <h4> Policies and Helpful Info </h4>
 <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/drive/folders/1S1YMMYoan-hnQ5KYI-FpvySmcmTb7j9h?usp=sharing">Coaches Packet</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1fF4G8vO4ATYwSItFGesY_-NwTY0Hr0hyprXqBF1nz2k/edit">Homerooms and Team Numbers</a> -->
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1fF4G8vO4ATYwSItFGesY_-NwTY0Hr0hyprXqBF1nz2k/edit">Homerooms and Team Numbers</a>
 <a class="btn btn-md btn-mid" target="_blank" href="/tournament-policies">2024 Tournament Policies Announcement</a>
 
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/13HotOYhJANi3Hjx9B8ZtPxwlffYipdEAAi1xbJaDcpw/edit?usp=sharing">Food Options</a>
