@@ -28,21 +28,22 @@ permalink: /details/
 <br><br>
 
 <h4> Schedules and Maps </h4>
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1B_QA_xZmPuL3p5ZXWZEOfe5NuY2Im7bPj9elCecx1X4/edit?usp=sharing">Event Schedule</a> -->
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1gxVAgVjbRbSAiikERalWiqyaS_E6fIj15B3Qfoa2NUM/edit?usp=sharing">Event Schedule</a>
 <!-- <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1qJJzyo8BQPmCtOJEbySli-TzUGC9-2pC/view?usp=sharing">Event Locations</a> -->
 <!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Kp5OvwcZcO8H6DDXTakFtGhLU9Vbai9gtIHdqd4Ff-w/edit?usp=sharing">Day of Schedule</a> -->
-<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1YYW2o2U0628UTScIqj_zKCLQS5ihZ3d5/view?usp=share_link">Campus Map</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://www.google.com/maps/d/u/1/edit?mid=1x9ZScwyMU4d-PS1F-6hxtByDs42Ofqo&ll=37.87056059350552%2C-122.26232606881649&z=15">Digital Map</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1glofWxJTbxc1B3g5Lc8yoVqH5rBlXelc/view?usp=share_link">Parking Map</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1ipww_9EE4_Ay3UI0MfnX9sybhQ2yGYFJrHSNfhe78YM/edit?usp=sharing">Awards Schedule</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1PqZ47wFjHE8sWPEaSnvFrFwLjT_FROsv/view?usp=sharing">Campus Map</a>
+<a class="btn btn-md btn-mid" target="_blank" href="http://tinyurl.com/ggso24-map">Digital Map</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1tH0kzYbwg00ZDOkga-lL_8W8kEz06pUr/view">Parking Map</a>
 
 <br><br>
 
 <h4> Policies and Helpful Info </h4>
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/drive/folders/1FXUdXWjFEi0GLE-3T4lla1hXIr2670yW?usp=sharing">Coaches Packet</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1B_QA_xZmPuL3p5ZXWZEOfe5NuY2Im7bPj9elCecx1X4/edit?usp=sharing">Homerooms and Team Numbers</a> -->
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/drive/folders/1S1YMMYoan-hnQ5KYI-FpvySmcmTb7j9h?usp=sharing">Coaches Packet</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1fF4G8vO4ATYwSItFGesY_-NwTY0Hr0hyprXqBF1nz2k/edit">Homerooms and Team Numbers</a> -->
 <a class="btn btn-md btn-mid" target="_blank" href="/tournament-policies">2024 Tournament Policies Announcement</a>
 
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Og5nL5fKYhruK7-fapqulQJyaGy1yQvLocAuFsjOcgc/edit?usp=sharing">Food Options</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/13HotOYhJANi3Hjx9B8ZtPxwlffYipdEAAi1xbJaDcpw/edit?usp=sharing">Food Options</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://www.soinc.org/sites/default/files/2023-09/Science_Olympiad_Div_C_Rules_2024_for_Web.pdf">Event Rules</a>
 
 
