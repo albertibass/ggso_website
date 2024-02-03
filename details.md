@@ -19,10 +19,11 @@ permalink: /details/
 <a class="btn btn-md btn-mid" href="/volunteer-bump">Volunteer Bump</a>
 <a class="btn btn-md btn-mid" href="/payment-reminder">Payment</a>
 <a class="btn btn-md btn-mid" href="/volunteer">Volunteering</a> -->
+<a class="btn btn-md btn-mid" href="/tournament-logistics">Tournament Logistics</a>
 <a class="btn btn-md btn-mid" href="/tournament-policies">General Tournament Policies</a>
-<a class="btn btn-md btn-mid" href="/volunteer-applications">Volunteer Applications</a>
-<a class="btn btn-md btn-mid" href="/estc-applications">ES/TC Applications</a>
-<a class="btn btn-md btn-mid" href="/announcement">Tournament Announcement</a>
+<!-- <a class="btn btn-md btn-mid" href="/volunteer-applications">Volunteer Applications</a> -->
+<!-- <a class="btn btn-md btn-mid" href="/estc-applications">ES/TC Applications</a> -->
+<!-- <a class="btn btn-md btn-mid" href="/announcement">Tournament Announcement</a> -->
 
 
 <br><br>
