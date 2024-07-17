@@ -1,13 +1,3 @@
-- name: Nicole Xin
-  position: Executive Director
-  school: Molecular and Cell Biology, Berkeley 2024
-  bio: Hi! I’m Nicole, a SciOly alum of Mountain View High School. Over the past 4 years, SciOly has allowed me to find and develop my passions and closest friendships leaving me with some of my fondest memories. I’m so excited to be able to stay involved with SciOly through GGSO and be able to bring this experience to others!
-  favEvents: Anatomy and Physiology, Microbe Mission
-  funFact: I moved to the Bay Area under the impression that I was only here to visit and attend a summer camp, except it was actually the first day of 4th grade.
-  pic: Nicole_Xin.jpeg
-  id: Nicole_Xin
-  email: nicolexin@berkeley.edu
-
 - name: Flora Huang
   position: Executive Director
   school: Computer Science, Stanford 2025
@@ -88,16 +78,6 @@
   id: Lauren_Lee
   email: lauren-lee@berkeley.edu
 
-- name: William Lee
-  position: Tournament Director
-  school: Computer Science, Berkeley 2026
-  bio: Hi! I'm William, an alum and former captain of Mason High School in Ohio. I'm super excited to (hopefully) see the return of in-person Scioly in college!
-  favEvents: Codebusters, PPP
-  funFact: My Venmo account was frozen the day I created it!
-  pic: William_Lee.jpg
-  id: William_Lee
-  email: williamlee0416@gmail.com
-
 - name: Gwennie Liu
   position: Tournament Director
   school: Bio & Business, Berkeley 2026
@@ -148,5 +128,43 @@
   id: Iona_Xia
   email: ionaxia2013@gmail.com
 
+- name: Cruz Soto
+  position: Tournament Director
+  school: Mechanical Engineering, Stanford PhD
+  bio: Hello all, I'm Cruz, an alum of Edison High School Scioly and MIT AeroAstro & Physics. I've met some of my closest friends and made some of my craziest memories in Scioly over the past decade, and hope that GGSO can help you make some of your own!
+  favEvents: Astronomy, Fossils, Mousetrap Vehicle
+  funFact: I know how to make balloon animals!
+  pic: Cruz_Soto.jpg
+  id: Cruz_Soto
+  email: cruzss@stanford.edu
 
+- name: Serena Yung
+  position: Tournament Director
+  school: Cognitive Science, Berkeley 2027
+  bio: Hello! I'm Serena, a Bronx Science SciOly alum. I loved competing alongside an amazing community and delving into unique subjects. I'm excited to give back to the community through GGSO! Apart from SciOly, I love making videos, dancing, and climbing :)
+  favEvents: Forensics, Anatomy and Physiology
+  funFact: Climbing is how I fractured my first bone :(
+  pic: Serena_Yung.jpg
+  id: Serena_Yung
+  email: serena.yung@berkeley.edu
+
+- name: Maria Dubiel
+  position: Tournament Director
+  school: Astrophysics, Berkeley 2028
+  bio: Hi! I'm Maria, an International Academy Central alum and former captain. My past 3 years in SciOly have allowed me to explore a variety of my STEM interests and exposed me to an amazing community. I'm so excited to continue my SciOly journey as part of the GGSO team!
+  favEvents: Astronomy, Microbe Mission, Fossils
+  funFact: I got randomly put in Astro my first year and it changed my entire career plan
+  pic: Maria_Dubiel.jpg
+  id: Maria_Dubiel
+  email: maria.dubiel@berkeley.edu
+
+- name: Emmanuel Zheng
+  position: Tournament Director
+  school: Stanford 2028
+  bio: Hello! My name is Emmanuel and I'm a Buchholz HS alum. I've had a great time getting to know awesome people and learning new things over the past several years of competing in Science Olympiad, so I'm honored to be able to return as a volunteer.
+  favEvents: Dynamic Planet
+  funFact: Emmanuel Zheng is interested in STEM and has two brothers.
+  pic: Emmanuel_Zheng.jpg
+  id: Emmanuel_Zheng
+  email: ezzheng@stanford.edu
 

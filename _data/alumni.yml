@@ -306,3 +306,23 @@
   pic: Alvin_Xu.jpg
   id: Alvin_Xu
   email: alvin.xu5745@berkeley.edu
+
+- name: Nicole Xin
+  position: Executive Director
+  school: Molecular and Cell Biology, Berkeley 2024
+  bio: Hi! I’m Nicole, a SciOly alum of Mountain View High School. Over the past 4 years, SciOly has allowed me to find and develop my passions and closest friendships leaving me with some of my fondest memories. I’m so excited to be able to stay involved with SciOly through GGSO and be able to bring this experience to others!
+  favEvents: Anatomy and Physiology, Microbe Mission
+  funFact: I moved to the Bay Area under the impression that I was only here to visit and attend a summer camp, except it was actually the first day of 4th grade.
+  pic: Nicole_Xin.jpeg
+  id: Nicole_Xin
+  email: nicolexin@berkeley.edu
+
+- name: William Lee
+  position: Tournament Director
+  school: Computer Science, Berkeley 2026
+  bio: Hi! I'm William, an alum and former captain of Mason High School in Ohio. I'm super excited to (hopefully) see the return of in-person Scioly in college!
+  favEvents: Codebusters, PPP
+  funFact: My Venmo account was frozen the day I created it!
+  pic: William_Lee.jpg
+  id: William_Lee
+  email: williamlee0416@gmail.com
