@@ -1,3 +1,33 @@
+- name: Caitlynn Tran
+  position: Tournament Director
+  school: Chemistry, Stanford 2025
+  bio: Hi! I'm Caitlynn Tran and I am an Irvington High School and Horner Junior High School SciOly alum. I have created some of my fondest memories and developed many of my passions from SciOly. I am excited to still be involved in this amazing community through GGSO and share my love for science with others. 
+  favEvents: Mousetrap Vehicle, Write It Do It, Forensics
+  funFact: I know how to spin flag, rifle, and sabre (though not particularly well for rifle and sabre).
+  pic: Caitlynn_Tran.png
+  id: Caitlynn_Tran
+  email: caitlynn@stanford.edu
+
+- name: Lauren Lee
+  position: Tournament Director
+  school: IEOR, Berkeley 2026
+  bio: Hi! I'm Lauren, a Castro Valley High School alum! I've competed in SciOly for 7 years. From eating instant ramen at every competition to making 5-point font cheatsheets, I’ve made some of my fondest memories as a competitor. GGSO was one of the first invitationals I competed in and I'm excited to give back to the SciOly community!
+  favEvents: Write it Do it, Codebusters
+  funFact: I named both of my hamsters after scientists!
+  pic: Lauren_Lee.jpg
+  id: Lauren_Lee
+  email: lauren-lee@berkeley.edu
+
+- name: Iris Xia
+  position: Tournament Director
+  school: Math & Computational Sciences, Stanford 2024
+  bio: Hi! I'm Iris and I'm a Monta Vista High School and Kennedy Middle School SciOly alumna! Competing in Science Olympiad for the past six years has made a profound impact on my intellectual goals and introduced me to an amazing STEM community. I'm excited to continue sharing my love for SciOly as part of the GGSO team!
+  favEvents: Remote Sensing, Write It Do It, Sounds of Music
+  funFact: Getting subbed last-minute into Meteorology in seventh grade literally shaped my research interests!
+  pic: Iris_Xia.jpg
+  id: Iris_Xia
+  email: irisxia2012@gmail.com
+
 - name: Flora Huang
   position: Executive Director
   school: Computer Science, Stanford 2025
@@ -17,26 +47,6 @@
   pic: Phillip_Liu.png
   id: Phillip_Liu
   email: pliu2@stanford.edu
-
-- name: Iris Xia
-  position: Tournament Director
-  school: Math & Computational Sciences, Stanford 2024
-  bio: Hi! I'm Iris and I'm a Monta Vista High School and Kennedy Middle School SciOly alumna! Competing in Science Olympiad for the past six years has made a profound impact on my intellectual goals and introduced me to an amazing STEM community. I'm excited to continue sharing my love for SciOly as part of the GGSO team!
-  favEvents: Remote Sensing, Write It Do It, Sounds of Music
-  funFact: Getting subbed last-minute into Meteorology in seventh grade literally shaped my research interests!
-  pic: Iris_Xia.jpg
-  id: Iris_Xia
-  email: irisxia2012@gmail.com
-
-- name: Caitlynn Tran
-  position: Tournament Director
-  school: Chemistry, Stanford 2025
-  bio: Hi! I'm Caitlynn Tran and I am an Irvington High School and Horner Junior High School SciOly alum. I have created some of my fondest memories and developed many of my passions from SciOly. I am excited to still be involved in this amazing community through GGSO and share my love for science with others. 
-  favEvents: Mousetrap Vehicle, Write It Do It, Forensics
-  funFact: I know how to spin flag, rifle, and sabre (though not particularly well for rifle and sabre).
-  pic: Caitlynn_Tran.png
-  id: Caitlynn_Tran
-  email: caitlynn@stanford.edu
 
 - name: Albert Wang
   position: Tournament Director
@@ -67,16 +77,6 @@
   pic: Tim_Elnitiarta.jpg
   id: Tim_Elnitiarta
   email: telnitiarta@gmail.com
-
-- name: Lauren Lee
-  position: Tournament Director
-  school: IEOR, Berkeley 2026
-  bio: Hi! I'm Lauren, a Castro Valley High School alum! I've competed in SciOly for 7 years. From eating instant ramen at every competition to making 5-point font cheatsheets, I’ve made some of my fondest memories as a competitor. GGSO was one of the first invitationals I competed in and I'm excited to give back to the SciOly community!
-  favEvents: Write it Do it, Codebusters
-  funFact: I named both of my hamsters after scientists!
-  pic: Lauren_Lee.jpg
-  id: Lauren_Lee
-  email: lauren-lee@berkeley.edu
 
 - name: Gwennie Liu
   position: Tournament Director
