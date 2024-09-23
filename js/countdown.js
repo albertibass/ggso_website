@@ -1,13 +1,15 @@
 $(function(){
 	
 	var note = $('#note'),
-		ts = 1644685200000
+
+		ts = new Date(2025, 2, 22)
+		
 
 	$('#countdown').countdown({
 		timestamp	: ts,
 		callback	: function(days, hours, minutes, seconds){
 			
-			var message = "";
+			var message = "left until the tournament!";
 			
 			message += days + " day" + ( days==1 ? '':'s' ) + ", ";
 			message += hours + " hour" + ( hours==1 ? '':'s' ) + ", ";
