@@ -10,7 +10,7 @@ Golden Gate Science Olympiad was founded in 2015 by Ryan Cohen, Dhruv Puri, Roha
 
 In February 2024, Golden Gate Science Olympiad will be hosting their eighth tournament. This winter, you can look forward to:
 
-*Quality Events.* Each of the 23 Division C national events will be written, run, and reviewed by a past national medalist or national event supervisor. This also means coaches will NOT have to volunteer or write tests for the invitational! Teams will receive copies of the tests and answer keys following the competition.
+*Quality Events.* Each of the 23 Division C national events will be written, run, and reviewed by experienced Science Olympiad alumni. This also means coaches will NOT have to volunteer or write tests for the invitational! Teams will receive copies of the tests and answer keys following the competition.
 
 *Exciting Location.* Our location in the middle of Silicon Valley allows us to invite speakers and hold workshops from ventures across the Bay Area. We hope to capture the unique, vibrant atmosphere of this STEM innovation hub, all within a beautiful day in the sunny state of California.
 
