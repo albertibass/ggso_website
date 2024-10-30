@@ -6,7 +6,7 @@ permalink: /2025-volunteer-applications/
 
 # 2025 Tournament Volunteer Application
 
-Hi GGSO community, 
+Hello GGSO community, 
 
 GGSO will be hosting the 9th annual invitational at UC Berkeley on Saturday, February 22nd, 2025 and we are in need of **volunteers**! <a target="_blank" href="https://forms.gle/S5ErfHsWN2JPSDps6">Sign up here</a>.
 
