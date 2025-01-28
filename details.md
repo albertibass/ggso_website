@@ -29,7 +29,7 @@ permalink: /details/
 <br><br>
 
 <h4> Schedules and Maps </h4>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1gxVAgVjbRbSAiikERalWiqyaS_E6fIj15B3Qfoa2NUM/edit?usp=sharing">Event Schedule</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/1t9wu2wkN_lzYU5jImofAwnHHkH3B0ZJaH22wavbKG3Y/edit?gid=72996862#gid=72996862">Event Schedule</a>
 <!-- <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1qJJzyo8BQPmCtOJEbySli-TzUGC9-2pC/view?usp=sharing">Event Locations</a> -->
 <!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Kp5OvwcZcO8H6DDXTakFtGhLU9Vbai9gtIHdqd4Ff-w/edit?usp=sharing">Day of Schedule</a> -->
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1ipww_9EE4_Ay3UI0MfnX9sybhQ2yGYFJrHSNfhe78YM/edit?usp=sharing">Awards Schedule</a>
