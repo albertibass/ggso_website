@@ -21,10 +21,12 @@ Bioengineering applies engineering principles and practices to living things, to
 
 The Industrial Engineering and Operations Research Department at the University of California at Berkeley teaches students to invent, analyze and learn tools and approaches for design, analysis, risk management, and decision-making in complex real-world systems like supply chains, energy systems, healthcare systems, and financial systems.
 
+<!---
 <br>
 <img class="sponsor" src="/img/sponsor/llnl.gif">
 
 Lawrence Livermore National Laboratory has a mission of strengthening the United States’ security by developing and applying world-class science, technology and engineering that enhances the nation’s defense, reduces the global threat from terrorism and weapons of mass destruction, and responds with vision, quality, integrity and technical excellence to scientific issues of national importance.
+--->
 
 <br>
 <img class="sponsor" src="/img/sponsor/stanford_oso.png">
