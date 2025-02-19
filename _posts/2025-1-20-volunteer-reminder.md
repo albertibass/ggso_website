@@ -4,7 +4,7 @@ title: 2025 Volunteer Application Reminders
 permalink: /2025-volunteer-application-reminders/
 ---
 
-# 2025 Self-Scheduling & Reminders
+# 2025 Volunteer Application Reminders
 
 Hi GGSO Community,
 
