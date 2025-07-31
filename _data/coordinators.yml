@@ -1,12 +1,22 @@
-- name: Caitlynn Tran
+- name: Iona Xia
   position: Executive Director
-  school: Chemistry, Stanford 2025
-  bio: Hi! I'm Caitlynn Tran and I am an Irvington High School and Horner Junior High School SciOly alum. I have created some of my fondest memories and developed many of my passions from SciOly. I am excited to still be involved in this amazing community through GGSO and share my love for science with others. 
-  favEvents: Mousetrap Vehicle, Write It Do It, Forensics
-  funFact: I know how to spin flag, rifle, and sabre (though not particularly well for rifle and sabre).
-  pic: Caitlynn_Tran.png
-  id: Caitlynn_Tran
-  email: caitlynn@stanford.edu
+  school: Undecided, Stanford 2027
+  bio: Hi, I'm Iona and I'm a Monta Vista High School and Kennedy Middle School SciOly alum. Having done SciOly for seven years, it was my first step into the world of STEM and a catalyst for my further exploration in the various fields of science. Furthermore, I've been able to develop various life skills as well as a wonderful community through SciOly, and I'm excited to continue growing this community in GGSO.
+  favEvents: Experimental Design, Forensics, Write It Do It
+  funFact: I was almost not allowed to compete in Write It Do It at nationals because my wristband was too loose.
+  pic: Iona_Xia.JPEG
+  id: Iona_Xia
+  email: ionaxia2013@gmail.com
+
+- name: Annabelle Huang
+  position: Executive Director
+  school: B.A. Molecular and Cell Biology, Berkeley 2027
+  bio: Hi! My name is Annabelle Huang and I’m a Lexington High School alum. I’ve loved competing, coaching, and directing tournaments for SciOly throughout high school. SciOly gave me so many great learning experiences and memories, so I’m really excited to stay involved through GGSO!
+  favEvents: Anatomy and Physiology, Boomilever
+  funFact: I can make balloon animals.
+  pic: Annabelle_Huang.jpg
+  id: Annabelle_Huang
+  email: ayhuang@berkeley.edu
 
 - name: Lauren Lee
   position: Executive Director
@@ -78,16 +88,6 @@
   id: Dawen_Cheng
   email: dawen@stanford.edu
 
-- name: Annabelle Huang
-  position: Tournament Director
-  school: B.A. Molecular and Cell Biology, Berkeley 2027
-  bio: Hi! My name is Annabelle Huang and I’m a Lexington High School alum. I’ve loved competing, coaching, and directing tournaments for SciOly throughout high school. SciOly gave me so many great learning experiences and memories, so I’m really excited to stay involved through GGSO!
-  favEvents: Anatomy and Physiology, Boomilever
-  funFact: I can make balloon animals.
-  pic: Annabelle_Huang.jpg
-  id: Annabelle_Huang
-  email: ayhuang@berkeley.edu
-
 - name: Annabelle Liu
   position: Tournament Director
   school: Civil Engineering, Berkeley 2027
@@ -97,16 +97,6 @@
   pic: Annabelle_Liu.jpg
   id: Annabelle_Liu
   email: annabelleliu@berkeley.edu
-
-- name: Iona Xia
-  position: Tournament Director
-  school: Undecided, Stanford 2027
-  bio: Hi, I'm Iona and I'm a Monta Vista High School and Kennedy Middle School SciOly alum. Having done SciOly for seven years, it was my first step into the world of STEM and a catalyst for my further exploration in the various fields of science. Furthermore, I've been able to develop various life skills as well as a wonderful community through SciOly, and I'm excited to continue growing this community in GGSO.
-  favEvents: Experimental Design, Forensics, Write It Do It
-  funFact: I was almost not allowed to compete in Write It Do It at nationals because my wristband was too loose.
-  pic: Iona_Xia.JPEG
-  id: Iona_Xia
-  email: ionaxia2013@gmail.com
 
 - name: Cruz Soto
   position: Tournament Director
