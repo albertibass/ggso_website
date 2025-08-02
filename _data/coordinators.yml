@@ -110,7 +110,7 @@
 
 - name: Serena Yung
   position: Tournament Director
-  school: Cognitive Science, Berkeley 2027
+  school: Neuroscience, Berkeley 2027
   bio: Hello! I'm Serena, a Bronx Science SciOly alum. I loved competing alongside an amazing community and delving into unique subjects. I'm excited to give back to the community through GGSO! Apart from SciOly, I love making videos, dancing, and climbing :)
   favEvents: Forensics, Anatomy and Physiology
   funFact: Climbing is how I fractured my first bone :(
@@ -138,16 +138,6 @@
   id: Emmanuel_Zheng
   email: ezzheng@stanford.edu
 
-- name: Hanzhen Yu
-  position: Tournament Director
-  school: Berkeley 2029
-  bio:  Hi, I’m Hanzhen, an alumni of Amador Valley High School in Pleasanton, California. Although I only competed for three years, science olympiad has been my most rewarding experience in high school. I love the atmosphere and intensity of the competitions, and I want to give the best experience possible to new generations of Scioly competitors. 
-  favEvents: Forestry, Entomology
-  funFact: I play Geoguessr a lot :)
-  pic: Hanzhen_Yu.jpg
-  id: Hanzhen_Yu
-  email: hanzhen625@berkeley.edu
-
 - name: Joelle Cheeseman
   position: Tournament Director
   school: Stanford 2029
@@ -160,7 +150,7 @@
 
 - name: Vianna Loam
   position: Tournament Director
-  school: Berkeley 2029
+  school: Statistics, Berkeley 2029
   bio:  Helloo! I’m Vianna, and I’m a Scripps Ranch High School alum. Being a part of Science Olympiad for the past 7 years has granted me knowledge and community – and it isn’t something I would trade for the world :) I can’t wait to start this new chapter with all of you at GGSO!
   favEvents: Experimental Design, Codebusters
   funFact: I can whistle both ways!
@@ -168,3 +158,22 @@
   id: Vianna_Loam
   email: v.loam@berkeley.edu
 
+- name: Kaci Morris
+  position: Tournament Director
+  school: Stanford 2029
+  bio:  Hey! My name is Kaci and I'm an alum of New Trier Science Olympiad. Competing in SciOly was easily one of the most rewarding and memorable parts of my high school experience, giving me the chance to explore fields I might never have discovered while making some awesome friends along the way. I'm super excited to help current high schoolers have that same incredible experience! 
+  favEvents: Fossils, Rocks & Minerals
+  funFact: I'm very good at tapping people on the shoulder and pretending it wasn't me.
+  pic: Kaci_Morris.jpg
+  id: Kaci_Morris
+  email: kacim@stanford.edu
+
+- name: Hanzhen Yu
+  position: Tournament Director
+  school: Berkeley 2029
+  bio:  Hi, I’m Hanzhen, an alumni of Amador Valley High School in Pleasanton, California. Although I only competed for three years, science olympiad has been my most rewarding experience in high school. I love the atmosphere and intensity of the competitions, and I want to give the best experience possible to new generations of Scioly competitors. 
+  favEvents: Forestry, Entomology
+  funFact: I play Geoguessr a lot :)
+  pic: Hanzhen_Yu.jpg
+  id: Hanzhen_Yu
+  email: hanzhen625@berkeley.edu
