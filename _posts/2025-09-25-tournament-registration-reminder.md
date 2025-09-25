@@ -1,7 +1,7 @@
 ---
 layout: info
 title: 2026 Tournament Registration Reminder
-permalink: /2026-tournament-registration-bump/
+permalink: /2026-tournament-registration-reminder/
 ---
 
 # 2026 Tournament Registration Reminder
