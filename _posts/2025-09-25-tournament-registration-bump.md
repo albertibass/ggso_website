@@ -8,10 +8,9 @@ permalink: /2026-tournament-registration-bump/
 
 Hi GGSO Community,
 
-This is a reminder that registration for this season’s Golden Gate Invitational ***closes in 2 days, September 27th* at 12:00 PM PDT**, via <a target="_blank" href="https://forms.gle/HxWeZi7rptPjpR6s8">this Google Form</a>. Please note that we are no longer using Scilympiad this year. Head coaches will be emailed regarding the status of their team(s) shortly after registration closes.
+This is a reminder that registration for this season’s Golden Gate Invitational **closes in 2 days, September 27th at 12:00 PM PDT**, via <a target="_blank" href="https://forms.gle/HxWeZi7rptPjpR6s8">this Google Form</a>. Please note that we are no longer using Scilympiad this year. Head coaches will be emailed regarding the status of their team(s) shortly after registration closes.
 
 We understand that our transition from Scilympiad may have caused some confusion in the registration process. Keep an eye out for our **feedback form** in a future email; we’d greatly appreciate your input to ease the process next season. As always, please don't hesitate to reach out with any questions or concerns!
-
 
 **Links**
 <br/>
