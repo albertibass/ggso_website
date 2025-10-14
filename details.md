@@ -51,7 +51,7 @@ permalink: /details/
 
 # Eligibility & Registration Policies
 
-* Teams’ places in the tournament are reserved on a first come, first served basis, provided that the registration fee is received by Golden Gate Science Olympiad by the payment deadline. Teams whose payment is not received by that deadline will forfeit their place to a team on the waitlist. Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
+* The first 50 schools to register, provided that the registration fee is received by Golden Gate Science Olympiad by the payment deadline, are guaranteed one team each. The next 10 spots are available for second teams from those schools, also on a first come, first served basis. After these 60 spots are filled, additional teams will be placed on a waitlist in the order they register, with priority given first to second teams and then to schools beyond the first 50. Teams whose payment is not received by that deadline will forfeit their place to a team on the waitlist. Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
 
 * The Golden Gate Science Olympiad Invitational Tournament is a Division C competition.  All teams must conform to the Science Olympiad Division C membership rules. All students on each team must be eligible to compete for that team as per the eligibility rules specified on soinc.org.
 
