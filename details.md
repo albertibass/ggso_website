@@ -51,7 +51,7 @@ permalink: /details/
 
 # Eligibility & Registration Policies
 
-* Our tournament hosts 60 teams. The first 50 schools to register, with payment received by the deadline, are guaranteed one team each. Remaining spots are allocated in registration order, first to second teams from those schools, then to teams from additional schools. Once all 60 spots are filled, further teams will be placed on a waitlist following the same priority. Teams whose payment is not received by that deadline will forfeit their place to a team on the waitlist. Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
+* Our tournament hosts 60 teams. The first 50 schools to register, provided that the registration fee is received by Golden Gate Science Olympiad by the payment deadline, are guaranteed one team each. Remaining spots are allocated in registration order, first to second teams from those schools, then to teams from additional schools. Once all 60 spots are filled, further teams will be placed on a waitlist following the same priority. Teams whose payment is not received by that deadline will forfeit their place to a team on the waitlist. Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
 
 * The Golden Gate Science Olympiad Invitational Tournament is a Division C competition.  All teams must conform to the Science Olympiad Division C membership rules. All students on each team must be eligible to compete for that team as per the eligibility rules specified on soinc.org.
 
@@ -69,5 +69,5 @@ permalink: /details/
 
 * Unless otherwise stated, the Golden Gate Science Olympiad Invitational Tournament will follow all rules as stated in the printed national rule book and national event clarifications posted here. We will follow all rules and clarifications published by the National Science Olympiad organization.
 
-* For events for which the printed national rule book specifies different rules or content for different levels of competition, the Golden Gate Science Olympiad Invitational Tournament will follow the rules specified for the regional tournament level.
+* For events for which the printed national rule book specifies different rules or content for different levels of competition, the Golden Gate Science Olympiad Invitational Tournament will follow the rules specified for the state tournament level.
 
