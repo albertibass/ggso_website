@@ -48,19 +48,22 @@ permalink: /details/
 
 
 </div> 
-
-# Eligibility & Registration Policies
-
-* Our tournament hosts 60 teams. The first 50 schools to register, provided that the registration fee is received by Golden Gate Science Olympiad by the payment deadline, are guaranteed one team each. Remaining spots are allocated in registration order, first to second teams from those schools, then to teams from additional schools. Once all 60 spots are filled, further teams will be placed on a waitlist following the same priority.
 <!--
-Teams whose payment is not received by that deadline will forfeit their place to a team on the waitlist. Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
+# Eligibility & Registration Policies
 -->
+
+<!--
+* Our tournament hosts 60 teams. The first 50 schools to register, provided that the registration fee is received by Golden Gate Science Olympiad by the payment deadline, are guaranteed one team each. Remaining spots are allocated in registration order, first to second teams from those schools, then to teams from additional schools. Once all 60 spots are filled, further teams will be placed on a waitlist following the same priority.
+
+Teams whose payment is not received by that deadline will forfeit their place to a team on the waitlist. Please contact us at goldengatescioly@gmail.com if meeting the payment deadline may pose a problem for your school.
 
 * The Golden Gate Science Olympiad Invitational Tournament is a Division C competition.  All teams must conform to the Science Olympiad Division C membership rules. All students on each team must be eligible to compete for that team as per the eligibility rules specified on soinc.org.
 
 * All participating students must fill out several waivers and liability releases, which will be distributed to participating teams shortly after registration. 
 
 * Schools must be registered with their home state Science Olympiad organization (and must have paid all applicable state and national fees) prior to competing in the Golden Gate Science Olympiad Invitational Tournament.
+
+-->
 
 <br>
 
