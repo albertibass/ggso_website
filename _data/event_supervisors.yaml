@@ -1,65 +1,110 @@
-- name: Jason Chang
-  school: Mathematics-Computer Science and Aerospace Engineering, UCSD 2026
-  bio: Hi! I'm Jason, a second-year at UCSD studying Math-CS and and Aerospace Engineering. I competed in the build and inquiry events in MS/HS, and my favorite event was Battery Buggy and Trajectory. I occasionally supervise at other competitions nearby as well!
-  role: Air Trajectory, Tower
-  favEvents: Battery Buggy, Trajectory
-  funFact: n/a :(
-  pic: Jason_Chang.jpg
-  id: Jason_Chang
-  
-- name: Ahana Wokhlu
-  school: Psychology & Integrative Biology, Berkeley 2027
-  bio: Hi! I’m Ahana, a second-year Berkeley student studying Psychology and Integrative Biology. I competed in Science Olympiad for Mountain View High School and really enjoyed it, so I’m excited to be an event supervisor this year!
-  role: Anatomy and Physiology
-  favEvents: Anatomy and Physiology
-  funFact: I have an extensive collection of Disney ears.
-  pic: Ahana_Wokhlu.jpg
-  id: Ahana_Wokhlu
+- name: Aadit Abhilash
+  school: Computer Science, Berkeley 2029
+  bio: Hey! I'm Aadit, and I'm an undergrad Computer Science student at Berkeley. Since my freshman year of high school, I’ve competed in Experimental Design, along with other ID and vehicle engineering events at Fairfax High School in Virginia. This is my first year event supervising at GGSO, and I'm really excited to see the creative experiments competitors design and conduct!
+  role: Event Supervisor, Experimental Design
+  favEvents: Experimental Design, Scrambler, Rocks and Minerals
+  funFact: I'm left handed! :D
+  pic: Aadit_Abhilash.jpg
+  id: Aadit_Abhilash
 
-- name: Elaine Qu
-  school: Biochemistry & Biophysics, University of Michigan 2025
-  bio: Hi! I'm Elaine Qu- alum from Troy Athens HS (MI), outreach director at UM Science Olympiad (Go Blue!!!), MI State Board member, and I like biochemistry a normal amount!
-  role: Anatomy and Physiology, Entomology
-  favEvents: Protein Modeling, Protein Modeling, Protein Modeling
-  funFact: I drink my coffee mixed with orange juice
-  pic: Elaine_Qu.png
-  id: Elaine_Qu
+- name: Abraham Zhong
+  school: Computer Science and Mechanical Engineering, Stanford 2029
+  bio: Hi! My name is Abraham and I'm a Mountain View HS SciOly alum. I really enjoyed competing throughout high school and I'm really glad to have met some amazing people through SciOly, and I'm very excited to ES at GGSO!
+  role: Event Supervisor, Helicopter
+  favEvents: Helicopters, Flight, Air Trajectory
+  funFact: Among my collection of stuffed animals I have a crocodile, labubu, and a crocheted cow.
+  pic: Abraham_Zhong.jpg
+  id: Abraham_Zhong
 
-- name: Owen Dong
-  school: Human Biology, UCSD	2027
-  bio: Hi! I'm Owen, an alum of Ward Melville HS. I have competed in SciOly since my first year of middle school and have enjoyed every second of it! I am looking forward to continue giving back to the SciOly and STEM community as an event supervisor at GGSO!
-  role: Anatomy and Physiology
-  favEvents: Anatomy & Physiology, Cell Biology, Wright Stuff
-  funFact: I have an autoimmune disease (womp womp).
-  pic: Owen_Dong.jpg
-  id: Owen_Dong
+- name: Aditi Gupta
+  school: Environmental Economics & Policy, Berkeley 2029
+  bio: hii i'm aditi, proud alum of milpitas high! i've been in scioly all 6 years and am STOKED to write this year
+  role: Event Supervisor, Experimental Design
+  favEvents: Ecology, Experimental Design, Dynamic Planet
+  funFact: I'm a huge 5SOS fan!
+  pic: Aditi_Gupta.jpg
+  id: Aditi_Gupta
 
-- name: Connor Todd
-  school: Space Telescope Science Institute 2020
-  bio: Hello all! I am a Masters student at the University of Michigan, and I'm excited to be back at GGSO co-supervising Astronomy. I love all things space, and am pursuing an M.Eng degree in Space Engineering for this Spring. When I'm not doing Astro stuff, I love running, playing trumpet and reading/writing poetry.
-  role: Astronomy
-  favEvents: Astronomy, GeoLogic Mapping, Remote Sensing
-  funFact: Once on a backpacking trip, my friends and I got stranded in a blizzard in the highest-elevation city in America (Leadville, CO - 10,151 ft).
-  pic: Connor_Todd.jpg
-  id: Connor_Todd
+- name: Advai Srinivasan
+  school: Physics B.S & Materials Science Engineering B.S, UC Irvine 2029
+  bio: Hallo, fellow SciOly-ers! Im Advai, a Mission San Jose alum and a fellow rock licker. I've made a lot of close friends through SciOly, and I hope to help others follow in my footsteps by writing tests that teams can trauma bond over! All jokes aside, I’m excited to meet you all at GGSO!
+  role: Event Supervisor, Rocks and Minerals
+  favEvents: Material Science, Astronomy, Rocks and Minerals
+  funFact: My Fossils partner put a picture of me under the Neanderthals section of our binder...
+  pic: Advai_Srinivasan.jpg
+  id: Advai_Srinivasan
 
-- name: Manank Doshi
-  school: Astrophysics, Berkeley 2028
-  bio: Hi! I'm Manank. I competed for Lynbrook for 4 years and did too many events, but always Astronomy! Scioly helped me choose my major and Scioly is where I made timeless memories with awesome people. GGSO was one of my favorite tournaments and I'm super excited to be back as a supervisor this year! Have fun and good luck!
-  role: Astronomy
-  favEvents: Astronomy, Remote Sensing, Experimental Design
-  funFact: I have a severe addiction to luxury chocolate.
-  pic: Manank_Doshi.jpeg
-  id: Manank_Doshi
+- name: Anton Dao
+  school: Molecular and Cell Biology & Public Health, Berkeley 2027
+  bio:  Hello everyone, I'm Anton! I previously competed in Division C for Pleasant Grove High School in Sacramento, CA. I loved every moment of it, from the intense study/build sessions with friends, to of course, winning well-earned medals for your hard work! I’m looking forward to giving back to the SciOly community as a supervisor for GGSO!
+  role: Event Supervisor, Disease Detectives
+  favEvents: Disease Detectives, Green Generation, Bridge
+  funFact: When I was 11, I o"rescued" (read: kidnapped) a turtle from my local pond to be my pet but it sadly ran away (read: escaped) out of a second-story window after 3 days.
+  pic: Anton_Dao.jpg
+  id: Anton_Dao
 
-- name: Brandon Ha
-  school: Molecular and Cellular Biology, Berkeley 2027
-  bio: Hello! My name is Brandon Ha, and I am an alum of Arcadia High School, where I competed in Science Olympiad for three years. In my free time, I like playing table tennis and chess. Good luck and have fun competing!
-  role: Chemistry Lab
-  favEvents: Chem Lab, Cell Biology, Codebusters
-  funFact: I have a very healthy Brawl Stars addiction.
-  pic: Brandon_Ha.jpg
-  id: Brandon_Ha
+- name: Brenda Mao
+  school: Molecular and Cell Biology + Economics, Berkeley 2029
+  bio: Hi! I'm Brenda, and I'm an alum from Troy High School (in Michigan, not California). I competed in Science Olympiad for eight years, and some of my favorite moments in high school were during SciOly. I'm so excited to be on the administrative side this time around as part of GGSO!
+  role: Event Supervisor, Entomology
+  favEvents: Entomology
+  funFact: I once performed open-heart surgery on a mouse
+  pic: Brenda_Mao.jpg
+  id: Brenda_Mao
+
+- name: Brian Bahr Goldshtein
+  school: Bioengineering, Stanford 2029
+  bio: I have competed in SciOly for 7 years in a variety of Engineering, Biology, and Physics events, and am now an undergraduate researcher in mechanistic cellular biology. I love matcha, play basketball and lift, enjoy hiking and nature, constantly am CADing/Engineering/3d printing, and always love a good Sci Fi or human-behavior book to read. 
+  role: Event Supervisor, Designer Genes
+  favEvents: Disease Detectives, Designer Genes, Cell Biology
+  funFact: I am fluent in 4 languages!
+  pic: Brian_Goldshtein.jpg
+  id: Brian_Goldshtein
+
+- name: Chegu Vijay (Aashray Chegu) Aashray
+  school: nan, Stanford 2028
+  bio: Hello! I'm Aashray (Tesla STEM '24), and I'm a Sophomore studying Geophysics at Stanford! Scioly was one of the best parts of High School, and I'm excited to be writing DP Oceanography this year! Outside of my classes, I prefer reading, hiking, camping, tactically relocating rocks, and writing for USESO.org. See you at Stanford! 
+  role: Event Supervisor, Dynamic Planet
+  favEvents: Dynamic Planet (Tectonics, Oceanography, Glaciers, Hydrology), Remote Sensing/Geologic Mapping,  Rocks and Minerals
+  funFact: Rocks are a healthy snack! Basalt is the best.
+  pic: CheguVijay_Aashray.jpeg
+  id: CheguVijay_Aashray
+
+- name: Eddy Zhao
+  school: Astrophysics + CS, Berkeley 2028
+  bio: Hey everyone! I'm Eddy, an alum of Acton-Boxborough Regional High School, where I captained and specialized in Astronomy, Fermi Questions, and Robot Tour. I'm also on the Science Olympiad at Berkeley Planning Committee, where I run the website and finances. Science Olympiad was my gateway into astrophysics, which I am now majoring in, and STEM in general. I'm excited to contribute to the greatest invitational in the West, one that I was never able to attend!
+  role: Event Supervisor, Astronomy
+  favEvents: Astronomy, Fermi Questions, Codebusters
+  funFact: I'm a top 1,000 ranked fastest typist in the world! (203 wpm)
+  pic: Eddy_Zhao.jpg
+  id: Eddy_Zhao
+
+- name: Eine Youn
+  school: Molecular and Cell Biology, Berkeley 2029
+  bio: Hi! I’m Eine, an alum from Mountain View High School. I competed mostly on bio & inquiry events and had a lot of fun doing Scioly throughout high school, so I’m really excited to ES this year! 
+  role: Event Supervisor, Designer Genes
+  favEvents: Microbe Mission, Write It Do It
+  funFact: Not one, but two different squirrels have managed to accidentally break into my house through our chimney. 
+  pic: Eine_Youn.png
+  id: Eine_Youn
+
+- name: Elena Baraznenok
+  school: Bioengineering, Berkeley PhD
+  bio: Hi! I am an alum of Bothell High School and the University of Washington. My years of competing in SciOly were great so I'm happy to volunteer :) 
+  role: Event Supervisor, Disease Detectives
+  favEvents: Protein Modeling, Disease Detectives, Wright Stuff
+  funFact: I like tea
+  pic: Elena_Baraznenok.jpg
+  id: Elena_Baraznenok
+
+- name: EmJ Rennich
+  school: Mechanical Engineering, Stanford 2028
+  bio: Hi, I’m EmJ! I’m a current PhD student studying bio-inspired robotic design. Originally from Michigan, I competed in Science Olympiad for 11 years, and am a proud alum of University of Michigan Science Olympiad! When I’m not in lab, you’ll probably find me in a makerspace or on top of a mountain :)
+  role: Event Supervisor, Forensics
+  favEvents: Forensics, Engineering CAD, Mission Possible
+  funFact: I love watching professional track and field!
+  pic: EmJ_Rennich.jpg
+  id: EmJ_Rennich
 
 - name: Eric Wu
   school: Chemistry & Math, Berkeley 2027
@@ -69,168 +114,15 @@
   funFact: I have over 100 stuffed animals.
   pic: Eric_Wu.png
   id: Eric_Wu
-  
-- name: Jaina Gandhi
-  school: Molecular & Cellular Biology, Berkeley 2028
-  bio: Hi guys! My name's Jaina and I'm a Milpitas High School & Russell Middle alum. SciOly is my favorite community, largely because of the people. I made some of my best friends and favorite memories through Science Olympiad, and I'm super excited to continue giving back to the SciOly community by test writing and event supervising at GGSO! 
-  role: Codebusters
-  favEvents: Codebusters, Write it Do it, Microbe Mission
-  funFact: I was born in Louisville, Kentucky (but I'm a Californian at heart)
-  pic: Jaina_Gandhi.jpg
-  id: Jaina_Gandhi
 
-- name: Olivia Wang
-  school: Environmental Science, Berkeley 2028
-  bio: Hello, I’m Olivia. I competed in and was the Co-President of Tesla STEM Science Olympiad in Washington. This is my 7th year being involved in Science Olympiad. Traveling and competing in GGSO the last two years with my team was super fun, so I hope everyone has as great a time as I did.
-  role: Codebusters
-  favEvents: Codebusters, Forensics, Green Generation
-  funFact: This summer I climbed the Guiness World Record Tallest indoor artificial climbing wall while I was traveling in China :)
-  pic: Olivia_Wang.jpg
-  id: Olivia_Wang
-
-- name: Andrew Ng
-  school: Physics, Stanford 2027
-  bio: Hello there! I’m Andrew, a junior at Tufts majoring in math and biochem. Outside of Scioly, I like to climb rocks, annoy drivers while biking, ski down or hike up mountains, and cook and eat food :)
-  role: Disease Detectives, Robot Tour
-  favEvents: Disease Detectives, Ping Pong Parachute, Dynamic Planet
-  funFact: I research how zebrafish regenerate their spinal cords!
-  pic: Andrew_Ng.jpeg 
-  id: Andrew_Ng
-
-- name: Garima Upadhyay
-  school: Data Science, Berkeley 2026
-  bio: Hey! I'm Garima, an alum of American High. The last six years of competing in SciOly has resulted in a newfound appreciation for duct tape and an healthy distrust in potato salad. More importantly, however, it has helped me meet some of my closest friends! I'm excited to continue to help foster the community that has given me so much--through GGSO.
-  role: Disease Detectives
-  favEvents: Disease Detectives, Water Quality, Write It Do It
-  funFact: I've (voluntarily) read 100 books in the last two years.
-  pic: Garima_Upadhyay.png
-  id: Garima_Upadhyay
-
-- name: Justin Lee
-  school: Bioengineering, Stanford 2026
-  bio: Hi everyone! I'm Justin, an alum of Woodside High School in the Bay Area. Outside of Scioly, I love doing escape rooms, going to concerts, playing pickleball, and drinking boba. I'm super excited to meet everyone and be an event supervisor this year! 
-  role: Disease Detectives
-  favEvents: Disease Detectives, Anatomy and Physiology
-  funFact: I can recite all of the presidents in order from memory!
-  pic: Justin_Lee.jpg
-  id: Justin_Lee
-
-- name: Natasha Tiwari
-  school: Geology, Geophysics, Berkeley 2028
-  bio: Hey! I’m Natasha, a MHS SciOly alum and a current geology/geophysics major. Much like many of you, I found some of my closest friends and my love for earth science (rock-licking) during all-nighters spent compiling binders and competing. GGSO has always been one of my favorite competitions, so I can’t wait to help make it special for the rest of the community!
-  role: Dynamic Planet, Entomology
-  favEvents: Rocks and Minerals, Fossils, Dynamic Planet
-  funFact: Limón Lays are the best flavor of Lays chips (if you disagree, take a moment to remember that this is a fun FACT 😋)!
-  pic: Natasha_Tiwari.jpg
-  id: Natasha_Tiwari
-
-- name: Sunme Zhao
-  school: Geophysics, Stanford PhD student
-  bio: Hi, I'm Sunme, and I’m an alum of Harriton High School and the University of Pennsylvania. Participating in Science Olympiad is what got me first interested in Earth Sciences in middle school, and I’m looking forward to helping other students build their interests in STEM!
-  role: Dynamic Planet
-  favEvents: Rocks and Minerals, Geologic Mapping, Ornithology
-  funFact: I saw the rarest penguin species in the world while I was studying abroad in New Zealand
-  pic: Sunme_Zhao.jpg
-  id: Sunme_Zhao
-
-- name: Rudy Mahajan
-  school: Chemical Engineering, Berkeley 2027
-  bio: I am a freshman at UC Berkeley majoring in Chemical Engineering and Genetics and Plant Biology. I went to Davis High School and my favorite event was forestry! It motivated me to study plants in college and beyond. My other hobbies are playing the flute, hiking, running, and eating instant pho.
-  role: Ecology
-  favEvents: Forestry, Chem Lab, Rocks and Minerals
-  funFact: I speak Japanese!
-  pic: Rudy_Mahajan.jpg
-  id: Rudy_Mahajan
-
-- name: Nathan Jew
-  school: Mechanical Engineering, Chabot/Las Positas 2027
-  bio: Hey y'all, I'm Nathan and I'm a first year at Chabot/Las Positas on track to graduate in 2027! I'm looking to study mechanical engineering with a concentration in robotics (actuation and controls) and I love listening to various kinds of music, cooking, and learning neat fun facts!
-  role: Electric Vehicle
-  favEvents: Robot Tour, Trajectory, Engineering CAD
-  funFact: My interest in engineering was sparked by Real Steel and Team Fortress 2 when I was in kindergarten
-  pic: Nathan_Jew.jpg
-  id: Nathan_Jew
-
-- name: Ellie Chang
-  school: Microbial Biology, Berkeley 2028
-  bio: Hello, I'm Ellie! I went to Davis Senior High School and competed for four years, creating many wonderful and wacky memories. (SciOly is a rollercoaster of emotions!) I’ve always enjoyed competing at GGSO and I’m excited to be involved on the other side now as an alum. Hope to see you there!
-  role: Entomology, WIDI
-  favEvents: Rocks and Minerals, WIDI, Microbe Mission
-  funFact: GGSO is the single day of the year when I see one of my best friends
-  pic: Ellie_Chang.jpg
-  id: Ellie_Chang
-
-- name: Nina Kini
-  school: Public Health, Berkeley 2027
-  bio: Hi! I'm Nina, and I've spent a ridiculous (in the best way) amount of time in all realms of Scioly- as a competitor, coach, proctor and even working at SoCal Science Olympiad. I loved all of it!!
-  role: Experimental Design
-  favEvents: Experimental Design, Disease Detectives, WIDI
-  funFact: I used to wear chopsticks in my hair during tournaments, and I thought EXPD goggles were a fashion statement.
-  pic: Nina_Kini.png
-  id: Nina_Kini
-
-- name: Neeku Capak
-  school: Math, UCSB 2028
-  bio: Hi! I’m Neeku and I’m a Mountain View High School alumni. I did scioly for all 4 years of high school and did mostly build/inquiry events. In my free time I love to listen to music, play board games, and go to the beach! I loved competing scioly so I'm really excited to ES :)
-  role: Experimental Design
-  favEvents: ExpD, Trajectory, Wind Power
-  funFact: I've competed every type of scioly event (inquiry, lab, build, study, hybrid)
-  pic: Neeku_Capak.png
-  id: Neeku_Capak
-
-- name: Anandita Devata
-  school: Chemical Engineering, Berkeley 2028
-  bio: Hi, I’m Anandita and I’m an alumna of Mission San Jose High School. This is my ninth year in SciOly, but I have other hobbies too – I love baking, singing, and philosophical debates of all sorts. I’m excited to be an event supervisor this year!
-  role: Forensics
-  favEvents: Forensics, Fossils, Write It Do It
-  funFact: I broke my build right before regionals once.
-  pic: Anandita_Devata.jpg
-  id: Anandita_Devata
-
-- name: Ari Ito
-  school: Planetary Science, Berkeley 2028
-  bio: Hello, I'm Ari! I'm a first year at UC Berkeley originally from Honolulu, HI. I've competed in Sci Oly for the past 5 years for 'Iolani School, so I'm excited to be back as an ES for GGSO!  
-  role: Fossils
-  favEvents: Fossils, Astronomy, Rocks and Minerals
-  funFact: At one point, I had 4 pet axolotls.
-  pic: Ari_Ito.jpg
-  id: Ari_Ito
-
-- name: Peter Bennett
-  school: Physics, Stanford 2028
-  bio: Good morning! I'm Peter, formerly of Foothill High School fame. I dabble, most notably in geology, oceanography, cosmology, constitutional law, and yapping. Outside of class, one might find me stealing rocks from the UC Berkeley Botanical Garden or getting $4 chai lattes from CoHo. If you're still reading this, please stop procrastinating your math homework.
-  role: Geomapping
-  favEvents: Geologic Mapping, Fermi Questions, Remote Sensing
-  funFact: In 2018, the entire West Virginia Supreme Court of Appeals was impeached on charges of corruption.
-  pic: Peter_Bennett.jpg
-  id: Peter_Bennett
-
-- name: David Zhou
-  school: Engineering Physics, Stanford 2028
-  bio: Hello! My name is David, and I am currently a freshman at Stanford University. I competed in Science Olympiad for 7 years from my hometown of Lexington, Massachusetts, mainly focusing on Earth and Space science events. Outside of doing STEM, I love hiking, singing, and trying new foods!
-  role: Geomapping
-  favEvents: Dynamic Planet, Fossils, Astronomy
-  funFact: I played competitive chess for 7 years!
-  pic: David_Zhou.jpg
-  id: David_Zhou
-
-- name: Carmen James
-  school: Physics & Astrophysics, Berkeley 2027
-  bio: Hello! I’m Carmen and I’m a Pleasant Grove High School alum from Sacramento, California. I enjoy crocheting, putting on makeup, and playing video games in my spare time. I competed in SciOly for all 4 years of high school. I loved GGSO when I competed with my team, so I’m very excited to give back as an ES!
-  role: Helicopter
-  favEvents: Codebusters, Boomilever, Bridges
-  funFact: I have an evergrowing mug collection!
-  pic: Carmen_James.jpg
-  id: Carmen_James
-
-- name: Calton Kong
-  school: PhD Materials Science and Engineering, Berkeley 2029
-  bio: There are many truths in life, electrochemistry is love, policy is life, and Oski is always watching
-  role: Materials Science
-  favEvents: Optics, Helicopters
-  funFact: Plastic derailleurs are never worth it, I learned that the hard way
-  pic: Calton_Kong.jpg
-  id: Calton_Kong
+- name: Ethan Li
+  school: Economics, Applied Math, Berkeley 2029
+  bio: Hi! I'm Ethan I competed with Troy High School for two years. I like bothering my friends and eating my way across wherever I am. 
+  role: Event Supervisor, Water Quality
+  favEvents: Ecology, Forensics
+  funFact: I love everything performative
+  pic: Ethan_Li.jpg
+  id: Ethan_Li
 
 - name: Franklin Hung
   school: Materials Science and Engineering, Berkeley 2026
@@ -241,41 +133,32 @@
   pic: Franklin_Hung.JPG
   id: Franklin_Hung
 
-- name: Sasha Murray
-  school: Computer Science, Berkeley 2028
-  bio: Hi, I'm Sasha, and I'm a freshman at Cal! I competed for Lower Merion High School in Pennsylvania for 4 years and Bala Cynwyd Middle School for 1 year. Although I mainly did bio events, learning jmol for Protein Modeling influenced me to become a tech bro ;) I'm so excited to meet you all at GGSO this year!
-  role: Microbe Mission
-  favEvents: Protein Modeling, Codebusters, Designer Genes
-  funFact: I eat corn on the cob one row at a time.
-  pic: Sasha_Murray.JPG
-  id: Sasha_Murray
+- name: Isaac Jones
+  school: Electrical Engineering + Computer Science, Berkeley 2028
+  bio: Hi! I'm Isaac :D Proud alum of Milpitas High School--M TOWNNNN!! I love laying back, opening my eyes, and admiring the beauty of the world; and philosophizing about the meaning of life. A good hike, a good view, a good hug, and a good vibe is true happiness for me. I'm also a big math, robotics, aerospace, and video game nerd.
+  role: Event Supervisor, Engineering CAD
+  favEvents: Codebusters, Fermi Questions, Engineering CAD
+  funFact: I am in the top 0.01 PERCENT worldwide of Ed Sheeran listeners. Ask me to name virtually any Ed song and I can do it in < 10 seconds. >:)
+  pic: Isaac_Jones.jpg
+  id: Isaac_Jones
 
-- name: Shalini Aggarwal
-  school: Molecular and Cell Biology, Berkeley 2025
-  bio: Hi, my name is Shal, and I am from Southern California. I last competed in the Science Olympiad back in middle school, but ever since then, I have found my appreciation for all things science. In my free time, I love writing poetry and going on runs.
-  role: Microbe Mission
-  favEvents: Microbe Mission
-  funFact: I have a coaster collection!
-  pic: Shalini_Aggarwal.jpg
-  id: Shalini_Aggarwal
-
-- name: Faith Blea 
-  school: Molecular and Cellular Biology, Berkeley 2026
-  bio: Hi! My name is Faith Blea and I am a Molecular and Cellular Biology student at Berkeley. I have loved science from a young age, my parents are veterinarians and much of my love for life science stems from them! I have loved being involved in Science Olympiad to foster that passion of mine!
-  role: Microbe Mission
-  favEvents: Microbe Mission, Anatomy & Physiology, and 
-  funFact: I was born on Christmas, and until last year I didn't know it was one of the rarest birthdays!
-  pic: Faith_Blea.jpg
-  id: Faith_Blea
-
-- name: Andrew Chen
-  school: Stanford 2026
-  bio: Hi! I'm an alum of Portola High School and Jeffrey Trail Middle School. SciOly was one of the best experiences I've had in middle and high school, so I'm super excited to supervise for GGSO this year.
-  role: Optics
-  favEvents: Fermi Questions, Sounds of Music, Thermodynamics
-  funFact: I play the bass clarinet (no, it's not a saxophone).
-  pic: Andrew_Chen.JPG
-  id: Andrew_Chen
+- name: Jason Chang
+  school: Mathematics-Computer Science and Aerospace Engineering, UCSD 2026
+  bio: Hi! I'm Jason, a second-year at UCSD studying Math-CS and and Aerospace Engineering. I competed in the build and inquiry events in MS/HS, and my favorite event was Battery Buggy and Trajectory. I occasionally supervise at other competitions nearby as well!
+  role: Air Trajectory, Tower
+  favEvents: Battery Buggy, Trajectory
+  funFact: n/a :(
+  pic: Jason_Chang.jpg
+  id: Jason_Chang
+  
+- name: Jareth Gomes
+  school: Computer Science, University of Illinois: Urbana-Champaign 2023
+  bio: Hi! I'm Jareth, and I'm an alum of the University of Illinois: Urbana-Champaign and James B. Conant High School. Currently, I am employed as a Software Engineer at Fortinet. I have competed in SciOly for 6 school years, and have now volunteered and supervised multiple tournaments across Illinois and California.
+  role: Event Supervisor, Robot Tour
+  favEvents: Mousetrap Vehicle, Hovercraft
+  funFact: I like to shoot bow & arrow (archery).
+  pic: Jareth_Gomes.png
+  id: Jareth_Gomes
 
 - name: Jerry Yuan
   school: Physics, Stanford 2027
@@ -286,20 +169,110 @@
   pic: Jerry_Yuan.jpg
   id: Jerry_Yuan
 
-- name: Sukhad Mutatkar
-  school: Chemical Engineering, Material Science and Engineering, Nutrition and Metabolic Biology, Berkeley 2028
-  bio: Hey, my name is Sukhad Mutatkar and I am a Milpitas High School alum. I am planning to major in Chemical Engineering as well as Material Science Engineering and Nutrition and Metabolic Biology. Im excited in being your tower ES and hope you guys all have fun. Outside of Scioly I love playing the drums, going out with my friends and playing sports. 
-  role: Tower
-  favEvents: Fermi Questions, Chem lab, Towers
-  funFact: I am seen in the audience on a Netflix Comedy Special.
-  pic: Sukhad_Mutatkar.jpg
-  id: Sukhad_Mutatkar
-  
+- name: Justin Lee
+  school: Bioengineering, Stanford 2028
+  bio: Hi everyone! I'm Justin, an alum of Woodside High School in the Bay Area. Outside of Scioly, I love going to concerts, playing racket sports, and drinking boba. I'm super excited to meet everyone and be an event supervisor this year!
+  role: Event Supervisor, Designer Genes
+  favEvents: Disease Detectives, Anatomy and Physiology
+  funFact: I can recite all of the presidents in order from memory!
+  pic: Justin_Lee.png
+  id: Justin_Lee
+
+- name: Khush Lalchandani
+  school: Computer Science, Stanford 2029
+  bio: Hey! I’m Khush Lalchandani, a CS student at Stanford. I competed in Science Olympiad for seven years and I am a LASA High School and Kealing Middle School alum. I’m super excited to be supervising at GGSO this year and helping make the tournament an awesome experience for all the teams!
+  role: Event Supervisor, Bungee Drop
+  favEvents: Trajectory, It's About Time, Experimental Design
+  funFact: In my free time, I love playing and watching sports, I also played football in high school.
+  pic: Khush_Lalchandani.jpg
+  id: Khush_Lalchandani
+
+- name: Liz Tsai
+  school: Chemical Engineering, Stanford 2028
+  bio: Liz is a sophomore at Stanford from Taipei, Taiwan. A former Chemistry olympiad competitor, she now frequently appears as ES for Science Olympiad tournaments across the Bay. Outside of labs and competitions, she performs with the Stanford Wind Symphony, takes late-night walks, and explores new cafes for cold brews and matcha.
+  role: Event Supervisor, Chemistry Lab
+  favEvents: Chemistry lab, Disease detectives, Forensics
+  funFact: I only learned how to bike after committing to Stanford.
+  pic: Liz_Tsai.jpg
+  id: Liz_Tsai
+
+- name: Nathan Jew
+  school: Mechanical Engineering, Berkeley 2027
+  bio: Hi y'all, my name is Nathan and I'm a 2nd year Mech E transfer at UC Berkeley formerly from CVHS, and an ES for EV at GGSO! I competed the full 7 years div B and div C and got to attend GGSO twice as a student and it was always one of my favorite tournaments to attend! In my free time I like sidequestmaxxing and exploring new places!
+  role: Event Supervisor, Electric Vehicle
+  favEvents: Trajectory, Robot Tour, Air Trajectory
+  funFact: I am currently working on my skydiving license!
+  pic: Nathan_Jew.jpg
+  id: Nathan_Jew
+
+- name: Nir Shatsky
+  school: Mechanical Engineering, UC, Irvine 2026
+  bio: Hi! I'm a Castro Valley HS alum and currently attend UC, Irvine. This year will be my 3rd year as a GGSO Event Supervisor and I couldn't be more excited to grade everyone's tests!
+  role: Event Supervisor, Machines
+  favEvents: It's About Time, Mystery Architecture, Gravity Vehicle
+  funFact: Probably can't beat me at pool.
+  pic: Nir_Shatsky.jpg
+  id: Nir_Shatsky
+
+- name: Olivia Wang
+  school: Environmental Science, Berkeley 2028
+  bio: Hello, I’m Olivia. I competed in and was the Co-President of Tesla STEM Science Olympiad in Washington. This is my 7th year being involved in Science Olympiad. Traveling and competing in GGSO the last two years with my team was super fun, so I hope everyone has as great a time as I did.
+  role: Codebusters
+  favEvents: Codebusters, Forensics, Green Generation
+  funFact: This summer I climbed the Guiness World Record Tallest indoor artificial climbing wall while I was traveling in China :)
+  pic: Olivia_Wang.jpg
+  id: Olivia_Wang
+
+- name: Priscilla Kang
+  school: Molecular & Cell Biology, Berkeley 2027
+  bio: Hi, I'm Priscilla and I am a previous SciOly at UCSB exec board member. I'm excited to continue volunteering in the Bay with GGSO! 
+  role: Event Supervisor, Robot Tour
+  favEvents: Robot Tour
+  funFact: I'm a big fan of dessert!
+  pic: Priscilla_Kang.jpg
+  id: Priscilla_Kang
+
+- name: Robert Lee
+  school: Aerospace Engineering, Purdue Hopefully soon
+  bio: Hello! I’m Robert, a second year master’s student at Purdue studying astrodynamics. When I have some free time, I enjoy playing badminton, baking banana bread, and gaming on boards.
+  role: Event Supervisor, Machines
+  favEvents: Astronomy, Boomilever, Fermi Questions
+  funFact: My boomilever at GGSO 2020 broke right before 15 kg.
+  pic: Robert_Lee.jpg
+  id: Robert_Lee
+
+- name: Ryan Chang
+  school: Astrioophysics + CS, Berkeley 2029
+  bio: Hey! I'm Ryan and I'm from Centennial High School in Maryland. I competed in a lot of ESS events and Scioly is where I realized my passion for astro!
+  role: Event Supervisor, Astronomy
+  favEvents: Astronomy, Dynamic Planet, Fermi Questions
+  funFact: I can identify every category 5 atlantic hurricane based on their satellite imagery
+  pic: Ryan_Chang.jpeg
+  id: Ryan_Chang
+
 - name: Ryan Lee
-  school: Electrical Engineering, UCLA 2024
-  bio: I'm a Mira Loma SciOly and UCLA EE alum. Competing at SciOly tournaments helped me appreciate a bunch of areas in science, so I'm glad to continue helping out at GGSO.
-  role: Wind Power
-  favEvents: Ornithology, Circuit Lab, WiFi Lab
-  funFact: I like playing League of Legends, drinking boba, rock climbing, and telling lies.
+  school: Electrical Engineering, CU Boulder 2026
+  bio: I'm an RF engineer and a UCLA EE alum. I've been involved with SciOly since my days as a competitor with Mira Loma SciOly, so I'm happy to continue helping out at GGSO as an event supervisor.
+  role: Event Supervisor, Remote Sensing
+  favEvents: Ornithology, WiFi Lab, Astronomy
+  funFact: I was a proud user/survivor of LA public transit for 4 years.
   pic: Ryan_Lee.jpg
   id: Ryan_Lee
+
+- name: Sunme Zhao
+  school: Geophysics, Stanford PhD student
+  bio: Hi, I'm Sunme, and I’m an alum of Harriton High School and the University of Pennsylvania. Participating in Science Olympiad is what got me first interested in Earth Sciences in middle school, and I’m looking forward to helping other students build their interests in STEM!
+  role: Dynamic Planet
+  favEvents: Rocks and Minerals, Geologic Mapping, Ornithology
+  funFact: I saw the rarest penguin species in the world while I was studying abroad in New Zealand
+  pic: Sunme_Zhao.jpg
+  id: Sunme_Zhao
+
+- name: Tony Mei 
+  school: Biomolecular Engineering, UCSC 2027
+  bio: Hello! I'm Tony, an undergrad studying Biomolecular Engineering at UCSC. I previously competed with Castro Valley High School, and am excited to be back with GGSO for a third year. I hope to see you all there!
+  role: Event Supervisor, Bungee Drop
+  favEvents: Bridge, Wifi Lab, Anatomy and Physiology
+  funFact: I once got to pet a giant isopod at an aquarium.
+  pic: Tony_Mei.png
+  id: Tony_Mei
