@@ -41,9 +41,9 @@ permalink: /details/
 <br><br>
 
 <h4> Policies and Helpful Info </h4>
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?usp=sharing">Coaches Packet</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?tab=t.0#heading=h.xc8d02e6iqz4">Homerooms and Team Numbers</a>
-<a class="btn btn-md btn-mid" target="_blank" href="/2025-tournament-details/">2025 Tournament Policies Announcement</a>
+<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?usp=sharing">Coaches Packet</a> -->
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/13BwS3114d_2W2rdAf4Wj8cXTEFh8XwPRMnPAnWADFUo/edit?gid=739523940#gid=739523940">Homerooms and Team Numbers</a>
+<!-- <a class="btn btn-md btn-mid" target="_blank" href="/2025-tournament-details/">2025 Tournament Policies Announcement</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?tab=t.0#heading=h.dyrhzsx4h4i9">Food Options</a> -->
 <a class="btn btn-md btn-mid" target="_blank" href="https://www.soinc.org/sites/default/files/uploaded_files/Science_Olympiad_Div_C_Rules_2026_for_Web_Secured.pdf">Event Rules</a>
 
