@@ -16,9 +16,6 @@ Additionally, self-scheduled event sign-ups open on **Friday, January 9th at 4:0
 
 Please don’t hesitate to reach out with any questions!
 
-Best wishes,
-The GGSO Team
-
 **Links**
 <br/>
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1cleD3_EcOz15C61k1EvFHJCLvN7xlptUl2mB-ZMMrHA/edit?tab=t.0#heading=h.fdt0s45n378q">Submission Instructions</a>

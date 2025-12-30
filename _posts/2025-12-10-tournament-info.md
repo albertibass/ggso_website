@@ -38,9 +38,6 @@ GGSO has a new merchandise store, which is now open and accessible <a target="_b
 
 As always, please feel free to reach out with questions or concerns.
 
-Best wishes,
-The GGSO Team
-
 **Links**
 <br/>
 <a class="btn btn-md btn-mid" target="_blank" href="https://forms.gle/iFnVL1cxF7jy2ZhW8">Submission Form</a>

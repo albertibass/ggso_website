@@ -24,9 +24,6 @@ As a reminder, our form submission deadline is **Wednesday, December 31st, 2025*
 
 We hope you all get some much-needed rest this holiday break. Please don’t hesitate to reach out with any questions!
 
-Best wishes,
-The GGSO Team
-
 **Links**
 <br/>
 <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/16CUxCbM6SXx1ueR1cvqSirnQFZcPC2YJ/view?usp=sharing">GGSO Waiver</a>
