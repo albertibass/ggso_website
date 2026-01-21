@@ -34,7 +34,7 @@ permalink: /details/
 <!-- <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1qJJzyo8BQPmCtOJEbySli-TzUGC9-2pC/view?usp=sharing">Event Locations</a> -->
 <!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Kp5OvwcZcO8H6DDXTakFtGhLU9Vbai9gtIHdqd4Ff-w/edit?usp=sharing">Day of Schedule</a> -->
 <!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?tab=t.0#heading=h.uh4izwsv2r1o">Awards Schedule</a> -->
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?tab=t.0#heading=h.rwkx0bhujpzf">Campus Map</a> -->
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/181RMiFm5rli2ruVsiryNk61Xbt5UcpqE/view?usp=drive_link">Campus Map</a>
 <!-- <a class="btn btn-md btn-mid" target="_blank" href="https://tinyurl.com/ggsomap2025">Digital Map</a> -->
 <!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?tab=t.0#heading=h.wdcs66s1gzbx">Parking Map</a> -->
 
