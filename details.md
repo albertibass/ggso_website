@@ -31,20 +31,20 @@ permalink: /details/
 
 <h4> Schedules and Maps </h4>
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/13BwS3114d_2W2rdAf4Wj8cXTEFh8XwPRMnPAnWADFUo/edit?usp=drive_link">Event Schedule</a>
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1qJJzyo8BQPmCtOJEbySli-TzUGC9-2pC/view?usp=sharing">Event Locations</a> -->
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1Kp5OvwcZcO8H6DDXTakFtGhLU9Vbai9gtIHdqd4Ff-w/edit?usp=sharing">Day of Schedule</a> -->
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?tab=t.0#heading=h.uh4izwsv2r1o">Awards Schedule</a> -->
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1eJzRAeA-_mUvcqyvbOitKmGj471CuKcvoFHvsQkk42Q/edit?tab=t.0#heading=h.i04cnt7oa9cf">Event Locations</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1eJzRAeA-_mUvcqyvbOitKmGj471CuKcvoFHvsQkk42Q/edit?tab=t.0#heading=h.mzu68gq3lndq">Day Schedule</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1eJzRAeA-_mUvcqyvbOitKmGj471CuKcvoFHvsQkk42Q/edit?tab=t.0#heading=h.uh4izwsv2r1o">Awards Schedule</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/181RMiFm5rli2ruVsiryNk61Xbt5UcpqE/view?usp=drive_link">Campus Map</a>
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://tinyurl.com/ggsomap2025">Digital Map</a> -->
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?tab=t.0#heading=h.wdcs66s1gzbx">Parking Map</a> -->
+<a class="btn btn-md btn-mid" target="_blank" href="https://tinyurl.com/ggsomap2026">Digital Map</a>
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1eJzRAeA-_mUvcqyvbOitKmGj471CuKcvoFHvsQkk42Q/edit?tab=t.0#heading=h.wdcs66s1gzbx">Parking Map</a>
 
 <br><br>
 
 <h4> Policies and Helpful Info </h4>
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?usp=sharing">Coaches Packet</a> -->
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1eJzRAeA-_mUvcqyvbOitKmGj471CuKcvoFHvsQkk42Q/edit?usp=sharing">Coaches Packet</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/spreadsheets/d/13BwS3114d_2W2rdAf4Wj8cXTEFh8XwPRMnPAnWADFUo/edit?gid=739523940#gid=739523940">Homerooms and Team Numbers</a>
-<!-- <a class="btn btn-md btn-mid" target="_blank" href="/2025-tournament-details/">2025 Tournament Policies Announcement</a>
-<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1mhtiX4cMUXiIkxNoxLtyM-bLv8mUYvxMYwoPLUTNI6k/preview?tab=t.0#heading=h.dyrhzsx4h4i9">Food Options</a> -->
+<!-- <a class="btn btn-md btn-mid" target="_blank" href="/2025-tournament-details/">2025 Tournament Policies Announcement</a> -->
+<a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1eJzRAeA-_mUvcqyvbOitKmGj471CuKcvoFHvsQkk42Q/edit?tab=t.0#heading=h.dyrhzsx4h4i9">Food Options</a>
 
 
 </div> 
