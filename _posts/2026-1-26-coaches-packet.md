@@ -26,7 +26,7 @@ Remind will be our **primary mode of communication** during tournament day (thou
 
 **See the full <a target="_blank" href="https://docs.google.com/spreadsheets/d/13BwS3114d_2W2rdAf4Wj8cXTEFh8XwPRMnPAnWADFUo/edit?usp=sharing">event schedule</a>** for our impound and block schedule. It will soon contain a new sheet that outlines what times each team is assigned to for self-scheduled events. 
 
-The **<a target="_blank" href="https://docs.google.com/document/d/1eJzRAeA-_mUvcqyvbOitKmGj471CuKcvoFHvsQkk42Q/edit?tab=t.0#heading=h.y8x5m57qrevj">Awards Ceremony</a>** will take place in Memorial Church. **Doors will open at 4:15 PM**, and due to space constraints, **chairs are reserved for competitors and one coach per team only**. The ceremony will conclude by 7:30 PM, after which coaches can pick up graded exams and score sheets from **STLC 111**. 
+The **<a target="_blank" href="https://docs.google.com/document/d/1eJzRAeA-_mUvcqyvbOitKmGj471CuKcvoFHvsQkk42Q/edit?tab=t.0#heading=h.y8x5m57qrevj">Awards Ceremony</a>** will take place in Memorial Church. **Doors will open at 4:15 PM**, and due to space constraints, **chairs are reserved for competitors and one coach per team only**. The ceremony will conclude by 7:30 PM, after which coaches can pick up graded exams and score sheets from **Shriram UTL 112**. 
 
 *Note: Tests will be released to each team following the Awards Ceremony only if homerooms are in satisfactory condition.*
 
@@ -40,7 +40,7 @@ The **event map** can be viewed via the <a target="_blank" href="https://docs.go
 
 **Free WiFi** is available through Stanford Visitor.
 
-Everyone must abide by the **“never alone” policy**, which states that there should never be a minor alone in a room with one adult at any time — nor should a minor ever be forced into a one-on-one situation with a volunteer, event staffer, or other adult. We take this very seriously; if you see a violation of this policy, notify headquarters in STLC 111 immediately.
+Everyone must abide by the **“never alone” policy**, which states that there should never be a minor alone in a room with one adult at any time — nor should a minor ever be forced into a one-on-one situation with a volunteer, event staffer, or other adult. We take this very seriously; if you see a violation of this policy, notify headquarters in Shriram UTL 112 immediately.
 
 **Additionally, here are some details regarding Hovercraft and Helicopter:** 
 * Hovercraft floor materials are glass and tile. 
