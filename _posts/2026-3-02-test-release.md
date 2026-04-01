@@ -8,7 +8,7 @@ permalink: /2026-test-release/
 
 Hi GGSO Community,
 
-We hope you all are doing well! All tests and keys from this year’s tournament have been added to <a target="_blank" href="https://drive.google.com/drive/folders/1R4-rizgBfz9k972vPsltEHWeeBXnggYh?usp=sharing">this Google Drive folder</a> and are now publicly available.
+We hope you all are doing well! All tests and keys from this year’s tournament have been added to <a target="_blank" href="https://drive.google.com/drive/folders/1R4-rizgBfz9k972vPsltEHWeeBXnggYh?usp=sharing">this Google Drive folder</a> and are now publicly available. Additionally, tournament photos are available in href="https://photos.app.goo.gl/sBUdtBKqLfhvASoQ7">this album</a>.
 
 Thanks again for attending the 2026 GGSO Tournament, and we hope to see you all again next year!
 
