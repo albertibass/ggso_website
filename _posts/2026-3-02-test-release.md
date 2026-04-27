@@ -12,9 +12,6 @@ We hope you all are doing well! All tests and keys from this year’s tournament
 
 Thanks again for attending the 2026 GGSO Tournament, and we hope to see you all again next year!
 
-Best wishes, 
-The GGSO Team
-
 **Links**
 <br/>
 <a class="btn btn-md btn-mid" target="_blank" href="https://docs.google.com/document/d/1eJzRAeA-_mUvcqyvbOitKmGj471CuKcvoFHvsQkk42Q/edit?tab=t.0#heading=h.xc8d02e6iqz4">2026 Test Release</a>
