@@ -1,22 +1,22 @@
-- name: Iona Xia
+- name: Maria Dubiel
   position: Executive Director
-  school: Computer Science, Stanford 2027
-  bio: Hi, I'm Iona and I'm a Monta Vista High School and Kennedy Middle School SciOly alum. Having done SciOly for seven years, it was my first step into the world of STEM and a catalyst for my further exploration in the various fields of science. Furthermore, I've been able to develop various life skills as well as a wonderful community through SciOly, and I'm excited to continue growing this community in GGSO.
-  favEvents: Experimental Design, Forensics, Write It Do It
-  funFact: I was almost not allowed to compete in Write It Do It at nationals because my wristband was too loose.
-  pic: Iona_Xia.JPEG
-  id: Iona_Xia
-  email: ionaxia2013@gmail.com
+  school: Astrophysics, Berkeley 2028
+  bio: Hi! I'm Maria, an International Academy Central alum and former captain. My past 3 years in SciOly have allowed me to explore a variety of my STEM interests and exposed me to an amazing community. I'm so excited to continue my SciOly journey as part of the GGSO team!
+  favEvents: Astronomy, Microbe Mission, Fossils
+  funFact: I got randomly put in Astro my first year and it changed my entire career plan
+  pic: Maria_Dubiel.png
+  id: Maria_Dubiel
+  email: maria.dubiel@berkeley.edu
 
-- name: Annabelle Huang
+- name: Emmanuel Zheng
   position: Executive Director
-  school: Molecular and Cell Biology, Berkeley 2027
-  bio: Hi! My name is Annabelle Huang and I’m a Lexington High School alum. I’ve loved competing, coaching, and directing tournaments for SciOly throughout high school. SciOly gave me so many great learning experiences and memories, so I’m really excited to stay involved through GGSO!
-  favEvents: Anatomy and Physiology, Boomilever
-  funFact: I can make balloon animals.
-  pic: Annabelle_Huang.jpg
-  id: Annabelle_Huang
-  email: ayhuang@berkeley.edu
+  school: Physics, Stanford 2028
+  bio: Hello! My name is Emmanuel and I'm a Buchholz HS alum. I've had a great time getting to know awesome people and learning new things over the past several years of competing in Science Olympiad, so I'm honored to be able to return as a volunteer.
+  favEvents: Dynamic Planet
+  funFact: Emmanuel Zheng is interested in STEM and has two brothers.
+  pic: Emmanuel_Zheng.png
+  id: Emmanuel_Zheng
+  email: ezzheng@stanford.edu
 
 - name: Phillip Liu
   position: Tournament Advisor
@@ -38,16 +38,6 @@
   id: Kunal_Arora
   email: arorak@stanford.edu
 
-- name: Tim Elnitiarta
-  position: Tournament Advisor
-  school: Geophysics & Atmospheric Science, Berkeley 2026
-  bio: Hello there! I'm Tim, a Troy HS/Kraemer MS alum. Over my five years of Scioly, I've competed, coached, and directed various tournaments. GGSO is special to me because it was the last in-person tournament I ever competed in. I'm excited to join the team and give others that classic GGSO experience!
-  favEvents: Codebusters, Meteorology, It's About Time
-  funFact: I relied on my circuitry knowledge from my Nerf modding hobby to get through a whole year of Div B Circuit Lab
-  pic: Tim_Elnitiarta.jpg
-  id: Tim_Elnitiarta
-  email: telnitiarta@gmail.com
-
 - name: Lauren Lee
   position: Tournament Director
   school: Industrial Engineering and Operations Research, Berkeley 2026
@@ -58,25 +48,25 @@
   id: Lauren_Lee
   email: lauren-lee@berkeley.edu
 
-- name: Gwennie Liu
+- name: Iona Xia
   position: Tournament Advisor
-  school: Biology & Business, Berkeley 2026
-  bio: Heyo! I’m Gwennie, and I am an alum of Torrey Pines High School in San Diego, California. I have competed in Science Olympiad for 8 years, which has provided me with lifelong friends and many new scientific interests. I’m looking forward to contributing back to the wonderful SciOly community through GGSO!
-  favEvents: Astronomy, Fossils, Rocks and Minerals
-  funFact: I have a stuffed carrot named Seefee. 
-  pic: Gwennie_Liu.jpg
-  id: Gwennie_Liu
-  email: gwennieliu2004@gmail.com
+  school: Computer Science, Stanford 2027
+  bio: Hi, I'm Iona and I'm a Monta Vista High School and Kennedy Middle School SciOly alum. Having done SciOly for seven years, it was my first step into the world of STEM and a catalyst for my further exploration in the various fields of science. Furthermore, I've been able to develop various life skills as well as a wonderful community through SciOly, and I'm excited to continue growing this community in GGSO.
+  favEvents: Experimental Design, Forensics, Write It Do It
+  funFact: I was almost not allowed to compete in Write It Do It at nationals because my wristband was too loose.
+  pic: Iona_Xia.JPEG
+  id: Iona_Xia
+  email: ionaxia2013@gmail.com
 
-- name: Dawen Cheng
-  position: Tournament Director
-  school: Mechanical Engineering, Stanford 2027
-  bio: Hey there! My name is Dawen and I'm currently a freshman at Stanford studying Mechanical Engineering and Political Science. I've competed for a total of 7 years, first for Gallagher Middle School and later for Barrington High School, which are both in the cool state of Rhode Island (do we even exist?)! Two of my favorite things are Science Olympiad and the Golden State Warriors!
-  favEvents: Battery Buggy, Boomilever, Reach for the Stars
-  funFact: Not only had I never competed at GGSO, I had also never visited California (until I committed to Stanford)!
-  pic: Dawen_Cheng.jpg
-  id: Dawen_Cheng
-  email: dawen@stanford.edu
+- name: Annabelle Huang
+  position: Tournament Advisor
+  school: Molecular and Cell Biology, Berkeley 2027
+  bio: Hi! My name is Annabelle Huang and I’m a Lexington High School alum. I’ve loved competing, coaching, and directing tournaments for SciOly throughout high school. SciOly gave me so many great learning experiences and memories, so I’m really excited to stay involved through GGSO!
+  favEvents: Anatomy and Physiology, Boomilever
+  funFact: I can make balloon animals.
+  pic: Annabelle_Huang.jpg
+  id: Annabelle_Huang
+  email: ayhuang@berkeley.edu
 
 - name: Annabelle Liu
   position: Tournament Director
@@ -88,16 +78,6 @@
   id: Annabelle_Liu
   email: annabelleliu@berkeley.edu
 
-- name: Cruz Soto
-  position: Tournament Director
-  school: Mechanical Engineering, Stanford PhD
-  bio: Hello all, I'm Cruz, an alum of Edison High School Scioly and MIT AeroAstro & Physics. I've met some of my closest friends and made some of my craziest memories in Scioly over the past decade, and hope that GGSO can help you make some of your own!
-  favEvents: Astronomy, Fossils, Mousetrap Vehicle
-  funFact: I know how to make balloon animals!
-  pic: Cruz_Soto.jpg
-  id: Cruz_Soto
-  email: cruzss@stanford.edu
-
 - name: Serena Yung
   position: Tournament Director
   school: Neuroscience, Berkeley 2027
@@ -107,26 +87,6 @@
   pic: Serena_Yung.jpg
   id: Serena_Yung
   email: serena.yung@berkeley.edu
-
-- name: Maria Dubiel
-  position: Tournament Director
-  school: Astrophysics, Berkeley 2028
-  bio: Hi! I'm Maria, an International Academy Central alum and former captain. My past 3 years in SciOly have allowed me to explore a variety of my STEM interests and exposed me to an amazing community. I'm so excited to continue my SciOly journey as part of the GGSO team!
-  favEvents: Astronomy, Microbe Mission, Fossils
-  funFact: I got randomly put in Astro my first year and it changed my entire career plan
-  pic: Maria_Dubiel.jpg
-  id: Maria_Dubiel
-  email: maria.dubiel@berkeley.edu
-
-- name: Emmanuel Zheng
-  position: Tournament Director
-  school: Physics, Stanford 2028
-  bio: Hello! My name is Emmanuel and I'm a Buchholz HS alum. I've had a great time getting to know awesome people and learning new things over the past several years of competing in Science Olympiad, so I'm honored to be able to return as a volunteer.
-  favEvents: Dynamic Planet
-  funFact: Emmanuel Zheng is interested in STEM and has two brothers.
-  pic: Emmanuel_Zheng.jpg
-  id: Emmanuel_Zheng
-  email: ezzheng@stanford.edu
 
 - name: Joelle Cheeseman
   position: Tournament Director
@@ -158,12 +118,74 @@
   id: Kaci_Morris
   email: kacim@stanford.edu
 
-- name: Hanzhen Yu
+- name: Fayna Wang
   position: Tournament Director
-  school: Geography, Berkeley 2029
-  bio:  Hi, I’m Hanzhen, an alumni of Amador Valley High School in Pleasanton, California. Although I only competed for three years, science olympiad has been my most rewarding experience in high school. I love the atmosphere and intensity of the competitions, and I want to give the best experience possible to new generations of Scioly competitors. 
-  favEvents: Forestry, Entomology
-  funFact: I play Geoguessr a lot :)
-  pic: Hanzhen_Yu.jpg
-  id: Hanzhen_Yu
-  email: hanzhen625@berkeley.edu
+  school: Bioengineering, Stanford 2030
+  bio: Hi! I'm Fayna, a Jordan High School alumni. My past 7 years in SciOly have garnered me amazing experiences in leading, teaching, tournament directing, event supervising, and research.  I hope to continue creating great memories through GGSO! 
+  favEvents: Forestry, Food Science, Designer Genes
+  funFact: I like eating goldfish snacks for breakfast
+  pic: Fayna_Wang.png
+  id: Fayna_Wang
+
+- name: J Li
+  position: Tournament Director
+  school: Mathematics, Stanford 2030
+  bio: Hey! My name is J and I'm a Mission San Jose HS alum. Competing in SciOly allowed me to build confidence in myself and explore STEM in fun, collaborative fashions. I'm excited to help provide the same learning experience to high schoolers as a part of GGSO!
+  favEvents: It's About Time, Codebusters, Wind Power
+  funFact: My hair is never natural
+  pic: J_Li.png
+  id: J_Li
+
+- name: Rahib Hyder
+  position: Tournament Director
+  school: Chemical Engineering, Berkeley 2030
+  bio: Hiiiii, my name's Rahib and I competed for Lexington High School and Jonas Clarke Middle School. In my 6 years of SciOly, I discovered my love for STEM and also met many of my closest friends. I organized our team’s first trip to GGSO and I’m excited to continue sharing this wonderful tournament with others! 
+  favEvents: Astronomy, Dynamic Planet, Rocks and Minerals
+  funFact: \"rahibibi\", \"rahibaby\", and \"cute little teddy bear\" are NOT nicknames that I support
+  pic: Rahib_Hyder.png
+  id: Rahib_Hyder
+
+- name: Annie Li
+  position: Tournament Director
+  school: Chemical Engineering, Berkeley 2030
+  bio: Hi! I'm Annie, a Mason High School and Middle School Science Olympiad alum. Over the past 6 years through SciOly, I've been able to meet incredible people, discover my interests in STEM, and direct tournaments. I'm super excited to continue my SciOly journey with GGSO and give back to this wonderful community!
+  favEvents: Forensics, Experimental Design
+  funFact: I make a mean bruschetta
+  pic: Annie_Li.png
+  id: Annie_Li
+
+- name: Gloria Luu
+  position: Tournament Director
+  school: Biology, Stanford 2030
+  bio: Hi, I’m Gloria and I’m a Glen A. Wilson HS SciOly Alum! SciOly has allowed me to find my spark in STEM and encourage future generations to do the same. It has given me such an amazing community that I hope to give back to through GGSO! Looking forward to creating new unforgettable memories with GGSO!
+  favEvents: Disease Detectives, Microbe Mission, Bungee Drop
+  funFact: I can’t parallel park
+  pic: Gloria_Luu.png
+  id: Gloria_Luu
+
+- name: Leanna Lo
+  position: Tournament Director
+  school: Energy Science & Engineering, Stanford 2030
+  bio: Hi, I'm Leanna! I previously competed for Sierra Vista MS and Northwood High School, serving as captain of both teams. Through Science Olympiad, I've met some of the most amazing people from across the country and made memories I'll never forget. I'm excited to continue giving back to the community through GGSO and help create those same experiences for others!
+  favEvents: Sounds of Music, Wind Power, EXPD
+  funFact: I've been to 25 national parks! 
+  pic: Leanna_Lo.png
+  id: Leanna_Lo
+
+- name: Pranaya Rishi
+  position: Tournament Director
+  school: Molecular and Cell Biology, Berkeley 2030
+  bio: Hey! I’m Pranaya, an Irvington High School alum. I started Science Olympiad in Division B and stuck with it since! I've loved competing and being president of my high school team. SciOly has given me some of my favorite memories over the years and I’m super excited to continue it through GGSO!
+  favEvents: Chem Lab, Microbe Mission, WIDI
+  funFact: I love taking naps, ice cream, and coffee!
+  pic: Pranaya_Rishi.png
+  id: Pranaya_Rishi
+
+- name: Elena Baraznenok
+  position: Tournament Director
+  school: Bioengineering, Berkeley/UCSF [can say just Berkeley if needed] PhD
+  bio: Hi! I am an alum of Bothell High School, WA and the University of Washington. My years competing in SciOly were great so I'm happy to volunteer :)
+  favEvents: Protein Modeling, Disease Detectives, Wright Stuff
+  funFact: I like tea.
+  pic: Elena_Baraznenok.png
+  id: Elena_Baraznenok

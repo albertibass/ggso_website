@@ -366,3 +366,53 @@
   pic: Flora_Huang.jpg
   id: Flora_Huang
   email: flora221@stanford.edu
+
+- name: Dawen Cheng
+  position: Tournament Director
+  school: Mechanical Engineering, Stanford 2027
+  bio: Hey there! My name is Dawen and I'm currently a freshman at Stanford studying Mechanical Engineering and Political Science. I've competed for a total of 7 years, first for Gallagher Middle School and later for Barrington High School, which are both in the cool state of Rhode Island (do we even exist?)! Two of my favorite things are Science Olympiad and the Golden State Warriors!
+  favEvents: Battery Buggy, Boomilever, Reach for the Stars
+  funFact: Not only had I never competed at GGSO, I had also never visited California (until I committed to Stanford)!
+  pic: Dawen_Cheng.jpg
+  id: Dawen_Cheng
+  email: dawen@stanford.edu
+
+- name: Gwennie Liu
+  position: Tournament Advisor
+  school: Biology & Business, Berkeley 2026
+  bio: Heyo! I’m Gwennie, and I am an alum of Torrey Pines High School in San Diego, California. I have competed in Science Olympiad for 8 years, which has provided me with lifelong friends and many new scientific interests. I’m looking forward to contributing back to the wonderful SciOly community through GGSO!
+  favEvents: Astronomy, Fossils, Rocks and Minerals
+  funFact: I have a stuffed carrot named Seefee. 
+  pic: Gwennie_Liu.jpg
+  id: Gwennie_Liu
+  email: gwennieliu2004@gmail.com
+
+- name: Hanzhen Yu
+  position: Tournament Director
+  school: Geography, Berkeley 2029
+  bio:  Hi, I’m Hanzhen, an alumni of Amador Valley High School in Pleasanton, California. Although I only competed for three years, science olympiad has been my most rewarding experience in high school. I love the atmosphere and intensity of the competitions, and I want to give the best experience possible to new generations of Scioly competitors. 
+  favEvents: Forestry, Entomology
+  funFact: I play Geoguessr a lot :)
+  pic: Hanzhen_Yu.jpg
+  id: Hanzhen_Yu
+  email: hanzhen625@berkeley.edu
+
+- name: Cruz Soto
+  position: Tournament Director
+  school: Mechanical Engineering, Stanford PhD
+  bio: Hello all, I'm Cruz, an alum of Edison High School Scioly and MIT AeroAstro & Physics. I've met some of my closest friends and made some of my craziest memories in Scioly over the past decade, and hope that GGSO can help you make some of your own!
+  favEvents: Astronomy, Fossils, Mousetrap Vehicle
+  funFact: I know how to make balloon animals!
+  pic: Cruz_Soto.jpg
+  id: Cruz_Soto
+  email: cruzss@stanford.edu
+
+- name: Tim Elnitiarta
+  position: Tournament Advisor
+  school: Geophysics & Atmospheric Science, Berkeley 2026
+  bio: Hello there! I'm Tim, a Troy HS/Kraemer MS alum. Over my five years of Scioly, I've competed, coached, and directed various tournaments. GGSO is special to me because it was the last in-person tournament I ever competed in. I'm excited to join the team and give others that classic GGSO experience!
+  favEvents: Codebusters, Meteorology, It's About Time
+  funFact: I relied on my circuitry knowledge from my Nerf modding hobby to get through a whole year of Div B Circuit Lab
+  pic: Tim_Elnitiarta.jpg
+  id: Tim_Elnitiarta
+  email: telnitiarta@gmail.com
