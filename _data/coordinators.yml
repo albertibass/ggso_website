@@ -29,7 +29,7 @@
   email: pliu2@stanford.edu
 
 - name: Kunal Arora
-  position: Tournament Director
+  position: Tournament Advisor
   school: Chemical Engineering, Stanford 2026
   bio: Hi folks! I’m Kunal, a Mason High School and Middle School Science Olympiad alum. Beyond helping to shape my passions and career goals, my SciOly team quickly became a second family after I moved to Ohio. I’m excited to keep giving back to this wonderful community through GGSO!
   favEvents: Forensics, Ornithology, Sounds of Music
@@ -37,16 +37,6 @@
   pic: Kunal_Arora.png
   id: Kunal_Arora
   email: arorak@stanford.edu
-
-- name: Lauren Lee
-  position: Tournament Director
-  school: Industrial Engineering and Operations Research, Berkeley 2026
-  bio: Hi! I'm Lauren, a Castro Valley High School alum! I've competed in SciOly for 7 years. From eating instant ramen at every competition to making 5-point font cheatsheets, I’ve made some of my fondest memories as a competitor. GGSO was one of the first invitationals I competed in and I'm excited to give back to the SciOly community!
-  favEvents: Write it Do it, Codebusters
-  funFact: I love to do jigsaw puzzles!
-  pic: Lauren_Lee.jpg
-  id: Lauren_Lee
-  email: lauren-lee@berkeley.edu
 
 - name: Iona Xia
   position: Tournament Advisor
@@ -81,9 +71,9 @@
 - name: Serena Yung
   position: Tournament Director
   school: Neuroscience, Berkeley 2027
-  bio: Hello! I'm Serena, a Bronx Science SciOly alum. I loved competing alongside an amazing community and delving into unique subjects. I'm excited to give back to the community through GGSO! Apart from SciOly, I love making videos, dancing, and climbing :)
+  bio: Hello! I'm Serena, a Bronx Science SciOly alum. I loved competing alongside an amazing community and delving into unique subjects. I'm excited to give back to the community through GGSO! Outside of SciOly, you can catch me at RSF Combatives drilling some dance :)
   favEvents: Forensics, Anatomy and Physiology
-  funFact: Climbing is how I fractured my first bone :(
+  funFact: I spontaneously road tripped to a cemetery to watch a meteor shower.
   pic: Serena_Yung.jpg
   id: Serena_Yung
   email: serena.yung@berkeley.edu
@@ -183,7 +173,7 @@
 
 - name: Elena Baraznenok
   position: Tournament Director
-  school: Bioengineering, Berkeley/UCSF [can say just Berkeley if needed] PhD
+  school: Bioengineering, Berkeley/UCSF PhD
   bio: Hi! I am an alum of Bothell High School, WA and the University of Washington. My years competing in SciOly were great so I'm happy to volunteer :)
   favEvents: Protein Modeling, Disease Detectives, Wright Stuff
   funFact: I like tea.
