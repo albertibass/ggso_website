@@ -11,7 +11,7 @@ Hi GGSO Community,
 The 11th annual Golden Gate Science Olympiad Invitational will take place on **Sunday, January 31st, 2027, at UC Berkeley**. We have an update on registration and registration fee details. 
 
 <u>Registration Timeline and Form</u><br>
-The <a target="_blank" href="https://forms.gle/VimwxuH4ZWYZdhGo9">Tournament Registration Form</a> will open on **Saturday, September 19th, 2026, at 12:00 PM PDT**. (You can preview the registration form info and questions at this link.) 
+The <a target="_blank" href="https://forms.gle/VimwxuH4ZWYZdhGo9">Tournament Registration Form</a> will open on **Saturday, September 19th, 2026, at 12:00 PM PDT**. (You can <a target="_blank" href="https://drive.google.com/file/d/1NlfW062j8Lh7C8EFEb6RLd5MsG-szMSK/view">preview the registration form info and questions</a> here.) 
 
 Registration will close on **Saturday, September 26th, 2026, at 12:00 PM PDT**. Please note that as of last year, **we no longer use Scilympiad** for any aspect of the GGSO tournament.
 
@@ -39,4 +39,5 @@ As always, please feel free to email us with any questions or concerns!
 <a class="btn btn-md btn-mid" target="_blank" href="https://forms.gle/VimwxuH4ZWYZdhGo9">Tournament Registration Form</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://forms.gle/BdcR2WYp5ZhSUk6z6">Homeroom Supplemental Form</a>
 <a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1gcXOZxAAx0sswuQLmx8zyv2BXLBgtJnf/view?usp=sharing">Preview the supplemental form</a> 
+<a class="btn btn-md btn-mid" target="_blank" href="https://drive.google.com/file/d/1NlfW062j8Lh7C8EFEb6RLd5MsG-szMSK/view">Preview the registration form</a>
 <a class="btn btn-md btn-mid" target="_blank" href="mailto:goldengatescioly@gmail.com">Email Us</a>
